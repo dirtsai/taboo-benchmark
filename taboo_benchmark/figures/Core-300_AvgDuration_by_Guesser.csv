@@ -1,0 +1,5 @@
+guesser_model,avg_duration_s
+gemini-2.5-pro,31.85
+deepseek-v3,12.89
+claude-sonnet-4,12.47
+gpt-4o,10.96

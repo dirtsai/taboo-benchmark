@@ -1,0 +1,161 @@
+﻿game_id,word_index,target_word,part_of_speech,category,hinter_model,guesser_model,success,turns_used,final_guess,failure_reason,duration_seconds,taboo_words
+1,1,遗体,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,3,遗体,成功,10.72,动物|部件|生理学|东西|事物
+2,1,遗体,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,2,遗体,成功,8.53,动物|部件|生理学|东西|事物
+3,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,2,遗体,成功,12.28,动物|部件|生理学|东西|事物
+4,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,遗体,成功,13.11,动物|部件|生理学|东西|事物
+5,2,宣传牌,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [公告栏],6.08,语文|发表|放置|设施|东西
+6,2,宣传牌,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,广告牌,轮数耗尽,24.67,语文|发表|放置|设施|东西
+7,2,宣传牌,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,宣传栏,轮数耗尽,44.53,语文|发表|放置|设施|东西
+8,2,宣传牌,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,4,宣传牌,成功,23.49,语文|发表|放置|设施|东西
+9,3,围墙,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [围墙],3.8,部件|建筑物|东西|事物|物品
+10,3,围墙,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,围墙,成功,2.64,部件|建筑物|东西|事物|物品
+11,3,围墙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [墙],3.62,部件|建筑物|东西|事物|物品
+12,3,围墙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,3,围墙,成功,15.15,部件|建筑物|东西|事物|物品
+13,4,刺梨,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [榴莲],4.04,水果|东西|事物|物品|概念
+14,4,刺梨,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,3,刺梨,成功,16.12,水果|东西|事物|物品|概念
+15,4,刺梨,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [刺梨],7.77,水果|东西|事物|物品|概念
+16,4,刺梨,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,1,刺梨,成功,16.16,水果|东西|事物|物品|概念
+17,5,牛蛙,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,2,牛蛙,成功,5.78,走兽|东西|事物|物品|概念
+18,5,牛蛙,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,2,牛蛙,成功,12.97,走兽|东西|事物|物品|概念
+19,5,牛蛙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,2,牛蛙,成功,6.26,走兽|东西|事物|物品|概念
+20,5,牛蛙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,牛蛙,成功,16.67,走兽|东西|事物|物品|概念
+21,6,礼品包装纸,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,包装纸,轮数耗尽,11.71,材料|物质|包扎|东西|事物
+22,6,礼品包装纸,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,2,礼品包装纸,成功,4.21,材料|物质|包扎|东西|事物
+23,6,礼品包装纸,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,包装纸,轮数耗尽,21.1,材料|物质|包扎|东西|事物
+24,6,礼品包装纸,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,包装纸,轮数耗尽,23.79,材料|物质|包扎|东西|事物
+25,7,空房率,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,空置率,轮数耗尽,13.89,经受|房屋|利用|比率|房间
+26,7,空房率,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,空置率,轮数耗尽,13.19,经受|房屋|利用|比率|房间
+27,7,空房率,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,空置率,轮数耗尽,19.16,经受|房屋|利用|比率|房间
+28,7,空房率,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,空置率,轮数耗尽,39.34,经受|房屋|利用|比率|房间
+29,8,畛,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,边界,轮数耗尽,14.38,界限|实体|道路|东西|事物
+30,8,畛,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,田埂,轮数耗尽,19.34,界限|实体|道路|东西|事物
+31,8,畛,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,4,畛,成功,18.14,界限|实体|道路|东西|事物
+32,8,畛,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,阡陌,轮数耗尽,28.18,界限|实体|道路|东西|事物
+33,9,烤面包,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,面包,轮数耗尽,12.16,食品|东西|事物|物品|概念
+34,9,烤面包,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,3,烤面包机,成功,7.14,食品|东西|事物|物品|概念
+35,9,烤面包,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,吐司,轮数耗尽,22.97,食品|东西|事物|物品|概念
+36,9,烤面包,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,华夫饼,轮数耗尽,17.92,食品|东西|事物|物品|概念
+37,10,一月,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,一月,成功,2.23,时间|特定|东西|事物|物品
+38,10,一月,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,3,一月,成功,10.01,时间|特定|东西|事物|物品
+39,10,一月,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,一月,成功,2.27,时间|特定|东西|事物|物品
+40,10,一月,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,一月,成功,12.2,时间|特定|东西|事物|物品
+41,11,捂住,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,蒙住,轮数耗尽,11.94,遮盖|东西|事物|物品|概念
+42,11,捂住,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,捂住,成功,3.27,遮盖|东西|事物|物品|概念
+43,11,捂住,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,掩,轮数耗尽,30.02,遮盖|东西|事物|物品|概念
+44,11,捂住,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,掩,轮数耗尽,24.22,遮盖|东西|事物|物品|概念
+45,12,告知,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [告知],6.39,告诉|东西|事物|物品|概念
+46,12,告知,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,传达,轮数耗尽,12.73,告诉|东西|事物|物品|概念
+47,12,告知,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [通知],5.09,告诉|东西|事物|物品|概念
+48,12,告知,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,3,告知,成功,12.13,告诉|东西|事物|物品|概念
+49,13,朽坏,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,老化,轮数耗尽,14.17,衰败|东西|事物|物品|概念
+50,13,朽坏,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,枯萎,轮数耗尽,14.26,衰败|东西|事物|物品|概念
+51,13,朽坏,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,腐朽,轮数耗尽,20.78,衰败|东西|事物|物品|概念
+52,13,朽坏,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,5,朽坏,成功,26.26,衰败|东西|事物|物品|概念
+53,14,杜门谢客,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [闭门],8.45,隐秘|活着|东西|事物|物品
+54,14,杜门谢客,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,遁世,轮数耗尽,10.39,隐秘|活着|东西|事物|物品
+55,14,杜门谢客,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [隐士],3.99,隐秘|活着|东西|事物|物品
+56,14,杜门谢客,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,杜门谢客,成功,10.22,隐秘|活着|东西|事物|物品
+57,15,交游,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,圈子,轮数耗尽,8.11,交往|东西|事物|物品|概念
+58,15,交游,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,人脉,轮数耗尽,10.96,交往|东西|事物|物品|概念
+59,15,交游,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,4,交游,成功,24.51,交往|东西|事物|物品|概念
+60,15,交游,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,友谊,轮数耗尽,22.22,交往|东西|事物|物品|概念
+61,16,交流,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,交流,成功,1.84,交换|东西|事物|物品|概念
+62,16,交流,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,交流,成功,3.99,交换|东西|事物|物品|概念
+63,16,交流,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,交流,成功,2.56,交换|东西|事物|物品|概念
+64,16,交流,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,1,交流,成功,2.89,交换|东西|事物|物品|概念
+65,17,任人摆布,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,4,,猜测生成失败: 格式验证失败: [身不由己],7.08,控制|放纵|强迫|遭受|东西
+66,17,任人摆布,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,傀儡,轮数耗尽,14.09,控制|放纵|强迫|遭受|东西
+67,17,任人摆布,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,摆布,轮数耗尽,27.95,控制|放纵|强迫|遭受|东西
+68,17,任人摆布,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,傀儡,轮数耗尽,25.69,控制|放纵|强迫|遭受|东西
+69,18,跌倒,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,跌倒,成功,1.86,东西|事物|物品|概念|内容
+70,18,跌倒,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,2,跌倒,成功,3.14,东西|事物|物品|概念|内容
+71,18,跌倒,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [跌倒],8.95,东西|事物|物品|概念|内容
+72,18,跌倒,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,跌倒,成功,5.42,东西|事物|物品|概念|内容
+73,19,停战,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [和平],8.56,争斗|东西|事物|物品|概念
+74,19,停战,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,2,停战,成功,6.05,争斗|东西|事物|物品|概念
+75,19,停战,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [和平],3.12,争斗|东西|事物|物品|概念
+76,19,停战,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,停战,成功,16.28,争斗|东西|事物|物品|概念
+77,20,百般刁难,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,捉弄,轮数耗尽,9.96,卖力|捣乱|东西|事物|物品
+78,20,百般刁难,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,刁难,轮数耗尽,11.87,卖力|捣乱|东西|事物|物品
+79,20,百般刁难,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [使绊子],6.88,卖力|捣乱|东西|事物|物品
+80,20,百般刁难,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,刁难,轮数耗尽,25.96,卖力|捣乱|东西|事物|物品
+81,21,灰色,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,灰色,成功,2.22,悲观|东西|事物|物品|概念
+82,21,灰色,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,灰色,成功,5.05,悲观|东西|事物|物品|概念
+83,21,灰色,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,灰色,成功,2.46,悲观|东西|事物|物品|概念
+84,21,灰色,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,1,灰色,成功,6.77,悲观|东西|事物|物品|概念
+85,22,眩目,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [刺眼],3.49,东西|事物|物品|概念|内容
+86,22,眩目,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,震撼,轮数耗尽,14.99,东西|事物|物品|概念|内容
+87,22,眩目,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [耀眼],13.82,东西|事物|物品|概念|内容
+88,22,眩目,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,3,眩目,成功,15.33,东西|事物|物品|概念|内容
+89,23,坚贞不屈,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,气节,轮数耗尽,9.06,东西|事物|物品|概念|内容
+90,23,坚贞不屈,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,坚毅,轮数耗尽,16.03,东西|事物|物品|概念|内容
+91,23,坚贞不屈,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,浩然正气,轮数耗尽,25.71,东西|事物|物品|概念|内容
+92,23,坚贞不屈,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,坚贞不屈,成功,11.62,东西|事物|物品|概念|内容
+93,24,正向,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,线索生成失败: 格式验证失败: [好的方面积极的趋势],6.59,东西|事物|物品|概念|内容
+94,24,正向,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,3,,线索生成失败: 格式验证失败: [好的方面积极的趋势],6.44,东西|事物|物品|概念|内容
+95,24,正向,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [正面],9.28,东西|事物|物品|概念|内容
+96,24,正向,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,正,轮数耗尽,25.35,东西|事物|物品|概念|内容
+97,25,身残志坚,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,健全人,轮数耗尽,8.59,坚决|残疾|东西|事物|物品
+98,25,身残志坚,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,刚强,轮数耗尽,15.14,坚决|残疾|东西|事物|物品
+99,25,身残志坚,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,健全,轮数耗尽,15.99,坚决|残疾|东西|事物|物品
+100,25,身残志坚,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,4,,违反禁用词规则: ['残疾'],13.71,坚决|残疾|东西|事物|物品
+101,26,委靡不振,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [萎靡],4.42,消极|东西|事物|物品|概念
+102,26,委靡不振,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,颓废,轮数耗尽,17.65,消极|东西|事物|物品|概念
+103,26,委靡不振,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [萎靡],3.91,消极|东西|事物|物品|概念
+104,26,委靡不振,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,消沉,轮数耗尽,29.56,消极|东西|事物|物品|概念
+105,27,豪放,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,2,豪放,成功,3.73,直率|东西|事物|物品|概念
+106,27,豪放,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,3,豪放,成功,18.81,直率|东西|事物|物品|概念
+107,27,豪放,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,豪放,成功,9.23,直率|东西|事物|物品|概念
+108,27,豪放,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,豪放,成功,11.76,直率|东西|事物|物品|概念
+109,28,热门,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,潮流,轮数耗尽,20.19,东西|事物|物品|概念|内容
+110,28,热门,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,爆款,轮数耗尽,23.2,东西|事物|物品|概念|内容
+111,28,热门,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,4,热门,成功,26.32,东西|事物|物品|概念|内容
+112,28,热门,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,热门,成功,6.74,东西|事物|物品|概念|内容
+113,29,唯独,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [仅仅],13.4,东西|事物|物品|概念|内容
+114,29,唯独,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,唯一,轮数耗尽,20.98,东西|事物|物品|概念|内容
+115,29,唯独,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,唯一,轮数耗尽,41.07,东西|事物|物品|概念|内容
+116,29,唯独,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,独,轮数耗尽,33.08,东西|事物|物品|概念|内容
+117,30,低声,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,4,,猜测生成失败: 格式验证失败: [低语],15.0,东西|事物|物品|概念|内容
+118,30,低声,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,悄悄话,轮数耗尽,19.33,东西|事物|物品|概念|内容
+119,30,低声,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [耳语],6.28,东西|事物|物品|概念|内容
+120,30,低声,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,3,低声,成功,10.18,东西|事物|物品|概念|内容
+121,31,信息匮乏地,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [片面],13.0,信息|不足|东西|事物|物品
+122,31,信息匮乏地,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,肤浅,轮数耗尽,18.4,信息|不足|东西|事物|物品
+123,31,信息匮乏地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [知识盲区],12.72,信息|不足|东西|事物|物品
+124,31,信息匮乏地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,1,,违反禁用词规则: ['信息'],4.96,信息|不足|东西|事物|物品
+125,32,缕缕行行,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,纹理,轮数耗尽,16.45,连续|东西|事物|物品|概念
+126,32,缕缕行行,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,痕迹,轮数耗尽,18.3,连续|东西|事物|物品|概念
+127,32,缕缕行行,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,熙熙攘攘,轮数耗尽,23.57,连续|东西|事物|物品|概念
+128,32,缕缕行行,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,绵绵不绝,轮数耗尽,21.89,连续|东西|事物|物品|概念
+129,33,钦佩地,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,钦佩,轮数耗尽,12.21,友善|东西|事物|物品|概念
+130,33,钦佩地,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,敬重,轮数耗尽,14.71,友善|东西|事物|物品|概念
+131,33,钦佩地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,赞许,轮数耗尽,20.73,友善|东西|事物|物品|概念
+132,33,钦佩地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,景仰,轮数耗尽,28.62,友善|东西|事物|物品|概念
+133,34,毫不,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [彻底],6.94,功能|东西|事物|物品|概念
+134,34,毫不,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,全然,轮数耗尽,13.61,功能|东西|事物|物品|概念
+135,34,毫不,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,丝毫,轮数耗尽,27.17,功能|东西|事物|物品|概念
+136,34,毫不,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,4,毫不,成功,20.28,功能|东西|事物|物品|概念
+137,35,照例,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,照例,成功,2.4,经常|东西|事物|物品|概念
+138,35,照例,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,通常,轮数耗尽,18.28,经常|东西|事物|物品|概念
+139,35,照例,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,惯常,轮数耗尽,16.57,经常|东西|事物|物品|概念
+140,35,照例,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,惯例,轮数耗尽,27.84,经常|东西|事物|物品|概念
+141,36,确切地,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,4,,猜测生成失败: 格式验证失败: [吻合],25.08,精确|东西|事物|物品|概念
+142,36,确切地,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,准确,轮数耗尽,16.15,精确|东西|事物|物品|概念
+143,36,确切地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,准确无误,轮数耗尽,24.13,精确|东西|事物|物品|概念
+144,36,确切地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,精确,轮数耗尽,19.18,精确|东西|事物|物品|概念
+145,37,很遗憾,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,,猜测生成失败: 格式验证失败: [难过],14.67,倒霉|东西|事物|物品|概念
+146,37,很遗憾,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,愧疚,轮数耗尽,14.74,倒霉|东西|事物|物品|概念
+147,37,很遗憾,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,抱歉,轮数耗尽,29.19,倒霉|东西|事物|物品|概念
+148,37,很遗憾,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,抱歉,轮数耗尽,21.13,倒霉|东西|事物|物品|概念
+149,38,何故,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [缘故],5.41,功能|疑问|东西|事物|物品
+150,38,何故,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,原因,轮数耗尽,17.35,功能|疑问|东西|事物|物品
+151,38,何故,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,3,,违反禁用词规则: ['疑问'],14.26,功能|疑问|东西|事物|物品
+152,38,何故,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,4,,违反禁用词规则: ['疑问'],18.2,功能|疑问|东西|事物|物品
+153,39,相应地,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [应对],6.71,一致|东西|事物|物品|概念
+154,39,相应地,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,匹配,轮数耗尽,14.11,一致|东西|事物|物品|概念
+155,39,相应地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [策略],6.25,一致|东西|事物|物品|概念
+156,39,相应地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,,违反禁用词规则: ['一致'],21.45,一致|东西|事物|物品|概念
+157,40,从此,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [开端],4.61,功能|东西|事物|物品|概念
+158,40,从此,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,3,从此,成功,8.85,功能|东西|事物|物品|概念
+159,40,从此,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,以后,轮数耗尽,34.95,功能|东西|事物|物品|概念
+160,40,从此,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,分界线,轮数耗尽,25.06,功能|东西|事物|物品|概念

@@ -1,0 +1,1202 @@
+[
+  {
+    "target": "宣传牌",
+    "part_of_speech": "noun",
+    "taboo": [
+      "语文",
+      "发表",
+      "放置",
+      "设施",
+      "东西"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "畛",
+    "part_of_speech": "noun",
+    "taboo": [
+      "界限",
+      "实体",
+      "道路",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "礼品包装纸",
+    "part_of_speech": "noun",
+    "taboo": [
+      "材料",
+      "物质",
+      "包扎",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "遗体",
+    "part_of_speech": "noun",
+    "taboo": [
+      "动物",
+      "部件",
+      "生理学",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "结缔组织",
+    "part_of_speech": "noun",
+    "taboo": [
+      "动物",
+      "部件",
+      "生理学",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "谷氨酸盐",
+    "part_of_speech": "noun",
+    "taboo": [
+      "化学",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "抹胸",
+    "part_of_speech": "noun",
+    "taboo": [
+      "衣物",
+      "相关",
+      "穿戴",
+      "部件",
+      "女性"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "刺梨",
+    "part_of_speech": "noun",
+    "taboo": [
+      "水果",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "围墙",
+    "part_of_speech": "noun",
+    "taboo": [
+      "部件",
+      "建筑物",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "排水管",
+    "part_of_speech": "noun",
+    "taboo": [
+      "排出",
+      "设施",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "童仆",
+    "part_of_speech": "noun",
+    "taboo": [
+      "少儿",
+      "家庭",
+      "职位",
+      "照料",
+      "东西"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "烤面包",
+    "part_of_speech": "noun",
+    "taboo": [
+      "食品",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "晚车",
+    "part_of_speech": "noun",
+    "taboo": [
+      "时间",
+      "材料",
+      "金属",
+      "道路",
+      "东西"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "行状",
+    "part_of_speech": "noun",
+    "taboo": [
+      "语文",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "空房率",
+    "part_of_speech": "noun",
+    "taboo": [
+      "经受",
+      "房屋",
+      "利用",
+      "比率",
+      "房间"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "根蒂",
+    "part_of_speech": "noun",
+    "taboo": [
+      "部件",
+      "实体",
+      "事件",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "武江区",
+    "part_of_speech": "noun",
+    "taboo": [
+      "地方",
+      "中国",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "功课",
+    "part_of_speech": "noun",
+    "taboo": [
+      "教育",
+      "从事",
+      "学习",
+      "事情",
+      "东西"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "造血作用",
+    "part_of_speech": "noun",
+    "taboo": [
+      "制造",
+      "体液",
+      "动物",
+      "部件",
+      "事情"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "朔日",
+    "part_of_speech": "noun",
+    "taboo": [
+      "时间",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "牛蛙",
+    "part_of_speech": "noun",
+    "taboo": [
+      "走兽",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "一月",
+    "part_of_speech": "noun",
+    "taboo": [
+      "时间",
+      "特定",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "薯片",
+    "part_of_speech": "noun",
+    "taboo": [
+      "食品",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "平阳县",
+    "part_of_speech": "noun",
+    "taboo": [
+      "地方",
+      "中国",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "对手",
+    "part_of_speech": "noun",
+    "taboo": [
+      "较量",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "杜门谢客",
+    "part_of_speech": "verb",
+    "taboo": [
+      "隐秘",
+      "活着",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "朽坏",
+    "part_of_speech": "verb",
+    "taboo": [
+      "衰败",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "捂住",
+    "part_of_speech": "verb",
+    "taboo": [
+      "遮盖",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "交流",
+    "part_of_speech": "verb",
+    "taboo": [
+      "交换",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "折价",
+    "part_of_speech": "verb",
+    "taboo": [
+      "商业",
+      "总计",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "服膺",
+    "part_of_speech": "verb",
+    "taboo": [
+      "记得",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "说得上来",
+    "part_of_speech": "verb",
+    "taboo": [
+      "知道",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "值得一提",
+    "part_of_speech": "verb",
+    "taboo": [
+      "值得",
+      "提及",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "夸张地说",
+    "part_of_speech": "verb",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "如泣如诉",
+    "part_of_speech": "verb",
+    "taboo": [
+      "悲哀",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "跌倒",
+    "part_of_speech": "verb",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "停战",
+    "part_of_speech": "verb",
+    "taboo": [
+      "争斗",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "分析",
+    "part_of_speech": "verb",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "附加收费",
+    "part_of_speech": "verb",
+    "taboo": [
+      "提出",
+      "价格",
+      "商业",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "实现自我",
+    "part_of_speech": "verb",
+    "taboo": [
+      "成功",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "弃船",
+    "part_of_speech": "verb",
+    "taboo": [
+      "放弃",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "扣压",
+    "part_of_speech": "verb",
+    "taboo": [
+      "扣住",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "渐臻",
+    "part_of_speech": "verb",
+    "taboo": [
+      "渐进",
+      "实现",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "告知",
+    "part_of_speech": "verb",
+    "taboo": [
+      "告诉",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "蒙冤受屈",
+    "part_of_speech": "verb",
+    "taboo": [
+      "遭受",
+      "慢待",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "百般刁难",
+    "part_of_speech": "verb",
+    "taboo": [
+      "卖力",
+      "捣乱",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "交游",
+    "part_of_speech": "verb",
+    "taboo": [
+      "交往",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "任人摆布",
+    "part_of_speech": "verb",
+    "taboo": [
+      "控制",
+      "放纵",
+      "强迫",
+      "遭受",
+      "东西"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "旧事重提",
+    "part_of_speech": "verb",
+    "taboo": [
+      "提出",
+      "过去",
+      "事情",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "盗窃店铺",
+    "part_of_speech": "verb",
+    "taboo": [
+      "场所",
+      "商业",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "不能分解",
+    "part_of_speech": "adj",
+    "taboo": [
+      "拆卸",
+      "不会",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "香纯",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "非保密",
+    "part_of_speech": "adj",
+    "taboo": [
+      "机密",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "缜",
+    "part_of_speech": "adj",
+    "taboo": [
+      "细心",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "低声",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "计费",
+    "part_of_speech": "adj",
+    "taboo": [
+      "酬金",
+      "特性",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "唯独",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "发急",
+    "part_of_speech": "adj",
+    "taboo": [
+      "急切",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "眩目",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "可被引起",
+    "part_of_speech": "adj",
+    "taboo": [
+      "导致",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "热门",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "死沉沉",
+    "part_of_speech": "adj",
+    "taboo": [
+      "消极",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "折磨人",
+    "part_of_speech": "adj",
+    "taboo": [
+      "悲惨",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "身残志坚",
+    "part_of_speech": "adj",
+    "taboo": [
+      "坚决",
+      "残疾",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "豪放",
+    "part_of_speech": "adj",
+    "taboo": [
+      "直率",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "婷",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "够水平",
+    "part_of_speech": "adj",
+    "taboo": [
+      "合格",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "灰色",
+    "part_of_speech": "adj",
+    "taboo": [
+      "悲观",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "具有再生性",
+    "part_of_speech": "adj",
+    "taboo": [
+      "复原",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "坚贞不屈",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "活活",
+    "part_of_speech": "adj",
+    "taboo": [
+      "生命",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "微",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "委靡不振",
+    "part_of_speech": "adj",
+    "taboo": [
+      "消极",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "谠",
+    "part_of_speech": "adj",
+    "taboo": [
+      "直率",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "正向",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "或多或少地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "相应地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "一致",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "多久",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "疑问",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "连",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "连续",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "当然",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "照例",
+    "part_of_speech": "adv",
+    "taboo": [
+      "经常",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "信息匮乏地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "信息",
+      "不足",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "数量上",
+    "part_of_speech": "adv",
+    "taboo": [
+      "多少",
+      "实体",
+      "特性",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "不单",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "确切地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "精确",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "总是",
+    "part_of_speech": "adv",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "毫不",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "愚笨地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "一天天",
+    "part_of_speech": "adv",
+    "taboo": [
+      "时间",
+      "渐进",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "钦佩地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "友善",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "据称",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "很遗憾",
+    "part_of_speech": "adv",
+    "taboo": [
+      "倒霉",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "缕缕行行",
+    "part_of_speech": "adv",
+    "taboo": [
+      "连续",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "从此",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "耐心地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "耐性",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "长达",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "难理解地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "领会",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "由此以下",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "居然",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general"
+  },
+  {
+    "target": "何故",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "疑问",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general"
+  }
+]

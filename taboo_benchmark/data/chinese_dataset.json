@@ -1,0 +1,2988 @@
+[
+  {
+    "target": "宣传牌",
+    "part_of_speech": "noun",
+    "taboo": [
+      "语文",
+      "发表",
+      "放置",
+      "设施",
+      "东西"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "宣传牌",
+        "en_word": "bulletin board",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{facilities|设施:{put|放置:LocationFin={~},patient={text|语文:{announce|发表:instrument={~}}}}}",
+        "No": "000000104965",
+        "sememes": "[facilities|设施, put|放置, text|语文, announce|发表]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "畛",
+    "part_of_speech": "noun",
+    "taboo": [
+      "界限",
+      "实体",
+      "道路",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "畛",
+        "en_word": "boundary",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{Boundary|界限:host={entity|实体}}",
+        "No": "000000208752",
+        "sememes": "[Boundary|界限, entity|实体]"
+      },
+      {
+        "zh_word": "畛",
+        "en_word": "raised paths between fields",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{route|道路}",
+        "No": "000000208753",
+        "sememes": "[route|道路]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "礼品包装纸",
+    "part_of_speech": "noun",
+    "taboo": [
+      "材料",
+      "物质",
+      "包扎",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "礼品包装纸",
+        "en_word": "gift wrap",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{material|材料:{wrap|包扎:instrument={~},patient={physical|物质:{GiveAsGift|赠:possession={~}}}}}",
+        "No": "000000217340",
+        "sememes": "[material|材料, wrap|包扎, physical|物质, GiveAsGift|赠]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "遗体",
+    "part_of_speech": "noun",
+    "taboo": [
+      "动物",
+      "部件",
+      "生理学",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "遗体",
+        "en_word": "body",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{part|部件:PartPosition={body|身},domain={physiology|生理学},whole={AnimalHuman|动物:{die|死:experiencer={~}}}}",
+        "No": "000000273198",
+        "sememes": "[part|部件, body|身, physiology|生理学, AnimalHuman|动物, die|死]"
+      },
+      {
+        "zh_word": "遗体",
+        "en_word": "remains of the dead",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{part|部件:PartPosition={body|身},domain={physiology|生理学},whole={AnimalHuman|动物:{die|死:experiencer={~}}}}",
+        "No": "000000273201",
+        "sememes": "[part|部件, body|身, physiology|生理学, AnimalHuman|动物, die|死]"
+      },
+      {
+        "zh_word": "遗体",
+        "en_word": "reliquiae",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{part|部件:PartPosition={body|身},domain={physiology|生理学},whole={AnimalHuman|动物:{die|死:experiencer={~}}}}",
+        "No": "000000273199",
+        "sememes": "[part|部件, body|身, physiology|生理学, AnimalHuman|动物, die|死]"
+      },
+      {
+        "zh_word": "遗体",
+        "en_word": "remains",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{part|部件:PartPosition={body|身},domain={physiology|生理学},whole={AnimalHuman|动物:{die|死:experiencer={~}}}}",
+        "No": "000000273200",
+        "sememes": "[part|部件, body|身, physiology|生理学, AnimalHuman|动物, die|死]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "结缔组织",
+    "part_of_speech": "noun",
+    "taboo": [
+      "动物",
+      "部件",
+      "生理学",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "结缔组织",
+        "en_word": "connective tissue",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{part|部件:PartPosition={flesh|肉},domain={physiology|生理学},whole={AnimalHuman|动物}}",
+        "No": "000000229845",
+        "sememes": "[part|部件, flesh|肉, physiology|生理学, AnimalHuman|动物]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "谷氨酸盐",
+    "part_of_speech": "noun",
+    "taboo": [
+      "化学",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "谷氨酸盐",
+        "en_word": "glutamate",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{chemical|化学物}",
+        "No": "000000259900",
+        "sememes": "[chemical|化学物]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "抹胸",
+    "part_of_speech": "noun",
+    "taboo": [
+      "衣物",
+      "相关",
+      "穿戴",
+      "部件",
+      "女性"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "抹胸",
+        "en_word": "bandeaux top",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{clothing|衣物:modifier={feminine|与女性相关},{PutOn|穿戴:instrument={~},location={part|部件:PartPosition={body|身},whole={human|人}}}}",
+        "No": "000000139990",
+        "sememes": "[clothing|衣物, feminine|与女性相关, PutOn|穿戴, part|部件, body|身, human|人]"
+      },
+      {
+        "zh_word": "抹胸",
+        "en_word": "underbodice",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{clothing|衣物:modifier={feminine|与女性相关},{PutOn|穿戴:instrument={~},location={part|部件:PartPosition={body|身},whole={human|人}}}}",
+        "No": "000000139992",
+        "sememes": "[clothing|衣物, feminine|与女性相关, PutOn|穿戴, part|部件, body|身, human|人]"
+      },
+      {
+        "zh_word": "抹胸",
+        "en_word": "camisole",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{clothing|衣物:modifier={feminine|与女性相关},{PutOn|穿戴:instrument={~},location={part|部件:PartPosition={body|身},whole={human|人}}}}",
+        "No": "000000139991",
+        "sememes": "[clothing|衣物, feminine|与女性相关, PutOn|穿戴, part|部件, body|身, human|人]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "刺梨",
+    "part_of_speech": "noun",
+    "taboo": [
+      "水果",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "刺梨",
+        "en_word": "roxburgh rose",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fruit|水果}",
+        "No": "000000058809",
+        "sememes": "[fruit|水果]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "围墙",
+    "part_of_speech": "noun",
+    "taboo": [
+      "部件",
+      "建筑物",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "围墙",
+        "en_word": "enclosure",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{part|部件:PartPosition={skin|皮},whole={building|建筑物}}",
+        "No": "000000085440",
+        "sememes": "[part|部件, skin|皮, building|建筑物]"
+      },
+      {
+        "zh_word": "围墙",
+        "en_word": "enclosing wall",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{part|部件:PartPosition={skin|皮},whole={building|建筑物}}",
+        "No": "000000085439",
+        "sememes": "[part|部件, skin|皮, building|建筑物]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "排水管",
+    "part_of_speech": "noun",
+    "taboo": [
+      "排出",
+      "设施",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "排水管",
+        "en_word": "watershoot",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{facilities|设施:modifier={linear|线},{drain|排出:instrument={~},patient={water|水}}}",
+        "No": "000000144358",
+        "sememes": "[facilities|设施, linear|线, drain|排出, water|水]"
+      },
+      {
+        "zh_word": "排水管",
+        "en_word": "drain pipe",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{facilities|设施:modifier={linear|线},{drain|排出:instrument={~},patient={water|水}}}",
+        "No": "000000144357",
+        "sememes": "[facilities|设施, linear|线, drain|排出, water|水]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "烤面包",
+    "part_of_speech": "noun",
+    "taboo": [
+      "食品",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "烤面包",
+        "en_word": "toast",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{food|食品}",
+        "No": "000000198741",
+        "sememes": "[food|食品]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+
+  {
+    "target": "空房率",
+    "part_of_speech": "noun",
+    "taboo": [
+      "经受",
+      "房屋",
+      "利用",
+      "比率",
+      "房间"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "空房率",
+        "en_word": "vacancy rate",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{Rate|比率:host={house|房屋}{room|房间},scope={undergo|经受:adjunct={neg|否},content={use|利用}}}",
+        "No": "000000221220",
+        "sememes": "[Rate|比率, house|房屋, room|房间, undergo|经受, neg|否, use|利用]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "根蒂",
+    "part_of_speech": "noun",
+    "taboo": [
+      "部件",
+      "实体",
+      "事件",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "根蒂",
+        "en_word": "origin",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{part|部件:PartPosition={base|根},whole={entity|实体}{event|事件}}",
+        "No": "000000167051",
+        "sememes": "[part|部件, base|根, entity|实体, event|事件]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "功课",
+    "part_of_speech": "noun",
+    "taboo": [
+      "教育",
+      "从事",
+      "学习",
+      "事情",
+      "东西"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "功课",
+        "en_word": "homework",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:{engage|从事:TimeAfter={fact|事情:CoEvent={study|学习}{teach|教},domain={education|教育}},content={~}}}",
+        "No": "000000060429",
+        "sememes": "[fact|事情, engage|从事, fact|事情, study|学习, teach|教, education|教育]"
+      },
+      {
+        "zh_word": "功课",
+        "en_word": "schoolwork",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={study|学习}{teach|教},domain={education|教育}}",
+        "No": "000000060428",
+        "sememes": "[fact|事情, study|学习, teach|教, education|教育]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "造血作用",
+    "part_of_speech": "noun",
+    "taboo": [
+      "制造",
+      "体液",
+      "动物",
+      "部件",
+      "事情"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "造血作用",
+        "en_word": "haematopoietic",
+        "zh_grammar": "noun",
+        "en_grammar": "adj",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272664",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "hemogenesis",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272672",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "haemopoietic",
+        "zh_grammar": "noun",
+        "en_grammar": "adj",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272667",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "haematogenic",
+        "zh_grammar": "noun",
+        "en_grammar": "adj",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272662",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "hematopoiesis",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272670",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "sanguification",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272675",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "haemogenesis",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272665",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "hemopoiesis",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272673",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "hematogenic",
+        "zh_grammar": "noun",
+        "en_grammar": "adj",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272669",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "hemopoietic",
+        "zh_grammar": "noun",
+        "en_grammar": "adj",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272674",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "hematogenesis",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272668",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "haematopoiesis",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272663",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "hematopoietic",
+        "zh_grammar": "noun",
+        "en_grammar": "adj",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272671",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "haemopoiesis",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272666",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      },
+      {
+        "zh_word": "造血作用",
+        "en_word": "haematogenesis",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{fact|事情:CoEvent={produce|制造:PatientProduct={part|部件:PartPosition={BodyFluid|体液},modifier={red|红},whole={AnimalHuman|动物}}}}",
+        "No": "000000272661",
+        "sememes": "[fact|事情, produce|制造, part|部件, BodyFluid|体液, red|红, AnimalHuman|动物]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 15,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "朔日",
+    "part_of_speech": "noun",
+    "taboo": [
+      "时间",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "朔日",
+        "en_word": "first day of the lunar month",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{time|时间:TimeSect={day|日}}",
+        "No": "000000161314",
+        "sememes": "[time|时间, day|日]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "牛蛙",
+    "part_of_speech": "noun",
+    "taboo": [
+      "走兽",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "牛蛙",
+        "en_word": "bullfrog",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{beast|走兽}",
+        "No": "000000201465",
+        "sememes": "[beast|走兽]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "一月",
+    "part_of_speech": "noun",
+    "taboo": [
+      "时间",
+      "特定",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "一月",
+        "en_word": "January",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{time|时间:TimeSect={month|月},modifier={specific|特定}}",
+        "No": "000000017985",
+        "sememes": "[time|时间, month|月, specific|特定]"
+      },
+      {
+        "zh_word": "一月",
+        "en_word": "Jan",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{time|时间:TimeSect={month|月},modifier={specific|特定}}",
+        "No": "000000017984",
+        "sememes": "[time|时间, month|月, specific|特定]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "薯片",
+    "part_of_speech": "noun",
+    "taboo": [
+      "食品",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "薯片",
+        "en_word": "chips",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{food|食品}",
+        "No": "000000248259",
+        "sememes": "[food|食品]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "对手",
+    "part_of_speech": "noun",
+    "taboo": [
+      "较量",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "对手",
+        "en_word": "rival",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{human|人:{HaveContest|较量:partner={~}}}",
+        "No": "000000106988",
+        "sememes": "[human|人, HaveContest|较量]"
+      },
+      {
+        "zh_word": "对手",
+        "en_word": "equal",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{human|人:{HaveContest|较量:partner={~}}}",
+        "No": "000000106985",
+        "sememes": "[human|人, HaveContest|较量]"
+      },
+      {
+        "zh_word": "对手",
+        "en_word": "adversary",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{human|人:{HaveContest|较量:partner={~}}}",
+        "No": "000000106981",
+        "sememes": "[human|人, HaveContest|较量]"
+      },
+      {
+        "zh_word": "对手",
+        "en_word": "competitor",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{human|人:{HaveContest|较量:partner={~}}}",
+        "No": "000000106982",
+        "sememes": "[human|人, HaveContest|较量]"
+      },
+      {
+        "zh_word": "对手",
+        "en_word": "match",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{human|人:{HaveContest|较量:partner={~}}}",
+        "No": "000000106986",
+        "sememes": "[human|人, HaveContest|较量]"
+      },
+      {
+        "zh_word": "对手",
+        "en_word": "contender",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{human|人:{HaveContest|较量:partner={~}}}",
+        "No": "000000106983",
+        "sememes": "[human|人, HaveContest|较量]"
+      },
+      {
+        "zh_word": "对手",
+        "en_word": "opponent",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{human|人:{HaveContest|较量:partner={~}}}",
+        "No": "000000106987",
+        "sememes": "[human|人, HaveContest|较量]"
+      },
+      {
+        "zh_word": "对手",
+        "en_word": "counterpart",
+        "zh_grammar": "noun",
+        "en_grammar": "noun",
+        "Def": "{human|人:{HaveContest|较量:partner={~}}}",
+        "No": "000000106984",
+        "sememes": "[human|人, HaveContest|较量]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 8,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "杜门谢客",
+    "part_of_speech": "verb",
+    "taboo": [
+      "隐秘",
+      "活着",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "杜门谢客",
+        "en_word": "live in seclusion",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{alive|活着:manner={reside|住下:manner={covert|隐秘}}}",
+        "No": "000000163244",
+        "sememes": "[alive|活着, reside|住下, covert|隐秘]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "朽坏",
+    "part_of_speech": "verb",
+    "taboo": [
+      "衰败",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "朽坏",
+        "en_word": "decayed",
+        "zh_grammar": "verb",
+        "en_grammar": "adj",
+        "Def": "{decline|衰败}",
+        "No": "000000162724",
+        "sememes": "[decline|衰败]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "捂住",
+    "part_of_speech": "verb",
+    "taboo": [
+      "遮盖",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "捂住",
+        "en_word": "muffle",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{cover|遮盖}",
+        "No": "000000143292",
+        "sememes": "[cover|遮盖]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "交流",
+    "part_of_speech": "verb",
+    "taboo": [
+      "交换",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "交流",
+        "en_word": "exchange",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{communicate|交流}",
+        "No": "000000037025",
+        "sememes": "[communicate|交流]"
+      },
+      {
+        "zh_word": "交流",
+        "en_word": "interflow",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{exchange|交换}",
+        "No": "000000037029",
+        "sememes": "[exchange|交换]"
+      },
+      {
+        "zh_word": "交流",
+        "en_word": "interfluent",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{PropertyValue|特性值:scope={electricity|电}}",
+        "No": "000000037022",
+        "sememes": "[PropertyValue|特性值, electricity|电]"
+      },
+      {
+        "zh_word": "交流",
+        "en_word": "exchange",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{communicate|交流}",
+        "No": "000000037026",
+        "sememes": "[communicate|交流]"
+      },
+      {
+        "zh_word": "交流",
+        "en_word": "communicate",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{communicate|交流}",
+        "No": "000000037023",
+        "sememes": "[communicate|交流]"
+      },
+      {
+        "zh_word": "交流",
+        "en_word": "interflow",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{communicate|交流}",
+        "No": "000000037027",
+        "sememes": "[communicate|交流]"
+      },
+      {
+        "zh_word": "交流",
+        "en_word": "communication",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{communicate|交流}",
+        "No": "000000037024",
+        "sememes": "[communicate|交流]"
+      },
+      {
+        "zh_word": "交流",
+        "en_word": "alternating",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{PropertyValue|特性值:scope={electricity|电}}",
+        "No": "000000037021",
+        "sememes": "[PropertyValue|特性值, electricity|电]"
+      },
+      {
+        "zh_word": "交流",
+        "en_word": "interchange",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{exchange|交换}",
+        "No": "000000037028",
+        "sememes": "[exchange|交换]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 9,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "折价",
+    "part_of_speech": "verb",
+    "taboo": [
+      "商业",
+      "总计",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "折价",
+        "en_word": "convert into money",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{AmountTo|总计:domain={commerce|商业}}",
+        "No": "000000138919",
+        "sememes": "[AmountTo|总计, commerce|商业]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "服膺",
+    "part_of_speech": "verb",
+    "taboo": [
+      "记得",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "服膺",
+        "en_word": "bear in mind",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{remember|记得}",
+        "No": "000000161264",
+        "sememes": "[remember|记得]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "值得一提",
+    "part_of_speech": "verb",
+    "taboo": [
+      "值得",
+      "提及",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "值得一提",
+        "en_word": "worth mentioning",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{worth|值得:content={mention|提及}}",
+        "No": "000000046461",
+        "sememes": "[worth|值得, mention|提及]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "如泣如诉",
+    "part_of_speech": "verb",
+    "taboo": [
+      "悲哀",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "如泣如诉",
+        "en_word": "mournful",
+        "zh_grammar": "verb",
+        "en_grammar": "adj",
+        "Def": "{sorrowful|悲哀}",
+        "No": "000000098543",
+        "sememes": "[sorrowful|悲哀]"
+      },
+      {
+        "zh_word": "如泣如诉",
+        "en_word": "plaintive",
+        "zh_grammar": "verb",
+        "en_grammar": "adj",
+        "Def": "{sorrowful|悲哀}",
+        "No": "000000098544",
+        "sememes": "[sorrowful|悲哀]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "跌倒",
+    "part_of_speech": "verb",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "跌倒",
+        "en_word": "fall",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{FallDown|跌倒}",
+        "No": "000000264535",
+        "sememes": "[FallDown|跌倒]"
+      },
+      {
+        "zh_word": "跌倒",
+        "en_word": "tumble",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{FallDown|跌倒}",
+        "No": "000000264538",
+        "sememes": "[FallDown|跌倒]"
+      },
+      {
+        "zh_word": "跌倒",
+        "en_word": "tumble",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{FallDown|跌倒}",
+        "No": "000000264537",
+        "sememes": "[FallDown|跌倒]"
+      },
+      {
+        "zh_word": "跌倒",
+        "en_word": "fall",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{FallDown|跌倒}",
+        "No": "000000264536",
+        "sememes": "[FallDown|跌倒]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "停战",
+    "part_of_speech": "verb",
+    "taboo": [
+      "争斗",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "停战",
+        "en_word": "declare a truce",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{cease|停做:content={fight|争斗},domain={military|军}}",
+        "No": "000000047192",
+        "sememes": "[cease|停做, fight|争斗, military|军]"
+      },
+      {
+        "zh_word": "停战",
+        "en_word": "cease fire",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{cease|停做:content={fight|争斗},domain={military|军}}",
+        "No": "000000047190",
+        "sememes": "[cease|停做, fight|争斗, military|军]"
+      },
+      {
+        "zh_word": "停战",
+        "en_word": "truce",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{cease|停做:content={fight|争斗},domain={military|军}}",
+        "No": "000000047194",
+        "sememes": "[cease|停做, fight|争斗, military|军]"
+      },
+      {
+        "zh_word": "停战",
+        "en_word": "armistice",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{cease|停做:content={fight|争斗},domain={military|军}}",
+        "No": "000000047189",
+        "sememes": "[cease|停做, fight|争斗, military|军]"
+      },
+      {
+        "zh_word": "停战",
+        "en_word": "cease-fire",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{cease|停做:content={fight|争斗},domain={military|军}}",
+        "No": "000000047191",
+        "sememes": "[cease|停做, fight|争斗, military|军]"
+      },
+      {
+        "zh_word": "停战",
+        "en_word": "declare an armistice",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{cease|停做:content={fight|争斗},domain={military|军}}",
+        "No": "000000047193",
+        "sememes": "[cease|停做, fight|争斗, military|军]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "分析",
+    "part_of_speech": "verb",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "分析",
+        "en_word": "analysis",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{analyze|分析}",
+        "No": "000000056860",
+        "sememes": "[analyze|分析]"
+      },
+      {
+        "zh_word": "分析",
+        "en_word": "dissect",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{analyze|分析}",
+        "No": "000000056864",
+        "sememes": "[analyze|分析]"
+      },
+      {
+        "zh_word": "分析",
+        "en_word": "analytic",
+        "zh_grammar": "verb",
+        "en_grammar": "adj",
+        "Def": "{analyze|分析}",
+        "No": "000000056861",
+        "sememes": "[analyze|分析]"
+      },
+      {
+        "zh_word": "分析",
+        "en_word": "make an analysis of",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{analyze|分析}",
+        "No": "000000056865",
+        "sememes": "[analyze|分析]"
+      },
+      {
+        "zh_word": "分析",
+        "en_word": "analyse",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{analyze|分析}",
+        "No": "000000056859",
+        "sememes": "[analyze|分析]"
+      },
+      {
+        "zh_word": "分析",
+        "en_word": "analytical",
+        "zh_grammar": "verb",
+        "en_grammar": "adj",
+        "Def": "{analyze|分析}",
+        "No": "000000056862",
+        "sememes": "[analyze|分析]"
+      },
+      {
+        "zh_word": "分析",
+        "en_word": "make analysis of",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{analyze|分析}",
+        "No": "000000056866",
+        "sememes": "[analyze|分析]"
+      },
+      {
+        "zh_word": "分析",
+        "en_word": "parse",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{analyze|分析}",
+        "No": "000000056867",
+        "sememes": "[analyze|分析]"
+      },
+      {
+        "zh_word": "分析",
+        "en_word": "analyze",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{analyze|分析}",
+        "No": "000000056863",
+        "sememes": "[analyze|分析]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 9,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "附加收费",
+    "part_of_speech": "verb",
+    "taboo": [
+      "提出",
+      "价格",
+      "商业",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "附加收费",
+        "en_word": "overcharge",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{propose|提出:content={Price|价格:domain={commerce|商业},modifier={expensive|贵:degree={over|超}}}}",
+        "No": "000000284653",
+        "sememes": "[propose|提出, Price|价格, commerce|商业, expensive|贵, over|超]"
+      },
+      {
+        "zh_word": "附加收费",
+        "en_word": "surcharge",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{propose|提出:content={Price|价格:domain={commerce|商业},modifier={expensive|贵:degree={over|超}}}}",
+        "No": "000000284654",
+        "sememes": "[propose|提出, Price|价格, commerce|商业, expensive|贵, over|超]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+
+  {
+    "target": "扣压",
+    "part_of_speech": "verb",
+    "taboo": [
+      "扣住",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "扣压",
+        "en_word": "withhold",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{detain|扣住}",
+        "No": "000000137118",
+        "sememes": "[detain|扣住]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "告知",
+    "part_of_speech": "verb",
+    "taboo": [
+      "告诉",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "告知",
+        "en_word": "intimation",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{tell|告诉}",
+        "No": "000000079319",
+        "sememes": "[tell|告诉]"
+      },
+      {
+        "zh_word": "告知",
+        "en_word": "inform",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{tell|告诉}",
+        "No": "000000079318",
+        "sememes": "[tell|告诉]"
+      },
+      {
+        "zh_word": "告知",
+        "en_word": "notification",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{tell|告诉}",
+        "No": "000000079320",
+        "sememes": "[tell|告诉]"
+      },
+      {
+        "zh_word": "告知",
+        "en_word": "notify",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{tell|告诉}",
+        "No": "000000079321",
+        "sememes": "[tell|告诉]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "蒙冤受屈",
+    "part_of_speech": "verb",
+    "taboo": [
+      "遭受",
+      "慢待",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "蒙冤受屈",
+        "en_word": "suffer injustice",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{suffer|遭受:content={IllTreat|慢待}}",
+        "No": "000000247229",
+        "sememes": "[suffer|遭受, IllTreat|慢待]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "百般刁难",
+    "part_of_speech": "verb",
+    "taboo": [
+      "卖力",
+      "捣乱",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "百般刁难",
+        "en_word": "put up innumerable obstacles",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{MakeTrouble|捣乱:manner={endeavour|卖力}}",
+        "No": "000000211115",
+        "sememes": "[MakeTrouble|捣乱, endeavour|卖力]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "交游",
+    "part_of_speech": "verb",
+    "taboo": [
+      "交往",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "交游",
+        "en_word": "make friends",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{associate|交往}",
+        "No": "000000037038",
+        "sememes": "[associate|交往]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "任人摆布",
+    "part_of_speech": "verb",
+    "taboo": [
+      "控制",
+      "放纵",
+      "强迫",
+      "遭受",
+      "东西"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "任人摆布",
+        "en_word": "allow oneself to be controlled",
+        "zh_grammar": "verb",
+        "en_grammar": "verb",
+        "Def": "{indulge|放纵:ResultEvent={control|控制:patient={human|人:modifier={self|己}}},manner={suffer|遭受:content={force|强迫}}}",
+        "No": "000000040176",
+        "sememes": "[indulge|放纵, control|控制, human|人, self|己, suffer|遭受, force|强迫]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "旧事重提",
+    "part_of_speech": "verb",
+    "taboo": [
+      "提出",
+      "过去",
+      "事情",
+      "东西",
+      "事物"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "旧事重提",
+        "en_word": "bring up the past event again",
+        "zh_grammar": "verb",
+        "en_grammar": "noun",
+        "Def": "{propose|提出:content={fact|事情:modifier={past|过去}},frequency={again|再}}",
+        "No": "000000155626",
+        "sememes": "[propose|提出, fact|事情, past|过去, again|再]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+
+
+
+  {
+    "target": "低声",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "低声",
+        "en_word": "with bated breath",
+        "zh_grammar": "adj",
+        "en_grammar": "pp",
+        "Def": "{LowVoice|低声}",
+        "No": "000000042187",
+        "sememes": "[LowVoice|低声]"
+      },
+      {
+        "zh_word": "低声",
+        "en_word": "between the teeth",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{LowVoice|低声}",
+        "No": "000000042183",
+        "sememes": "[LowVoice|低声]"
+      },
+      {
+        "zh_word": "低声",
+        "en_word": "murmurous",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{LowVoice|低声}",
+        "No": "000000042185",
+        "sememes": "[LowVoice|低声]"
+      },
+      {
+        "zh_word": "低声",
+        "en_word": "under one's breath",
+        "zh_grammar": "adj",
+        "en_grammar": "pp",
+        "Def": "{LowVoice|低声}",
+        "No": "000000042186",
+        "sememes": "[LowVoice|低声]"
+      },
+      {
+        "zh_word": "低声",
+        "en_word": "in a low voice",
+        "zh_grammar": "adj",
+        "en_grammar": "pp",
+        "Def": "{LowVoice|低声}",
+        "No": "000000042184",
+        "sememes": "[LowVoice|低声]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 5,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "计费",
+    "part_of_speech": "adj",
+    "taboo": [
+      "酬金",
+      "特性",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "计费",
+        "en_word": "paid",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{PropertyValue|特性值:scope={pay|付:possession={payment|酬金}}}",
+        "No": "000000255852",
+        "sememes": "[PropertyValue|特性值, pay|付, payment|酬金]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "唯独",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "唯独",
+        "en_word": "solely",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{single|单}",
+        "No": "000000081620",
+        "sememes": "[single|单]"
+      },
+      {
+        "zh_word": "唯独",
+        "en_word": "only",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{single|单}",
+        "No": "000000081619",
+        "sememes": "[single|单]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "眩目",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "眩目",
+        "en_word": "dazzle the eyes",
+        "zh_grammar": "adj",
+        "en_grammar": "verb",
+        "Def": "{bright|明:degree={extreme|极}}",
+        "No": "000000213905",
+        "sememes": "[bright|明, extreme|极]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "热门",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "热门",
+        "en_word": "hot",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{flourishing|兴}",
+        "No": "000000199242",
+        "sememes": "[flourishing|兴]"
+      },
+      {
+        "zh_word": "热门",
+        "en_word": "popular",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{flourishing|兴}",
+        "No": "000000199243",
+        "sememes": "[flourishing|兴]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "折磨人",
+    "part_of_speech": "adj",
+    "taboo": [
+      "悲惨",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "折磨人",
+        "en_word": "agonising",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{miserable|悲惨}",
+        "No": "000000138992",
+        "sememes": "[miserable|悲惨]"
+      },
+      {
+        "zh_word": "折磨人",
+        "en_word": "torturesome",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{miserable|悲惨}",
+        "No": "000000138993",
+        "sememes": "[miserable|悲惨]"
+      },
+      {
+        "zh_word": "折磨人",
+        "en_word": "torturous",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{miserable|悲惨}",
+        "No": "000000138995",
+        "sememes": "[miserable|悲惨]"
+      },
+      {
+        "zh_word": "折磨人",
+        "en_word": "torturing",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{miserable|悲惨}",
+        "No": "000000138994",
+        "sememes": "[miserable|悲惨]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "身残志坚",
+    "part_of_speech": "adj",
+    "taboo": [
+      "坚决",
+      "残疾",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "身残志坚",
+        "en_word": "staunch in mind though disabled in body",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{resolute|坚决:concession={disable|残疾}}",
+        "No": "000000265810",
+        "sememes": "[resolute|坚决, disable|残疾]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "豪放",
+    "part_of_speech": "adj",
+    "taboo": [
+      "直率",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "豪放",
+        "en_word": "bold and unconstrained",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{frank|直率}",
+        "No": "000000260244",
+        "sememes": "[frank|直率]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+
+  {
+    "target": "灰色",
+    "part_of_speech": "adj",
+    "taboo": [
+      "悲观",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "灰色",
+        "en_word": "gloomy",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{dark|暗}",
+        "No": "000000197532",
+        "sememes": "[dark|暗]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "pessimistically",
+        "zh_grammar": "adj",
+        "en_grammar": "adv",
+        "Def": "{pessimistic|悲观}",
+        "No": "000000197536",
+        "sememes": "[pessimistic|悲观]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "ashy",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{grey|灰}",
+        "No": "000000197533",
+        "sememes": "[grey|灰]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "ambiguous",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{vague|含混}",
+        "No": "000000197537",
+        "sememes": "[vague|含混]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "ashen",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{blurred|浑}",
+        "No": "000000197530",
+        "sememes": "[blurred|浑]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "grey",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{grey|灰}",
+        "No": "000000197534",
+        "sememes": "[grey|灰]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "pessimistic",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{pessimistic|悲观}",
+        "No": "000000197535",
+        "sememes": "[pessimistic|悲观]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "ambiguously",
+        "zh_grammar": "adj",
+        "en_grammar": "adv",
+        "Def": "{vague|含混}",
+        "No": "000000197538",
+        "sememes": "[vague|含混]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "obscure",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{blurred|浑}",
+        "No": "000000197531",
+        "sememes": "[blurred|浑]"
+      },
+      {
+        "zh_word": "灰色",
+        "en_word": "grey",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{vague|含混}",
+        "No": "000000197539",
+        "sememes": "[vague|含混]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 10,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "具有再生性",
+    "part_of_speech": "adj",
+    "taboo": [
+      "复原",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "具有再生性",
+        "en_word": "reproducible",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{able|能:scope={BeRecovered|复原}}",
+        "No": "000000051975",
+        "sememes": "[able|能, BeRecovered|复原]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "坚贞不屈",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "坚贞不屈",
+        "en_word": "faithful and unyielding",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{faithful|忠}",
+        "No": "000000088412",
+        "sememes": "[faithful|忠]"
+      },
+      {
+        "zh_word": "坚贞不屈",
+        "en_word": "faithfully and unyieldingly",
+        "zh_grammar": "adj",
+        "en_grammar": "adv",
+        "Def": "{faithful|忠}",
+        "No": "000000088413",
+        "sememes": "[faithful|忠]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+
+  {
+    "target": "委靡不振",
+    "part_of_speech": "adj",
+    "taboo": [
+      "消极",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "委靡不振",
+        "en_word": "listless",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{inactive|消极}",
+        "No": "000000099262",
+        "sememes": "[inactive|消极]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "正向",
+    "part_of_speech": "adj",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "正向",
+        "en_word": "foreward",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{forward|正向}",
+        "No": "000000170758",
+        "sememes": "[forward|正向]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "或多或少地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "或多或少地",
+        "en_word": "more or less",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{ish|稍}",
+        "No": "000000134770",
+        "sememes": "[ish|稍]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "相应地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "一致",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "相应地",
+        "en_word": "accordingly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{accordant|一致}",
+        "No": "000000213082",
+        "sememes": "[accordant|一致]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "多久",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "疑问",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "多久",
+        "en_word": "how long",
+        "zh_grammar": "adv",
+        "en_grammar": "wh",
+        "Def": "{FuncWord|功能词:DurationAfterEvent={?},adjunct={question|疑问}}",
+        "No": "000000092025",
+        "sememes": "[FuncWord|功能词, question|疑问]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "当然",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "当然",
+        "en_word": "certainly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000124976",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "当然",
+        "en_word": "natural",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{original|原}",
+        "No": "000000124980",
+        "sememes": "[original|原]"
+      },
+      {
+        "zh_word": "当然",
+        "en_word": "to be sure",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000124978",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "当然",
+        "en_word": "ex officio",
+        "zh_grammar": "adj",
+        "en_grammar": "adj",
+        "Def": "{original|原}",
+        "No": "000000124979",
+        "sememes": "[original|原]"
+      },
+      {
+        "zh_word": "当然",
+        "en_word": "as a matter of course",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000124975",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "当然",
+        "en_word": "of course",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000124977",
+        "sememes": "[FuncWord|功能词]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "照例",
+    "part_of_speech": "adv",
+    "taboo": [
+      "经常",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "照例",
+        "en_word": "as usual",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{often|经常}",
+        "No": "000000199708",
+        "sememes": "[often|经常]"
+      },
+      {
+        "zh_word": "照例",
+        "en_word": "as a rule",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{often|经常}",
+        "No": "000000199707",
+        "sememes": "[often|经常]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "信息匮乏地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "信息",
+      "不足",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "信息匮乏地",
+        "en_word": "uninstructively",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{insufficient|不足:scope={information|信息}}",
+        "No": "000000045380",
+        "sememes": "[insufficient|不足, information|信息]"
+      },
+      {
+        "zh_word": "信息匮乏地",
+        "en_word": "uninformatively",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{insufficient|不足:scope={information|信息}}",
+        "No": "000000045379",
+        "sememes": "[insufficient|不足, information|信息]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+
+  {
+    "target": "确切地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "精确",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "确切地",
+        "en_word": "exactly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{accurate|精确}",
+        "No": "000000216438",
+        "sememes": "[accurate|精确]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "总是",
+    "part_of_speech": "adv",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "总是",
+        "en_word": "ever",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{always|总是}",
+        "No": "000000129292",
+        "sememes": "[always|总是]"
+      },
+      {
+        "zh_word": "总是",
+        "en_word": "forever",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{always|总是}",
+        "No": "000000129294",
+        "sememes": "[always|总是]"
+      },
+      {
+        "zh_word": "总是",
+        "en_word": "evermore",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{always|总是}",
+        "No": "000000129293",
+        "sememes": "[always|总是]"
+      },
+      {
+        "zh_word": "总是",
+        "en_word": "always",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{always|总是}",
+        "No": "000000129291",
+        "sememes": "[always|总是]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "毫不",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "毫不",
+        "en_word": "in no way",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:adjunct={neg|否}}",
+        "No": "000000174366",
+        "sememes": "[FuncWord|功能词, neg|否]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "愚笨地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "东西",
+      "事物",
+      "物品",
+      "概念",
+      "内容"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "愚笨地",
+        "en_word": "foolishly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{foolish|愚}",
+        "No": "000000132275",
+        "sememes": "[foolish|愚]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+
+  {
+    "target": "钦佩地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "友善",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "钦佩地",
+        "en_word": "admiringly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{amiable|友善}",
+        "No": "000000279085",
+        "sememes": "[amiable|友善]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "据称",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "据称",
+        "en_word": "it be said",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000143832",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "据称",
+        "en_word": "purportedly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000143833",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "据称",
+        "en_word": "it be alleged that",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000143831",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "据称",
+        "en_word": "they say",
+        "zh_grammar": "adv",
+        "en_grammar": "expr",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000143835",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "据称",
+        "en_word": "allegedly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000143830",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "据称",
+        "en_word": "supposedly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:comment={?}}",
+        "No": "000000143834",
+        "sememes": "[FuncWord|功能词]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "很遗憾",
+    "part_of_speech": "adv",
+    "taboo": [
+      "倒霉",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "很遗憾",
+        "en_word": "unfortunately",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{misfortunate|倒霉}",
+        "No": "000000125894",
+        "sememes": "[misfortunate|倒霉]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "缕缕行行",
+    "part_of_speech": "adv",
+    "taboo": [
+      "连续",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "缕缕行行",
+        "en_word": "in streams",
+        "zh_grammar": "adv",
+        "en_grammar": "pp",
+        "Def": "{continuous|连续}",
+        "No": "000000231300",
+        "sememes": "[continuous|连续]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "从此",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "从此",
+        "en_word": "from now on",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:TimeIni={?}}",
+        "No": "000000039023",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "从此",
+        "en_word": "thereupon",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:TimeIni={?}}",
+        "No": "000000039026",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "从此",
+        "en_word": "from then on",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:TimeIni={?}}",
+        "No": "000000039024",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "从此",
+        "en_word": "henceforth",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:TimeIni={?}}",
+        "No": "000000039025",
+        "sememes": "[FuncWord|功能词]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "耐心地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "耐性",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "耐心地",
+        "en_word": "with patience",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{patient|有耐性}",
+        "No": "000000234844",
+        "sememes": "[patient|有耐性]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "长达",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "长达",
+        "en_word": "up to",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:range={?}}",
+        "No": "000000282065",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "长达",
+        "en_word": "as long as",
+        "zh_grammar": "adv",
+        "en_grammar": "adj",
+        "Def": "{LengthLong|长}",
+        "No": "000000282066",
+        "sememes": "[LengthLong|长]"
+      },
+      {
+        "zh_word": "长达",
+        "en_word": "as long as",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{TimeLong|长时间}",
+        "No": "000000282067",
+        "sememes": "[TimeLong|长时间]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "难理解地",
+    "part_of_speech": "adv",
+    "taboo": [
+      "领会",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "难理解地",
+        "en_word": "unintelligibly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{difficult|难:scope={understand|领会:content={$}}}",
+        "No": "000000286855",
+        "sememes": "[difficult|难, understand|领会]"
+      },
+      {
+        "zh_word": "难理解地",
+        "en_word": "ununderstandably",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{difficult|难:scope={understand|领会:content={$}}}",
+        "No": "000000286856",
+        "sememes": "[difficult|难, understand|领会]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "由此以下",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "由此以下",
+        "en_word": "hereunder",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:TimeIni={?}}",
+        "No": "000000207401",
+        "sememes": "[FuncWord|功能词]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "居然",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "东西",
+      "事物",
+      "物品",
+      "概念"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "居然",
+        "en_word": "to one's surprise",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:emphasis={?}}",
+        "No": "000000109852",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "居然",
+        "en_word": "unexpectedly",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:emphasis={?}}",
+        "No": "000000109853",
+        "sememes": "[FuncWord|功能词]"
+      },
+      {
+        "zh_word": "居然",
+        "en_word": "actually",
+        "zh_grammar": "adv",
+        "en_grammar": "adv",
+        "Def": "{FuncWord|功能词:emphasis={?}}",
+        "No": "000000109851",
+        "sememes": "[FuncWord|功能词]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  },
+  {
+    "target": "何故",
+    "part_of_speech": "adv",
+    "taboo": [
+      "功能",
+      "疑问",
+      "东西",
+      "事物",
+      "物品"
+    ],
+    "category": "chinese_general",
+    "senses": [
+      {
+        "zh_word": "何故",
+        "en_word": "why",
+        "zh_grammar": "adv",
+        "en_grammar": "wh",
+        "Def": "{FuncWord|功能词:adjunct={question|疑问},cause={?}}",
+        "No": "000000042778",
+        "sememes": "[FuncWord|功能词, question|疑问]"
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "taboo_count": 5,
+      "source": "openhownet"
+    }
+  }
+]

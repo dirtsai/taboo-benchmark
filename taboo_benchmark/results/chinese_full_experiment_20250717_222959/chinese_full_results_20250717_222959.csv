@@ -1,0 +1,641 @@
+﻿game_id,word_index,target_word,part_of_speech,category,hinter_model,guesser_model,success,turns_used,final_guess,failure_reason,duration_seconds,taboo_words
+1,1,遗体,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,True,3,遗体,成功,5.26,动物|部件|生理学|东西|事物
+2,1,遗体,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [骨灰],4.5,动物|部件|生理学|东西|事物
+3,1,遗体,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,1,遗体,成功,1.69,动物|部件|生理学|东西|事物
+4,1,遗体,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,1,遗体,成功,5.02,动物|部件|生理学|东西|事物
+5,1,遗体,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,3,,线索生成失败: 格式验证失败: [死者的身体],8.13,动物|部件|生理学|东西|事物
+6,1,遗体,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,尸体,轮数耗尽,12.48,动物|部件|生理学|东西|事物
+7,1,遗体,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,5,遗体,成功,14.6,动物|部件|生理学|东西|事物
+8,1,遗体,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,指纹,轮数耗尽,12.42,动物|部件|生理学|东西|事物
+9,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,3,遗体,成功,10.28,动物|部件|生理学|东西|事物
+10,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,遗体,成功,1.99,动物|部件|生理学|东西|事物
+11,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,5,遗体,成功,22.53,动物|部件|生理学|东西|事物
+12,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,1,遗体,成功,2.56,动物|部件|生理学|东西|事物
+13,1,遗体,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,True,1,遗体,成功,1.82,动物|部件|生理学|东西|事物
+14,1,遗体,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,2,遗体,成功,8.48,动物|部件|生理学|东西|事物
+15,1,遗体,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,1,遗体,成功,2.46,动物|部件|生理学|东西|事物
+16,1,遗体,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,1,遗体,成功,2.31,动物|部件|生理学|东西|事物
+17,2,宣传牌,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,广告牌,轮数耗尽,12.86,语文|发表|放置|设施|东西
+18,2,宣传牌,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,广告牌,轮数耗尽,10.12,语文|发表|放置|设施|东西
+19,2,宣传牌,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,广告牌,轮数耗尽,13.18,语文|发表|放置|设施|东西
+20,2,宣传牌,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,广告牌,轮数耗尽,11.91,语文|发表|放置|设施|东西
+21,2,宣传牌,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,招牌,轮数耗尽,14.51,语文|发表|放置|设施|东西
+22,2,宣传牌,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,广告牌,轮数耗尽,11.75,语文|发表|放置|设施|东西
+23,2,宣传牌,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,广告,轮数耗尽,13.42,语文|发表|放置|设施|东西
+24,2,宣传牌,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,海报,轮数耗尽,12.83,语文|发表|放置|设施|东西
+25,2,宣传牌,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,宣传栏,轮数耗尽,15.0,语文|发表|放置|设施|东西
+26,2,宣传牌,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,线索生成失败: 格式验证失败: [路边展示信息的立式板],3.74,语文|发表|放置|设施|东西
+27,2,宣传牌,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,宣传栏,轮数耗尽,42.23,语文|发表|放置|设施|东西
+28,2,宣传牌,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,宣传栏,轮数耗尽,22.02,语文|发表|放置|设施|东西
+29,2,宣传牌,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,公告牌,轮数耗尽,15.44,语文|发表|放置|设施|东西
+30,2,宣传牌,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,标语,轮数耗尽,10.82,语文|发表|放置|设施|东西
+31,2,宣传牌,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,黑板,轮数耗尽,19.86,语文|发表|放置|设施|东西
+32,2,宣传牌,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,公告栏,轮数耗尽,21.25,语文|发表|放置|设施|东西
+33,3,围墙,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,True,3,围墙,成功,9.13,部件|建筑物|东西|事物|物品
+34,3,围墙,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,3,围墙,成功,9.95,部件|建筑物|东西|事物|物品
+35,3,围墙,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,2,围墙,成功,4.77,部件|建筑物|东西|事物|物品
+36,3,围墙,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,2,围墙,成功,5.32,部件|建筑物|东西|事物|物品
+37,3,围墙,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,True,1,围墙,成功,2.36,部件|建筑物|东西|事物|物品
+38,3,围墙,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,2,围墙,成功,4.76,部件|建筑物|东西|事物|物品
+39,3,围墙,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,围墙,成功,1.89,部件|建筑物|东西|事物|物品
+40,3,围墙,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,2,围墙,成功,4.08,部件|建筑物|东西|事物|物品
+41,3,围墙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,3,围墙,成功,11.05,部件|建筑物|东西|事物|物品
+42,3,围墙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,2,围墙,成功,11.32,部件|建筑物|东西|事物|物品
+43,3,围墙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,3,围墙,成功,18.29,部件|建筑物|东西|事物|物品
+44,3,围墙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,2,围墙,成功,20.63,部件|建筑物|东西|事物|物品
+45,3,围墙,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,True,5,围墙,成功,12.37,部件|建筑物|东西|事物|物品
+46,3,围墙,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,1,围墙,成功,2.76,部件|建筑物|东西|事物|物品
+47,3,围墙,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,1,围墙,成功,3.75,部件|建筑物|东西|事物|物品
+48,3,围墙,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,1,围墙,成功,2.34,部件|建筑物|东西|事物|物品
+49,4,刺梨,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,猕猴桃,轮数耗尽,10.19,水果|东西|事物|物品|概念
+50,4,刺梨,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,柠檬,轮数耗尽,11.45,水果|东西|事物|物品|概念
+51,4,刺梨,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,3,刺梨,成功,6.41,水果|东西|事物|物品|概念
+52,4,刺梨,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,4,刺梨,成功,8.45,水果|东西|事物|物品|概念
+53,4,刺梨,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,石榴,轮数耗尽,15.99,水果|东西|事物|物品|概念
+54,4,刺梨,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,仙人掌,轮数耗尽,12.15,水果|东西|事物|物品|概念
+55,4,刺梨,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,4,刺梨,成功,10.9,水果|东西|事物|物品|概念
+56,4,刺梨,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,4,刺梨,成功,14.87,水果|东西|事物|物品|概念
+57,4,刺梨,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [柠檬],10.37,水果|东西|事物|物品|概念
+58,4,刺梨,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,刺梨,成功,1.82,水果|东西|事物|物品|概念
+59,4,刺梨,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,1,刺梨,成功,2.95,水果|东西|事物|物品|概念
+60,4,刺梨,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,1,刺梨,成功,1.41,水果|东西|事物|物品|概念
+61,4,刺梨,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,茅台酒,轮数耗尽,10.13,水果|东西|事物|物品|概念
+62,4,刺梨,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,1,刺梨,成功,3.87,水果|东西|事物|物品|概念
+63,4,刺梨,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,2,刺梨,成功,9.28,水果|东西|事物|物品|概念
+64,4,刺梨,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,2,刺梨,成功,3.93,水果|东西|事物|物品|概念
+65,5,牛蛙,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,鱼,轮数耗尽,9.61,走兽|东西|事物|物品|概念
+66,5,牛蛙,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,青蛙,轮数耗尽,9.23,走兽|东西|事物|物品|概念
+67,5,牛蛙,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,2,牛蛙,成功,3.88,走兽|东西|事物|物品|概念
+68,5,牛蛙,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,1,牛蛙,成功,1.49,走兽|东西|事物|物品|概念
+69,5,牛蛙,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,True,1,牛蛙,成功,3.05,走兽|东西|事物|物品|概念
+70,5,牛蛙,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,3,牛蛙,成功,7.45,走兽|东西|事物|物品|概念
+71,5,牛蛙,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,牛蛙,成功,2.94,走兽|东西|事物|物品|概念
+72,5,牛蛙,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,1,牛蛙,成功,1.81,走兽|东西|事物|物品|概念
+73,5,牛蛙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [青蛙],3.81,走兽|东西|事物|物品|概念
+74,5,牛蛙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,2,牛蛙,成功,10.35,走兽|东西|事物|物品|概念
+75,5,牛蛙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,牛蛙,成功,8.82,走兽|东西|事物|物品|概念
+76,5,牛蛙,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,1,牛蛙,成功,4.49,走兽|东西|事物|物品|概念
+77,5,牛蛙,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,True,1,牛蛙,成功,3.69,走兽|东西|事物|物品|概念
+78,5,牛蛙,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,1,牛蛙,成功,2.0,走兽|东西|事物|物品|概念
+79,5,牛蛙,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,2,牛蛙,成功,9.74,走兽|东西|事物|物品|概念
+80,5,牛蛙,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,1,牛蛙,成功,7.06,走兽|东西|事物|物品|概念
+81,6,礼品包装纸,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,包装纸,轮数耗尽,9.07,材料|物质|包扎|东西|事物
+82,6,礼品包装纸,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [彩带],3.95,材料|物质|包扎|东西|事物
+83,6,礼品包装纸,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,包装纸,轮数耗尽,10.11,材料|物质|包扎|东西|事物
+84,6,礼品包装纸,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,包装纸,轮数耗尽,9.91,材料|物质|包扎|东西|事物
+85,6,礼品包装纸,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,礼物纸,轮数耗尽,10.14,材料|物质|包扎|东西|事物
+86,6,礼品包装纸,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [包装纸],8.21,材料|物质|包扎|东西|事物
+87,6,礼品包装纸,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,纸,轮数耗尽,12.4,材料|物质|包扎|东西|事物
+88,6,礼品包装纸,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,包装纸,轮数耗尽,18.75,材料|物质|包扎|东西|事物
+89,6,礼品包装纸,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,包装纸,轮数耗尽,20.34,材料|物质|包扎|东西|事物
+90,6,礼品包装纸,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,包装纸,轮数耗尽,21.57,材料|物质|包扎|东西|事物
+91,6,礼品包装纸,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,包装纸,轮数耗尽,33.63,材料|物质|包扎|东西|事物
+92,6,礼品包装纸,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,包装纸,轮数耗尽,25.27,材料|物质|包扎|东西|事物
+93,6,礼品包装纸,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,包装纸,轮数耗尽,13.24,材料|物质|包扎|东西|事物
+94,6,礼品包装纸,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [包装],17.4,材料|物质|包扎|东西|事物
+95,6,礼品包装纸,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,礼物,轮数耗尽,15.27,材料|物质|包扎|东西|事物
+96,6,礼品包装纸,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,包装纸,轮数耗尽,16.22,材料|物质|包扎|东西|事物
+97,7,空房率,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,空置率,轮数耗尽,9.41,经受|房屋|利用|比率|房间
+98,7,空房率,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [空置率],4.55,经受|房屋|利用|比率|房间
+99,7,空房率,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,空置率,轮数耗尽,12.81,经受|房屋|利用|比率|房间
+100,7,空房率,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,入住率,轮数耗尽,9.59,经受|房屋|利用|比率|房间
+101,7,空房率,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,空置率,轮数耗尽,13.19,经受|房屋|利用|比率|房间
+102,7,空房率,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,空置率,轮数耗尽,12.94,经受|房屋|利用|比率|房间
+103,7,空房率,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,空置率,轮数耗尽,17.4,经受|房屋|利用|比率|房间
+104,7,空房率,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,空置率,轮数耗尽,13.84,经受|房屋|利用|比率|房间
+105,7,空房率,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [空置率],16.25,经受|房屋|利用|比率|房间
+106,7,空房率,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [空置率],3.9,经受|房屋|利用|比率|房间
+107,7,空房率,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,空置率,轮数耗尽,37.73,经受|房屋|利用|比率|房间
+108,7,空房率,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,空置率,轮数耗尽,23.62,经受|房屋|利用|比率|房间
+109,7,空房率,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,4,,猜测生成失败: 格式验证失败: [库存],15.15,经受|房屋|利用|比率|房间
+110,7,空房率,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [空置率],13.1,经受|房屋|利用|比率|房间
+111,7,空房率,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,空置率,轮数耗尽,17.26,经受|房屋|利用|比率|房间
+112,7,空房率,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,空置,轮数耗尽,16.69,经受|房屋|利用|比率|房间
+113,8,畛,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,畦垄,轮数耗尽,9.8,界限|实体|道路|东西|事物
+114,8,畛,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [边界],6.38,界限|实体|道路|东西|事物
+115,8,畛,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,分号,轮数耗尽,16.04,界限|实体|道路|东西|事物
+116,8,畛,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,畎,轮数耗尽,18.71,界限|实体|道路|东西|事物
+117,8,畛,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,边界,轮数耗尽,8.82,界限|实体|道路|东西|事物
+118,8,畛,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,,猜测生成失败: 格式验证失败: [边界],14.08,界限|实体|道路|东西|事物
+119,8,畛,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,分界线,轮数耗尽,13.17,界限|实体|道路|东西|事物
+120,8,畛,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,边界,轮数耗尽,11.56,界限|实体|道路|东西|事物
+121,8,畛,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,2,畛,成功,14.18,界限|实体|道路|东西|事物
+122,8,畛,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,陌,轮数耗尽,35.43,界限|实体|道路|东西|事物
+123,8,畛,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,畎,轮数耗尽,37.0,界限|实体|道路|东西|事物
+124,8,畛,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,1,畛,成功,8.35,界限|实体|道路|东西|事物
+125,8,畛,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,田埂,轮数耗尽,10.95,界限|实体|道路|东西|事物
+126,8,畛,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,中,轮数耗尽,17.9,界限|实体|道路|东西|事物
+127,8,畛,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,疆域,轮数耗尽,14.93,界限|实体|道路|东西|事物
+128,8,畛,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,边界,轮数耗尽,12.98,界限|实体|道路|东西|事物
+129,9,烤面包,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,吐司,轮数耗尽,9.21,食品|东西|事物|物品|概念
+130,9,烤面包,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,吐司,轮数耗尽,11.57,食品|东西|事物|物品|概念
+131,9,烤面包,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,面包,轮数耗尽,12.59,食品|东西|事物|物品|概念
+132,9,烤面包,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,吐司,轮数耗尽,16.5,食品|东西|事物|物品|概念
+133,9,烤面包,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,面包,轮数耗尽,10.32,食品|东西|事物|物品|概念
+134,9,烤面包,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [面包],7.76,食品|东西|事物|物品|概念
+135,9,烤面包,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,面包,轮数耗尽,15.49,食品|东西|事物|物品|概念
+136,9,烤面包,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,面包,轮数耗尽,8.74,食品|东西|事物|物品|概念
+137,9,烤面包,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,吐司,轮数耗尽,16.06,食品|东西|事物|物品|概念
+138,9,烤面包,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,面包,轮数耗尽,20.65,食品|东西|事物|物品|概念
+139,9,烤面包,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,吐司,轮数耗尽,20.76,食品|东西|事物|物品|概念
+140,9,烤面包,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,吐司,轮数耗尽,25.29,食品|东西|事物|物品|概念
+141,9,烤面包,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,面包,轮数耗尽,13.96,食品|东西|事物|物品|概念
+142,9,烤面包,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,5,烤面包机,成功,14.86,食品|东西|事物|物品|概念
+143,9,烤面包,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,2,烤面包机,成功,6.38,食品|东西|事物|物品|概念
+144,9,烤面包,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,面包,轮数耗尽,14.47,食品|东西|事物|物品|概念
+145,10,一月,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [一月],2.68,时间|特定|东西|事物|物品
+146,10,一月,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,1,一月,成功,5.52,时间|特定|东西|事物|物品
+147,10,一月,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,1,一月,成功,2.62,时间|特定|东西|事物|物品
+148,10,一月,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,1,一月,成功,1.5,时间|特定|东西|事物|物品
+149,10,一月,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [一月],2.8,时间|特定|东西|事物|物品
+150,10,一月,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,一月,成功,2.39,时间|特定|东西|事物|物品
+151,10,一月,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,4,一月,成功,16.02,时间|特定|东西|事物|物品
+152,10,一月,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,3,一月,成功,9.34,时间|特定|东西|事物|物品
+153,10,一月,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,1,一月,成功,1.58,时间|特定|东西|事物|物品
+154,10,一月,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,一月,成功,2.89,时间|特定|东西|事物|物品
+155,10,一月,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,1,一月,成功,6.01,时间|特定|东西|事物|物品
+156,10,一月,noun,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,1,一月,成功,5.46,时间|特定|东西|事物|物品
+157,10,一月,noun,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,True,1,一月,成功,2.96,时间|特定|东西|事物|物品
+158,10,一月,noun,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,1,一月,成功,4.53,时间|特定|东西|事物|物品
+159,10,一月,noun,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,3,一月,成功,9.36,时间|特定|东西|事物|物品
+160,10,一月,noun,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,1,一月,成功,2.56,时间|特定|东西|事物|物品
+161,11,捂住,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,True,2,捂住,成功,5.4,遮盖|东西|事物|物品|概念
+162,11,捂住,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,手套,轮数耗尽,11.03,遮盖|东西|事物|物品|概念
+163,11,捂住,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,2,捂住,成功,4.74,遮盖|东西|事物|物品|概念
+164,11,捂住,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,手,轮数耗尽,13.69,遮盖|东西|事物|物品|概念
+165,11,捂住,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,True,1,捂住,成功,2.43,遮盖|东西|事物|物品|概念
+166,11,捂住,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,掩盖,轮数耗尽,9.57,遮盖|东西|事物|物品|概念
+167,11,捂住,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,捂住,成功,3.33,遮盖|东西|事物|物品|概念
+168,11,捂住,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,2,捂住,成功,4.22,遮盖|东西|事物|物品|概念
+169,11,捂住,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,3,捂住,成功,9.8,遮盖|东西|事物|物品|概念
+170,11,捂住,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,捂,轮数耗尽,24.76,遮盖|东西|事物|物品|概念
+171,11,捂住,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,捂,轮数耗尽,29.08,遮盖|东西|事物|物品|概念
+172,11,捂住,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,捂,轮数耗尽,20.83,遮盖|东西|事物|物品|概念
+173,11,捂住,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,True,1,捂住,成功,4.73,遮盖|东西|事物|物品|概念
+174,11,捂住,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,震惊,轮数耗尽,14.02,遮盖|东西|事物|物品|概念
+175,11,捂住,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,捂耳朵,轮数耗尽,13.87,遮盖|东西|事物|物品|概念
+176,11,捂住,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,尖叫,轮数耗尽,22.25,遮盖|东西|事物|物品|概念
+177,12,告知,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,通知,轮数耗尽,10.37,告诉|东西|事物|物品|概念
+178,12,告知,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,2,告知,成功,3.46,告诉|东西|事物|物品|概念
+179,12,告知,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,通知,轮数耗尽,23.12,告诉|东西|事物|物品|概念
+180,12,告知,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,通知,轮数耗尽,14.07,告诉|东西|事物|物品|概念
+181,12,告知,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,2,,违反禁用词规则: ['告诉'],3.04,告诉|东西|事物|物品|概念
+182,12,告知,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,告知,成功,2.55,告诉|东西|事物|物品|概念
+183,12,告知,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,信件,轮数耗尽,16.52,告诉|东西|事物|物品|概念
+184,12,告知,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,传达,轮数耗尽,15.85,告诉|东西|事物|物品|概念
+185,12,告知,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,4,,猜测生成失败: 格式验证失败: [通知],26.12,告诉|东西|事物|物品|概念
+186,12,告知,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,5,告知,成功,27.68,告诉|东西|事物|物品|概念
+187,12,告知,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,通知,轮数耗尽,26.36,告诉|东西|事物|物品|概念
+188,12,告知,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,说明,轮数耗尽,23.81,告诉|东西|事物|物品|概念
+189,12,告知,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,,猜测生成失败: 格式验证失败: [通知],14.86,告诉|东西|事物|物品|概念
+190,12,告知,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,1,告知,成功,2.13,告诉|东西|事物|物品|概念
+191,12,告知,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,通知,轮数耗尽,19.98,告诉|东西|事物|物品|概念
+192,12,告知,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,通知,轮数耗尽,18.15,告诉|东西|事物|物品|概念
+193,13,朽坏,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,腐烂,轮数耗尽,12.86,衰败|东西|事物|物品|概念
+194,13,朽坏,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [变质],5.87,衰败|东西|事物|物品|概念
+195,13,朽坏,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,腐朽,轮数耗尽,16.02,衰败|东西|事物|物品|概念
+196,13,朽坏,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,腐朽,轮数耗尽,10.98,衰败|东西|事物|物品|概念
+197,13,朽坏,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,,猜测生成失败: 格式验证失败: [腐烂],16.22,衰败|东西|事物|物品|概念
+198,13,朽坏,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,腐朽,轮数耗尽,15.1,衰败|东西|事物|物品|概念
+199,13,朽坏,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,枯萎,轮数耗尽,11.18,衰败|东西|事物|物品|概念
+200,13,朽坏,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,破旧,轮数耗尽,11.77,衰败|东西|事物|物品|概念
+201,13,朽坏,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,1,,线索生成失败: 格式验证失败: [木质结构年久失修]  [食物过期变质的状态]  [思想陈旧落后时代],9.19,衰败|东西|事物|物品|概念
+202,13,朽坏,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,腐烂,轮数耗尽,25.48,衰败|东西|事物|物品|概念
+203,13,朽坏,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,腐烂,轮数耗尽,25.42,衰败|东西|事物|物品|概念
+204,13,朽坏,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,朽,轮数耗尽,26.69,衰败|东西|事物|物品|概念
+205,13,朽坏,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,腐朽,轮数耗尽,12.71,衰败|东西|事物|物品|概念
+206,13,朽坏,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,腐烂,轮数耗尽,14.98,衰败|东西|事物|物品|概念
+207,13,朽坏,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,腐朽,轮数耗尽,16.99,衰败|东西|事物|物品|概念
+208,13,朽坏,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,消亡,轮数耗尽,14.85,衰败|东西|事物|物品|概念
+209,14,杜门谢客,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,隐士,轮数耗尽,9.48,隐秘|活着|东西|事物|物品
+210,14,杜门谢客,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,闭关,轮数耗尽,13.8,隐秘|活着|东西|事物|物品
+211,14,杜门谢客,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,隐居,轮数耗尽,12.09,隐秘|活着|东西|事物|物品
+212,14,杜门谢客,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,孤独,轮数耗尽,13.05,隐秘|活着|东西|事物|物品
+213,14,杜门谢客,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,出世,轮数耗尽,13.54,隐秘|活着|东西|事物|物品
+214,14,杜门谢客,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,隐士,轮数耗尽,12.74,隐秘|活着|东西|事物|物品
+215,14,杜门谢客,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,隐居,轮数耗尽,12.36,隐秘|活着|东西|事物|物品
+216,14,杜门谢客,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,隐私,轮数耗尽,9.84,隐秘|活着|东西|事物|物品
+217,14,杜门谢客,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,谢客之门,轮数耗尽,23.3,隐秘|活着|东西|事物|物品
+218,14,杜门谢客,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,闭门谢客,轮数耗尽,35.5,隐秘|活着|东西|事物|物品
+219,14,杜门谢客,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,闭门,轮数耗尽,69.8,隐秘|活着|东西|事物|物品
+220,14,杜门谢客,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,门可罗雀,轮数耗尽,47.32,隐秘|活着|东西|事物|物品
+221,14,杜门谢客,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,隐居,轮数耗尽,23.88,隐秘|活着|东西|事物|物品
+222,14,杜门谢客,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,幽灵,轮数耗尽,24.96,隐秘|活着|东西|事物|物品
+223,14,杜门谢客,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,避世,轮数耗尽,28.1,隐秘|活着|东西|事物|物品
+224,14,杜门谢客,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,密室,轮数耗尽,17.23,隐秘|活着|东西|事物|物品
+225,15,交游,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,交流,轮数耗尽,18.16,交往|东西|事物|物品|概念
+226,15,交游,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,沟通,轮数耗尽,17.66,交往|东西|事物|物品|概念
+227,15,交游,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,社交,轮数耗尽,29.1,交往|东西|事物|物品|概念
+228,15,交游,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,友谊,轮数耗尽,12.52,交往|东西|事物|物品|概念
+229,15,交游,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,4,,线索生成失败: 格式验证失败: [与人互动拓展圈子],15.36,交往|东西|事物|物品|概念
+230,15,交游,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,人际关系,轮数耗尽,14.32,交往|东西|事物|物品|概念
+231,15,交游,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,社交,轮数耗尽,10.98,交往|东西|事物|物品|概念
+232,15,交游,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,朋友,轮数耗尽,17.7,交往|东西|事物|物品|概念
+233,15,交游,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,4,,猜测生成失败: 格式验证失败: [雅集],24.22,交往|东西|事物|物品|概念
+234,15,交游,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,朋友,轮数耗尽,30.29,交往|东西|事物|物品|概念
+235,15,交游,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,聚会,轮数耗尽,20.25,交往|东西|事物|物品|概念
+236,15,交游,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,4,交游,成功,19.7,交往|东西|事物|物品|概念
+237,15,交游,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,4,,猜测生成失败: 格式验证失败: [朋友],14.66,交往|东西|事物|物品|概念
+238,15,交游,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,应酬,轮数耗尽,16.09,交往|东西|事物|物品|概念
+239,15,交游,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,朋友,轮数耗尽,22.03,交往|东西|事物|物品|概念
+240,15,交游,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,朋友,轮数耗尽,12.72,交往|东西|事物|物品|概念
+241,16,交流,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,True,5,交流,成功,11.34,交换|东西|事物|物品|概念
+242,16,交流,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,1,交流,成功,2.65,交换|东西|事物|物品|概念
+243,16,交流,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,1,交流,成功,2.14,交换|东西|事物|物品|概念
+244,16,交流,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,1,交流,成功,5.06,交换|东西|事物|物品|概念
+245,16,交流,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,True,1,交流,成功,6.17,交换|东西|事物|物品|概念
+246,16,交流,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,交流,成功,2.96,交换|东西|事物|物品|概念
+247,16,交流,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,交流,成功,3.08,交换|东西|事物|物品|概念
+248,16,交流,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,1,交流,成功,2.64,交换|东西|事物|物品|概念
+249,16,交流,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,4,,猜测生成失败: 格式验证失败: [交流],25.44,交换|东西|事物|物品|概念
+250,16,交流,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [沟通],5.9,交换|东西|事物|物品|概念
+251,16,交流,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,1,交流,成功,6.42,交换|东西|事物|物品|概念
+252,16,交流,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,2,,违反禁用词规则: ['概念'],8.85,交换|东西|事物|物品|概念
+253,16,交流,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,True,3,交流,成功,8.73,交换|东西|事物|物品|概念
+254,16,交流,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,,猜测生成失败: 格式验证失败: [沟通],16.25,交换|东西|事物|物品|概念
+255,16,交流,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,1,交流,成功,4.86,交换|东西|事物|物品|概念
+256,16,交流,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,1,交流,成功,1.81,交换|东西|事物|物品|概念
+257,17,任人摆布,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,操纵,轮数耗尽,11.16,控制|放纵|强迫|遭受|东西
+258,17,任人摆布,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,傀儡,轮数耗尽,10.28,控制|放纵|强迫|遭受|东西
+259,17,任人摆布,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,束缚,轮数耗尽,13.35,控制|放纵|强迫|遭受|东西
+260,17,任人摆布,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,失控,轮数耗尽,12.09,控制|放纵|强迫|遭受|东西
+261,17,任人摆布,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,放任,轮数耗尽,10.66,控制|放纵|强迫|遭受|东西
+262,17,任人摆布,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,揉捏,轮数耗尽,11.62,控制|放纵|强迫|遭受|东西
+263,17,任人摆布,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,盲从,轮数耗尽,11.18,控制|放纵|强迫|遭受|东西
+264,17,任人摆布,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,傀儡,轮数耗尽,10.31,控制|放纵|强迫|遭受|东西
+265,17,任人摆布,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,傀儡,轮数耗尽,26.06,控制|放纵|强迫|遭受|东西
+266,17,任人摆布,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,木偶,轮数耗尽,16.28,控制|放纵|强迫|遭受|东西
+267,17,任人摆布,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,奴役,轮数耗尽,25.82,控制|放纵|强迫|遭受|东西
+268,17,任人摆布,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,傀儡,轮数耗尽,27.74,控制|放纵|强迫|遭受|东西
+269,17,任人摆布,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,傀儡,轮数耗尽,13.18,控制|放纵|强迫|遭受|东西
+270,17,任人摆布,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,傀儡,轮数耗尽,10.0,控制|放纵|强迫|遭受|东西
+271,17,任人摆布,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,顺从,轮数耗尽,17.41,控制|放纵|强迫|遭受|东西
+272,17,任人摆布,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,傀儡,轮数耗尽,13.97,控制|放纵|强迫|遭受|东西
+273,18,跌倒,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [摔倒],3.25,东西|事物|物品|概念|内容
+274,18,跌倒,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,1,跌倒,成功,3.45,东西|事物|物品|概念|内容
+275,18,跌倒,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,1,跌倒,成功,2.31,东西|事物|物品|概念|内容
+276,18,跌倒,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,1,跌倒,成功,1.94,东西|事物|物品|概念|内容
+277,18,跌倒,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,摔倒,轮数耗尽,10.62,东西|事物|物品|概念|内容
+278,18,跌倒,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,2,跌倒,成功,4.35,东西|事物|物品|概念|内容
+279,18,跌倒,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,摔倒,轮数耗尽,12.1,东西|事物|物品|概念|内容
+280,18,跌倒,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,4,跌倒,成功,7.49,东西|事物|物品|概念|内容
+281,18,跌倒,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,1,跌倒,成功,7.96,东西|事物|物品|概念|内容
+282,18,跌倒,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,线索生成失败: 格式验证失败: [失去平衡后向下摔],4.02,东西|事物|物品|概念|内容
+283,18,跌倒,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,跌倒,成功,4.82,东西|事物|物品|概念|内容
+284,18,跌倒,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,1,跌倒,成功,5.0,东西|事物|物品|概念|内容
+285,18,跌倒,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,伤口,轮数耗尽,10.97,东西|事物|物品|概念|内容
+286,18,跌倒,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,事故,轮数耗尽,15.5,东西|事物|物品|概念|内容
+287,18,跌倒,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,3,跌倒,成功,10.16,东西|事物|物品|概念|内容
+288,18,跌倒,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,陷阱,轮数耗尽,21.13,东西|事物|物品|概念|内容
+289,19,停战,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,True,1,停战,成功,1.75,争斗|东西|事物|物品|概念
+290,19,停战,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,4,停战,成功,9.61,争斗|东西|事物|物品|概念
+291,19,停战,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,1,停战,成功,3.81,争斗|东西|事物|物品|概念
+292,19,停战,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,2,停战,成功,3.64,争斗|东西|事物|物品|概念
+293,19,停战,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [和平],3.41,争斗|东西|事物|物品|概念
+294,19,停战,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [和平],9.05,争斗|东西|事物|物品|概念
+295,19,停战,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,3,停战,成功,10.09,争斗|东西|事物|物品|概念
+296,19,停战,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,2,停战,成功,5.41,争斗|东西|事物|物品|概念
+297,19,停战,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,1,,线索生成失败: 格式验证失败: [双方不再打仗]  [冲突画上句号]  [战火终于熄灭]  [军队撤回原地]  [签署和平协议],12.91,争斗|东西|事物|物品|概念
+298,19,停战,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,停战,成功,7.5,争斗|东西|事物|物品|概念
+299,19,停战,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,1,,线索生成失败: 格式验证失败: [双方放下武器]  [对抗状态终止]  [战争休止符]  [和平协议前奏],10.39,争斗|东西|事物|物品|概念
+300,19,停战,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,5,停战,成功,16.39,争斗|东西|事物|物品|概念
+301,19,停战,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [和平],3.28,争斗|东西|事物|物品|概念
+302,19,停战,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,3,停战,成功,13.18,争斗|东西|事物|物品|概念
+303,19,停战,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,1,停战,成功,2.98,争斗|东西|事物|物品|概念
+304,19,停战,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,1,停战,成功,2.06,争斗|东西|事物|物品|概念
+305,20,百般刁难,verb,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,刁难,轮数耗尽,11.42,卖力|捣乱|东西|事物|物品
+306,20,百般刁难,verb,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,恶作剧,轮数耗尽,9.32,卖力|捣乱|东西|事物|物品
+307,20,百般刁难,verb,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,胡闹,轮数耗尽,16.44,卖力|捣乱|东西|事物|物品
+308,20,百般刁难,verb,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,恶作剧,轮数耗尽,10.26,卖力|捣乱|东西|事物|物品
+309,20,百般刁难,verb,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,刁难,轮数耗尽,9.54,卖力|捣乱|东西|事物|物品
+310,20,百般刁难,verb,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,恶作剧,轮数耗尽,9.17,卖力|捣乱|东西|事物|物品
+311,20,百般刁难,verb,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,困境,轮数耗尽,11.55,卖力|捣乱|东西|事物|物品
+312,20,百般刁难,verb,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,内鬼,轮数耗尽,17.11,卖力|捣乱|东西|事物|物品
+313,20,百般刁难,verb,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,刁难,轮数耗尽,24.03,卖力|捣乱|东西|事物|物品
+314,20,百般刁难,verb,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,刁难,轮数耗尽,22.65,卖力|捣乱|东西|事物|物品
+315,20,百般刁难,verb,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,刁难,轮数耗尽,22.45,卖力|捣乱|东西|事物|物品
+316,20,百般刁难,verb,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,刁难,轮数耗尽,16.85,卖力|捣乱|东西|事物|物品
+317,20,百般刁难,verb,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,搞破坏,轮数耗尽,14.55,卖力|捣乱|东西|事物|物品
+318,20,百般刁难,verb,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,刁难,轮数耗尽,11.0,卖力|捣乱|东西|事物|物品
+319,20,百般刁难,verb,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,破坏,轮数耗尽,13.65,卖力|捣乱|东西|事物|物品
+320,20,百般刁难,verb,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,破坏,轮数耗尽,11.77,卖力|捣乱|东西|事物|物品
+321,21,灰色,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [灰色],4.95,悲观|东西|事物|物品|概念
+322,21,灰色,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,1,灰色,成功,2.39,悲观|东西|事物|物品|概念
+323,21,灰色,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,1,灰色,成功,1.99,悲观|东西|事物|物品|概念
+324,21,灰色,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,1,灰色,成功,1.84,悲观|东西|事物|物品|概念
+325,21,灰色,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [灰色],3.45,悲观|东西|事物|物品|概念
+326,21,灰色,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,灰色,成功,1.43,悲观|东西|事物|物品|概念
+327,21,灰色,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,1,灰色,成功,1.38,悲观|东西|事物|物品|概念
+328,21,灰色,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,1,灰色,成功,2.89,悲观|东西|事物|物品|概念
+329,21,灰色,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,1,灰色,成功,6.95,悲观|东西|事物|物品|概念
+330,21,灰色,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,灰色,成功,3.3,悲观|东西|事物|物品|概念
+331,21,灰色,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,1,灰色,成功,2.8,悲观|东西|事物|物品|概念
+332,21,灰色,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,1,灰色,成功,2.72,悲观|东西|事物|物品|概念
+333,21,灰色,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [灰色],8.3,悲观|东西|事物|物品|概念
+334,21,灰色,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,1,灰色,成功,2.63,悲观|东西|事物|物品|概念
+335,21,灰色,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,1,灰色,成功,3.45,悲观|东西|事物|物品|概念
+336,21,灰色,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,1,灰色,成功,1.47,悲观|东西|事物|物品|概念
+337,22,眩目,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [霓虹灯],4.83,东西|事物|物品|概念|内容
+338,22,眩目,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,惊艳,轮数耗尽,8.57,东西|事物|物品|概念|内容
+339,22,眩目,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,强光,轮数耗尽,11.85,东西|事物|物品|概念|内容
+340,22,眩目,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,惊喜,轮数耗尽,18.94,东西|事物|物品|概念|内容
+341,22,眩目,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [绚丽],4.05,东西|事物|物品|概念|内容
+342,22,眩目,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,违反禁用词规则: ['东西'],4.54,东西|事物|物品|概念|内容
+343,22,眩目,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,刺眼,轮数耗尽,12.05,东西|事物|物品|概念|内容
+344,22,眩目,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,眩晕,轮数耗尽,9.28,东西|事物|物品|概念|内容
+345,22,眩目,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,3,,猜测生成失败: 格式验证失败: [炫目],18.77,东西|事物|物品|概念|内容
+346,22,眩目,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,1,,线索生成失败: 格式验证失败: [光线强烈到看不清楚]  [形容光彩耀眼难以直视]  [太阳照在雪地上的感觉]  [视觉上的强烈刺激],14.57,东西|事物|物品|概念|内容
+347,22,眩目,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,5,眩目,成功,60.94,东西|事物|物品|概念|内容
+348,22,眩目,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,眩晕,轮数耗尽,285.24,东西|事物|物品|概念|内容
+349,22,眩目,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,钻石,轮数耗尽,11.84,东西|事物|物品|概念|内容
+350,22,眩目,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,光芒,轮数耗尽,18.38,东西|事物|物品|概念|内容
+351,22,眩目,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,万花筒,轮数耗尽,20.8,东西|事物|物品|概念|内容
+352,22,眩目,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,太阳,轮数耗尽,12.7,东西|事物|物品|概念|内容
+353,23,坚贞不屈,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,,猜测生成失败: 格式验证失败: [信仰],15.8,东西|事物|物品|概念|内容
+354,23,坚贞不屈,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,决心,轮数耗尽,19.65,东西|事物|物品|概念|内容
+355,23,坚贞不屈,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,坚强,轮数耗尽,19.34,东西|事物|物品|概念|内容
+356,23,坚贞不屈,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,骨气,轮数耗尽,14.57,东西|事物|物品|概念|内容
+357,23,坚贞不屈,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,竹子,轮数耗尽,10.78,东西|事物|物品|概念|内容
+358,23,坚贞不屈,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,节操,轮数耗尽,15.29,东西|事物|物品|概念|内容
+359,23,坚贞不屈,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,坚定,轮数耗尽,15.94,东西|事物|物品|概念|内容
+360,23,坚贞不屈,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,骨气,轮数耗尽,21.99,东西|事物|物品|概念|内容
+361,23,坚贞不屈,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,1,,线索生成失败: 格式验证失败: [宁折不弯的精神]  [忠诚不渝的态度]  [形容烈士的气节]  [面对强权不妥协],10.39,东西|事物|物品|概念|内容
+362,23,坚贞不屈,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,宁折不弯,轮数耗尽,32.93,东西|事物|物品|概念|内容
+363,23,坚贞不屈,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,1,,线索生成失败: 格式验证失败: [面对压迫绝不低头]  [意志如磐石般稳固]  [宁折不弯的气节],6.26,东西|事物|物品|概念|内容
+364,23,坚贞不屈,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,1,,线索生成失败: 格式验证失败: [忠诚不屈的气节]  [面对强权不屈服]  [宁折不弯的精神]  [如松柏般挺立],8.15,东西|事物|物品|概念|内容
+365,23,坚贞不屈,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,坚韧,轮数耗尽,13.29,东西|事物|物品|概念|内容
+366,23,坚贞不屈,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,精神,轮数耗尽,10.7,东西|事物|物品|概念|内容
+367,23,坚贞不屈,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,竹子,轮数耗尽,19.69,东西|事物|物品|概念|内容
+368,23,坚贞不屈,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,信仰,轮数耗尽,16.94,东西|事物|物品|概念|内容
+369,24,正向,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,希望,轮数耗尽,10.9,东西|事物|物品|概念|内容
+370,24,正向,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,积极,轮数耗尽,11.09,东西|事物|物品|概念|内容
+371,24,正向,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,进步,轮数耗尽,16.27,东西|事物|物品|概念|内容
+372,24,正向,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,积极,轮数耗尽,11.44,东西|事物|物品|概念|内容
+373,24,正向,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,前途,轮数耗尽,13.49,东西|事物|物品|概念|内容
+374,24,正向,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,进步,轮数耗尽,11.8,东西|事物|物品|概念|内容
+375,24,正向,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,进步,轮数耗尽,14.91,东西|事物|物品|概念|内容
+376,24,正向,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,正面,轮数耗尽,11.1,东西|事物|物品|概念|内容
+377,24,正向,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,正面,轮数耗尽,22.88,东西|事物|物品|概念|内容
+378,24,正向,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,正,轮数耗尽,25.95,东西|事物|物品|概念|内容
+379,24,正向,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,正,轮数耗尽,24.48,东西|事物|物品|概念|内容
+380,24,正向,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,正,轮数耗尽,30.71,东西|事物|物品|概念|内容
+381,24,正向,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [乐观],6.32,东西|事物|物品|概念|内容
+382,24,正向,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,负极,轮数耗尽,19.37,东西|事物|物品|概念|内容
+383,24,正向,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,1,正向,成功,4.01,东西|事物|物品|概念|内容
+384,24,正向,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,正能量,轮数耗尽,12.05,东西|事物|物品|概念|内容
+385,25,身残志坚,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,坚韧,轮数耗尽,10.89,坚决|残疾|东西|事物|物品
+386,25,身残志坚,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,残疾人,轮数耗尽,9.98,坚决|残疾|东西|事物|物品
+387,25,身残志坚,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,勇士,轮数耗尽,15.12,坚决|残疾|东西|事物|物品
+388,25,身残志坚,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,坚强,轮数耗尽,10.06,坚决|残疾|东西|事物|物品
+389,25,身残志坚,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,残障人士,轮数耗尽,9.86,坚决|残疾|东西|事物|物品
+390,25,身残志坚,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,健全,轮数耗尽,11.31,坚决|残疾|东西|事物|物品
+391,25,身残志坚,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,坚强,轮数耗尽,18.14,坚决|残疾|东西|事物|物品
+392,25,身残志坚,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,霍金,轮数耗尽,17.36,坚决|残疾|东西|事物|物品
+393,25,身残志坚,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,坚强,轮数耗尽,34.64,坚决|残疾|东西|事物|物品
+394,25,身残志坚,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,奇迹,轮数耗尽,37.76,坚决|残疾|东西|事物|物品
+395,25,身残志坚,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,身残志坚,成功,7.07,坚决|残疾|东西|事物|物品
+396,25,身残志坚,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,3,身残志坚,成功,17.61,坚决|残疾|东西|事物|物品
+397,25,身残志坚,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,意志,轮数耗尽,12.47,坚决|残疾|东西|事物|物品
+398,25,身残志坚,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,脊梁,轮数耗尽,11.61,坚决|残疾|东西|事物|物品
+399,25,身残志坚,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,坚强,轮数耗尽,12.56,坚决|残疾|东西|事物|物品
+400,25,身残志坚,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,意志,轮数耗尽,18.33,坚决|残疾|东西|事物|物品
+401,26,委靡不振,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,颓废,轮数耗尽,8.5,消极|东西|事物|物品|概念
+402,26,委靡不振,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,颓废,轮数耗尽,11.17,消极|东西|事物|物品|概念
+403,26,委靡不振,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,抑郁,轮数耗尽,15.74,消极|东西|事物|物品|概念
+404,26,委靡不振,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,颓废,轮数耗尽,9.97,消极|东西|事物|物品|概念
+405,26,委靡不振,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,颓废,轮数耗尽,12.44,消极|东西|事物|物品|概念
+406,26,委靡不振,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,疲惫,轮数耗尽,12.04,消极|东西|事物|物品|概念
+407,26,委靡不振,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,颓废,轮数耗尽,14.61,消极|东西|事物|物品|概念
+408,26,委靡不振,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,沮丧,轮数耗尽,13.9,消极|东西|事物|物品|概念
+409,26,委靡不振,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,,猜测生成失败: 格式验证失败: [疲惫],23.6,消极|东西|事物|物品|概念
+410,26,委靡不振,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,萎靡不振,轮数耗尽,16.74,消极|东西|事物|物品|概念
+411,26,委靡不振,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,疲惫,轮数耗尽,18.35,消极|东西|事物|物品|概念
+412,26,委靡不振,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,萎靡,轮数耗尽,26.89,消极|东西|事物|物品|概念
+413,26,委靡不振,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [抑郁],2.79,消极|东西|事物|物品|概念
+414,26,委靡不振,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,沮丧,轮数耗尽,13.19,消极|东西|事物|物品|概念
+415,26,委靡不振,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,懒惰,轮数耗尽,14.66,消极|东西|事物|物品|概念
+416,26,委靡不振,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,萎靡,轮数耗尽,16.99,消极|东西|事物|物品|概念
+417,27,豪放,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,True,1,豪放,成功,1.25,直率|东西|事物|物品|概念
+418,27,豪放,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,3,豪放,成功,5.95,直率|东西|事物|物品|概念
+419,27,豪放,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,1,豪放,成功,1.57,直率|东西|事物|物品|概念
+420,27,豪放,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,5,豪放,成功,14.58,直率|东西|事物|物品|概念
+421,27,豪放,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,True,1,豪放,成功,3.62,直率|东西|事物|物品|概念
+422,27,豪放,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,1,豪放,成功,1.83,直率|东西|事物|物品|概念
+423,27,豪放,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,True,2,豪放,成功,5.66,直率|东西|事物|物品|概念
+424,27,豪放,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,洒脱,轮数耗尽,11.74,直率|东西|事物|物品|概念
+425,27,豪放,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,2,豪放,成功,8.9,直率|东西|事物|物品|概念
+426,27,豪放,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,3,豪放,成功,8.81,直率|东西|事物|物品|概念
+427,27,豪放,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,豪放,成功,3.39,直率|东西|事物|物品|概念
+428,27,豪放,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,2,豪放,成功,4.96,直率|东西|事物|物品|概念
+429,27,豪放,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,True,2,豪放,成功,4.88,直率|东西|事物|物品|概念
+430,27,豪放,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,2,豪放,成功,4.03,直率|东西|事物|物品|概念
+431,27,豪放,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,1,豪放,成功,2.55,直率|东西|事物|物品|概念
+432,27,豪放,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,1,豪放,成功,3.02,直率|东西|事物|物品|概念
+433,28,热门,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,True,1,热门,成功,2.23,东西|事物|物品|概念|内容
+434,28,热门,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,内卷,轮数耗尽,9.62,东西|事物|物品|概念|内容
+435,28,热门,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,1,热门,成功,1.72,东西|事物|物品|概念|内容
+436,28,热门,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,潮流,轮数耗尽,9.82,东西|事物|物品|概念|内容
+437,28,热门,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,True,3,热门,成功,5.27,东西|事物|物品|概念|内容
+438,28,热门,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,热点,轮数耗尽,11.29,东西|事物|物品|概念|内容
+439,28,热门,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,作品,轮数耗尽,12.03,东西|事物|物品|概念|内容
+440,28,热门,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,3,热门,成功,6.8,东西|事物|物品|概念|内容
+441,28,热门,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,热点事件,轮数耗尽,22.94,东西|事物|物品|概念|内容
+442,28,热门,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,梗,轮数耗尽,21.18,东西|事物|物品|概念|内容
+443,28,热门,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,流量明星,轮数耗尽,23.31,东西|事物|物品|概念|内容
+444,28,热门,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,网红,轮数耗尽,29.96,东西|事物|物品|概念|内容
+445,28,热门,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [冠军],7.96,东西|事物|物品|概念|内容
+446,28,热门,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,景点,轮数耗尽,11.11,东西|事物|物品|概念|内容
+447,28,热门,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,4,热门,成功,10.36,东西|事物|物品|概念|内容
+448,28,热门,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,景点,轮数耗尽,13.97,东西|事物|物品|概念|内容
+449,29,唯独,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,,猜测生成失败: 格式验证失败: [唯一],12.63,东西|事物|物品|概念|内容
+450,29,唯独,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [唯一],9.03,东西|事物|物品|概念|内容
+451,29,唯独,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,唯一,轮数耗尽,39.62,东西|事物|物品|概念|内容
+452,29,唯独,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,例外,轮数耗尽,13.64,东西|事物|物品|概念|内容
+453,29,唯独,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,唯一,轮数耗尽,14.38,东西|事物|物品|概念|内容
+454,29,唯独,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,唯一,轮数耗尽,11.18,东西|事物|物品|概念|内容
+455,29,唯独,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,唯一,轮数耗尽,11.28,东西|事物|物品|概念|内容
+456,29,唯独,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,唯一,轮数耗尽,16.52,东西|事物|物品|概念|内容
+457,29,唯独,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,3,唯独,成功,24.76,东西|事物|物品|概念|内容
+458,29,唯独,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,唯一,轮数耗尽,18.35,东西|事物|物品|概念|内容
+459,29,唯独,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,唯一,轮数耗尽,41.94,东西|事物|物品|概念|内容
+460,29,唯独,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,唯一,轮数耗尽,28.27,东西|事物|物品|概念|内容
+461,29,唯独,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,唯一,轮数耗尽,16.66,东西|事物|物品|概念|内容
+462,29,唯独,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,清醒,轮数耗尽,11.98,东西|事物|物品|概念|内容
+463,29,唯独,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,独家,轮数耗尽,16.65,东西|事物|物品|概念|内容
+464,29,唯独,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,唯一,轮数耗尽,12.21,东西|事物|物品|概念|内容
+465,30,低声,adj,chinese_general,openai/gpt-4o,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [耳语],3.3,东西|事物|物品|概念|内容
+466,30,低声,adj,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,气音,轮数耗尽,11.1,东西|事物|物品|概念|内容
+467,30,低声,adj,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,悄悄话,轮数耗尽,9.21,东西|事物|物品|概念|内容
+468,30,低声,adj,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,悄悄话,轮数耗尽,11.34,东西|事物|物品|概念|内容
+469,30,低声,adj,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,3,,线索生成失败: 格式验证失败: [怕人听见声音很小],7.89,东西|事物|物品|概念|内容
+470,30,低声,adj,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,呢喃,轮数耗尽,12.52,东西|事物|物品|概念|内容
+471,30,低声,adj,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,悄悄话,轮数耗尽,11.16,东西|事物|物品|概念|内容
+472,30,低声,adj,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,耳语,轮数耗尽,10.91,东西|事物|物品|概念|内容
+473,30,低声,adj,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,4,低声,成功,13.2,东西|事物|物品|概念|内容
+474,30,低声,adj,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,耳语,轮数耗尽,19.45,东西|事物|物品|概念|内容
+475,30,低声,adj,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,悄悄话,轮数耗尽,21.51,东西|事物|物品|概念|内容
+476,30,低声,adj,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,轻声,轮数耗尽,17.69,东西|事物|物品|概念|内容
+477,30,低声,adj,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,1,,猜测生成失败: 格式验证失败: [耳语],3.34,东西|事物|物品|概念|内容
+478,30,低声,adj,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,秘密,轮数耗尽,16.04,东西|事物|物品|概念|内容
+479,30,低声,adj,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,悄悄话,轮数耗尽,15.26,东西|事物|物品|概念|内容
+480,30,低声,adj,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,True,4,低声,成功,11.46,东西|事物|物品|概念|内容
+481,31,信息匮乏地,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,匮乏,轮数耗尽,9.66,信息|不足|东西|事物|物品
+482,31,信息匮乏地,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,贫乏,轮数耗尽,10.74,信息|不足|东西|事物|物品
+483,31,信息匮乏地,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,稀缺,轮数耗尽,11.49,信息|不足|东西|事物|物品
+484,31,信息匮乏地,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,数据饥荒,轮数耗尽,10.09,信息|不足|东西|事物|物品
+485,31,信息匮乏地,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,缺乏,轮数耗尽,9.06,信息|不足|东西|事物|物品
+486,31,信息匮乏地,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,片面,轮数耗尽,9.84,信息|不足|东西|事物|物品
+487,31,信息匮乏地,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,无知,轮数耗尽,9.38,信息|不足|东西|事物|物品
+488,31,信息匮乏地,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,证据,轮数耗尽,9.89,信息|不足|东西|事物|物品
+489,31,信息匮乏地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,盲区,轮数耗尽,19.29,信息|不足|东西|事物|物品
+490,31,信息匮乏地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,4,,违反禁用词规则: ['不足'],15.27,信息|不足|东西|事物|物品
+491,31,信息匮乏地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,盲点,轮数耗尽,18.93,信息|不足|东西|事物|物品
+492,31,信息匮乏地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,未知,轮数耗尽,18.69,信息|不足|东西|事物|物品
+493,31,信息匮乏地,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,空白,轮数耗尽,10.79,信息|不足|东西|事物|物品
+494,31,信息匮乏地,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,匮乏,轮数耗尽,11.02,信息|不足|东西|事物|物品
+495,31,信息匮乏地,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,迷茫,轮数耗尽,12.15,信息|不足|东西|事物|物品
+496,31,信息匮乏地,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,无知,轮数耗尽,10.67,信息|不足|东西|事物|物品
+497,32,缕缕行行,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,1,,违反禁用词规则: ['事物'],0.82,连续|东西|事物|物品|概念
+498,32,缕缕行行,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,1,,猜测生成失败: 格式验证失败: [序列],3.79,连续|东西|事物|物品|概念
+499,32,缕缕行行,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,云,轮数耗尽,12.45,连续|东西|事物|物品|概念
+500,32,缕缕行行,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,3,,违反禁用词规则: ['事物'],11.51,连续|东西|事物|物品|概念
+501,32,缕缕行行,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,条纹,轮数耗尽,11.01,连续|东西|事物|物品|概念
+502,32,缕缕行行,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [足迹],10.25,连续|东西|事物|物品|概念
+503,32,缕缕行行,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,顺序,轮数耗尽,12.86,连续|东西|事物|物品|概念
+504,32,缕缕行行,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,整齐,轮数耗尽,13.74,连续|东西|事物|物品|概念
+505,32,缕缕行行,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,,猜测生成失败: 格式验证失败: [队伍],20.34,连续|东西|事物|物品|概念
+506,32,缕缕行行,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,摩肩接踵,轮数耗尽,22.23,连续|东西|事物|物品|概念
+507,32,缕缕行行,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,络绎不绝,轮数耗尽,22.19,连续|东西|事物|物品|概念
+508,32,缕缕行行,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,缕缕不绝,轮数耗尽,20.85,连续|东西|事物|物品|概念
+509,32,缕缕行行,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,川流不息,轮数耗尽,14.48,连续|东西|事物|物品|概念
+510,32,缕缕行行,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,4,,猜测生成失败: 格式验证失败: [人山人海],12.62,连续|东西|事物|物品|概念
+511,32,缕缕行行,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,队伍,轮数耗尽,11.19,连续|东西|事物|物品|概念
+512,32,缕缕行行,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,排队,轮数耗尽,12.76,连续|东西|事物|物品|概念
+513,33,钦佩地,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,崇拜,轮数耗尽,13.19,友善|东西|事物|物品|概念
+514,33,钦佩地,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,崇拜,轮数耗尽,13.62,友善|东西|事物|物品|概念
+515,33,钦佩地,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,欣赏,轮数耗尽,12.97,友善|东西|事物|物品|概念
+516,33,钦佩地,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,尊敬,轮数耗尽,15.62,友善|东西|事物|物品|概念
+517,33,钦佩地,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [敬意],6.9,友善|东西|事物|物品|概念
+518,33,钦佩地,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [赞美],5.87,友善|东西|事物|物品|概念
+519,33,钦佩地,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,崇拜,轮数耗尽,17.13,友善|东西|事物|物品|概念
+520,33,钦佩地,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,微笑,轮数耗尽,11.42,友善|东西|事物|物品|概念
+521,33,钦佩地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,1,,线索生成失败: 格式验证失败: [眼神充满敬意地看着],2.95,友善|东西|事物|物品|概念
+522,33,钦佩地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,敬佩,轮数耗尽,22.75,友善|东西|事物|物品|概念
+523,33,钦佩地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,崇拜,轮数耗尽,23.48,友善|东西|事物|物品|概念
+524,33,钦佩地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,敬佩,轮数耗尽,37.57,友善|东西|事物|物品|概念
+525,33,钦佩地,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [偶像],13.19,友善|东西|事物|物品|概念
+526,33,钦佩地,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,敬仰,轮数耗尽,31.18,友善|东西|事物|物品|概念
+527,33,钦佩地,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,尊敬,轮数耗尽,30.44,友善|东西|事物|物品|概念
+528,33,钦佩地,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,尊敬,轮数耗尽,25.13,友善|东西|事物|物品|概念
+529,34,毫不,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,迹象,轮数耗尽,27.14,功能|东西|事物|物品|概念
+530,34,毫不,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,麻木,轮数耗尽,23.81,功能|东西|事物|物品|概念
+531,34,毫不,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,无,轮数耗尽,19.79,功能|东西|事物|物品|概念
+532,34,毫不,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,无,轮数耗尽,17.83,功能|东西|事物|物品|概念
+533,34,毫不,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [毫无],12.85,功能|东西|事物|物品|概念
+534,34,毫不,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,彻底,轮数耗尽,17.14,功能|东西|事物|物品|概念
+535,34,毫不,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,绝对,轮数耗尽,21.11,功能|东西|事物|物品|概念
+536,34,毫不,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,选择,轮数耗尽,16.28,功能|东西|事物|物品|概念
+537,34,毫不,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [不],14.82,功能|东西|事物|物品|概念
+538,34,毫不,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,毫,轮数耗尽,29.37,功能|东西|事物|物品|概念
+539,34,毫不,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,4,毫不,成功,23.56,功能|东西|事物|物品|概念
+540,34,毫不,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,绝,轮数耗尽,37.14,功能|东西|事物|物品|概念
+541,34,毫不,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,果断,轮数耗尽,20.26,功能|东西|事物|物品|概念
+542,34,毫不,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,4,毫不在意,成功,13.24,功能|东西|事物|物品|概念
+543,34,毫不,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,不决,轮数耗尽,17.81,功能|东西|事物|物品|概念
+544,34,毫不,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,纠结,轮数耗尽,13.04,功能|东西|事物|物品|概念
+545,35,照例,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,习惯,轮数耗尽,19.95,经常|东西|事物|物品|概念
+546,35,照例,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,规矩,轮数耗尽,17.22,经常|东西|事物|物品|概念
+547,35,照例,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,习惯,轮数耗尽,12.76,经常|东西|事物|物品|概念
+548,35,照例,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,照常,轮数耗尽,11.55,经常|东西|事物|物品|概念
+549,35,照例,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,习惯,轮数耗尽,15.89,经常|东西|事物|物品|概念
+550,35,照例,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,日常,轮数耗尽,19.36,经常|东西|事物|物品|概念
+551,35,照例,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,平常,轮数耗尽,17.61,经常|东西|事物|物品|概念
+552,35,照例,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,习惯,轮数耗尽,18.57,经常|东西|事物|物品|概念
+553,35,照例,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [习惯],9.63,经常|东西|事物|物品|概念
+554,35,照例,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,传统,轮数耗尽,28.5,经常|东西|事物|物品|概念
+555,35,照例,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,习惯,轮数耗尽,26.73,经常|东西|事物|物品|概念
+556,35,照例,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,True,5,照例,成功,24.15,经常|东西|事物|物品|概念
+557,35,照例,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,习惯,轮数耗尽,19.99,经常|东西|事物|物品|概念
+558,35,照例,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,传统,轮数耗尽,14.55,经常|东西|事物|物品|概念
+559,35,照例,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,守旧,轮数耗尽,16.93,经常|东西|事物|物品|概念
+560,35,照例,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,惯例,轮数耗尽,15.64,经常|东西|事物|物品|概念
+561,36,确切地,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,描述,轮数耗尽,15.2,精确|东西|事物|物品|概念
+562,36,确切地,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,准确,轮数耗尽,20.51,精确|东西|事物|物品|概念
+563,36,确切地,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,真实,轮数耗尽,11.03,精确|东西|事物|物品|概念
+564,36,确切地,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,准确,轮数耗尽,9.58,精确|东西|事物|物品|概念
+565,36,确切地,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,确实,轮数耗尽,9.43,精确|东西|事物|物品|概念
+566,36,确切地,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,简直,轮数耗尽,17.2,精确|东西|事物|物品|概念
+567,36,确切地,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,确实,轮数耗尽,18.42,精确|东西|事物|物品|概念
+568,36,确切地,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,定义,轮数耗尽,12.87,精确|东西|事物|物品|概念
+569,36,确切地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,准确,轮数耗尽,24.49,精确|东西|事物|物品|概念
+570,36,确切地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,准确,轮数耗尽,22.88,精确|东西|事物|物品|概念
+571,36,确切地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,准确,轮数耗尽,31.08,精确|东西|事物|物品|概念
+572,36,确切地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,准确,轮数耗尽,29.23,精确|东西|事物|物品|概念
+573,36,确切地,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,对称,轮数耗尽,14.4,精确|东西|事物|物品|概念
+574,36,确切地,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,彻底,轮数耗尽,10.76,精确|东西|事物|物品|概念
+575,36,确切地,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,准确,轮数耗尽,19.52,精确|东西|事物|物品|概念
+576,36,确切地,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,准确,轮数耗尽,13.99,精确|东西|事物|物品|概念
+577,37,很遗憾,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,糟糕,轮数耗尽,11.85,倒霉|东西|事物|物品|概念
+578,37,很遗憾,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,遗憾,轮数耗尽,15.13,倒霉|东西|事物|物品|概念
+579,37,很遗憾,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,遗憾,轮数耗尽,12.93,倒霉|东西|事物|物品|概念
+580,37,很遗憾,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,泡汤,轮数耗尽,12.46,倒霉|东西|事物|物品|概念
+581,37,很遗憾,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,遗憾,轮数耗尽,14.45,倒霉|东西|事物|物品|概念
+582,37,很遗憾,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,遗憾,轮数耗尽,12.66,倒霉|东西|事物|物品|概念
+583,37,很遗憾,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,内疚,轮数耗尽,13.63,倒霉|东西|事物|物品|概念
+584,37,很遗憾,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,遗憾,轮数耗尽,11.22,倒霉|东西|事物|物品|概念
+585,37,很遗憾,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,遗憾,轮数耗尽,21.29,倒霉|东西|事物|物品|概念
+586,37,很遗憾,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,可惜,轮数耗尽,27.32,倒霉|东西|事物|物品|概念
+587,37,很遗憾,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,可惜,轮数耗尽,27.84,倒霉|东西|事物|物品|概念
+588,37,很遗憾,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,糟糕,轮数耗尽,21.89,倒霉|东西|事物|物品|概念
+589,37,很遗憾,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,糟糕,轮数耗尽,13.26,倒霉|东西|事物|物品|概念
+590,37,很遗憾,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,遗憾,轮数耗尽,16.02,倒霉|东西|事物|物品|概念
+591,37,很遗憾,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,天哪,轮数耗尽,13.8,倒霉|东西|事物|物品|概念
+592,37,很遗憾,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,可惜了,轮数耗尽,14.4,倒霉|东西|事物|物品|概念
+593,38,何故,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,4,,猜测生成失败: 格式验证失败: [何故],11.33,功能|疑问|东西|事物|物品
+594,38,何故,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,3,何故,成功,5.88,功能|疑问|东西|事物|物品
+595,38,何故,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,何,轮数耗尽,10.93,功能|疑问|东西|事物|物品
+596,38,何故,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,5,何故,成功,10.72,功能|疑问|东西|事物|物品
+597,38,何故,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,True,3,何故,成功,8.63,功能|疑问|东西|事物|物品
+598,38,何故,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,原因,轮数耗尽,11.14,功能|疑问|东西|事物|物品
+599,38,何故,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,原因,轮数耗尽,22.45,功能|疑问|东西|事物|物品
+600,38,何故,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,为什么,轮数耗尽,15.98,功能|疑问|东西|事物|物品
+601,38,何故,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,2,何故,成功,12.27,功能|疑问|东西|事物|物品
+602,38,何故,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,2,何故,成功,9.08,功能|疑问|东西|事物|物品
+603,38,何故,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,何故,成功,11.36,功能|疑问|东西|事物|物品
+604,38,何故,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,3,,违反禁用词规则: ['疑问'],12.8,功能|疑问|东西|事物|物品
+605,38,何故,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,2,,猜测生成失败: 格式验证失败: [原因],6.74,功能|疑问|东西|事物|物品
+606,38,何故,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,5,曷,轮数耗尽,10.68,功能|疑问|东西|事物|物品
+607,38,何故,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,2,何故,成功,6.16,功能|疑问|东西|事物|物品
+608,38,何故,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,所以,轮数耗尽,20.46,功能|疑问|东西|事物|物品
+609,39,相应地,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,应变,轮数耗尽,10.79,一致|东西|事物|物品|概念
+610,39,相应地,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,3,,猜测生成失败: 格式验证失败: [随机应变],9.44,一致|东西|事物|物品|概念
+611,39,相应地,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,适应,轮数耗尽,10.77,一致|东西|事物|物品|概念
+612,39,相应地,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,标准,轮数耗尽,18.75,一致|东西|事物|物品|概念
+613,39,相应地,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,5,回报,轮数耗尽,10.72,一致|东西|事物|物品|概念
+614,39,相应地,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,趋势,轮数耗尽,13.62,一致|东西|事物|物品|概念
+615,39,相应地,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,目标,轮数耗尽,10.92,一致|东西|事物|物品|概念
+616,39,相应地,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,呼应,轮数耗尽,12.58,一致|东西|事物|物品|概念
+617,39,相应地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,5,呼应,轮数耗尽,19.04,一致|东西|事物|物品|概念
+618,39,相应地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,False,5,呼应,轮数耗尽,16.92,一致|东西|事物|物品|概念
+619,39,相应地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,3,相应地,成功,11.87,一致|东西|事物|物品|概念
+620,39,相应地,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,3,,违反禁用词规则: ['一致'],8.42,一致|东西|事物|物品|概念
+621,39,相应地,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,5,灵活,轮数耗尽,12.59,一致|东西|事物|物品|概念
+622,39,相应地,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,False,2,,猜测生成失败: 格式验证失败: [灵活],9.79,一致|东西|事物|物品|概念
+623,39,相应地,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,False,5,针对性,轮数耗尽,14.07,一致|东西|事物|物品|概念
+624,39,相应地,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,符合,轮数耗尽,16.69,一致|东西|事物|物品|概念
+625,40,从此,adv,chinese_general,openai/gpt-4o,openai/gpt-4o,False,5,,猜测生成失败: 格式验证失败: [毕业],9.51,功能|东西|事物|物品|概念
+626,40,从此,adv,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,False,5,历史,轮数耗尽,9.63,功能|东西|事物|物品|概念
+627,40,从此,adv,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,False,5,转折点,轮数耗尽,8.29,功能|东西|事物|物品|概念
+628,40,从此,adv,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,False,5,转折点,轮数耗尽,13.45,功能|东西|事物|物品|概念
+629,40,从此,adv,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,3,,猜测生成失败: 格式验证失败: [永恒],8.62,功能|东西|事物|物品|概念
+630,40,从此,adv,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,False,5,创新,轮数耗尽,11.0,功能|东西|事物|物品|概念
+631,40,从此,adv,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,决心,轮数耗尽,21.5,功能|东西|事物|物品|概念
+632,40,从此,adv,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,False,5,转折点,轮数耗尽,12.39,功能|东西|事物|物品|概念
+633,40,从此,adv,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,True,3,从此,成功,6.7,功能|东西|事物|物品|概念
+634,40,从此,adv,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,3,从此,成功,18.79,功能|东西|事物|物品|概念
+635,40,从此,adv,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,False,5,自,轮数耗尽,33.57,功能|东西|事物|物品|概念
+636,40,从此,adv,chinese_general,deepseek/deepseek-chat-v3-0324,moonshotai/kimi-k2,False,5,既而,轮数耗尽,23.43,功能|东西|事物|物品|概念
+637,40,从此,adv,chinese_general,moonshotai/kimi-k2,openai/gpt-4o,False,3,,猜测生成失败: 格式验证失败: [未来],7.16,功能|东西|事物|物品|概念
+638,40,从此,adv,chinese_general,moonshotai/kimi-k2,google/gemini-2.5-flash,True,5,从此,成功,11.55,功能|东西|事物|物品|概念
+639,40,从此,adv,chinese_general,moonshotai/kimi-k2,deepseek/deepseek-chat-v3-0324,True,4,从此,成功,17.82,功能|东西|事物|物品|概念
+640,40,从此,adv,chinese_general,moonshotai/kimi-k2,moonshotai/kimi-k2,False,5,未来,轮数耗尽,14.33,功能|东西|事物|物品|概念

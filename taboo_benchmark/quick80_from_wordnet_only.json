@@ -1,0 +1,773 @@
+[
+  {
+    "target": "obtrusively",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "obtrusive",
+      "unobtrusively",
+      "noticeably",
+      "intrusively"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "obtrusively.r.01",
+        "pos": "r",
+        "definition": "in an obtrusive manner",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "permissively",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "permissive",
+      "leniently",
+      "freely",
+      "tolerantly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "permissively.r.01",
+        "pos": "r",
+        "definition": "in a permissive manner",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "nervily",
+    "part_of_speech": "adv",
+    "taboo": [
+      "cheeky",
+      "manner",
+      "brash",
+      "brashly",
+      "cheekily"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "cheekily.r.01",
+        "pos": "r",
+        "definition": "in a brash cheeky manner",
+        "examples": [
+          "brashly, she asked for a rebate"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "past",
+    "part_of_speech": "adv",
+    "taboo": [
+      "given",
+      "point",
+      "pass",
+      "by",
+      "beyond"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "by.r.01",
+        "pos": "r",
+        "definition": "so as to pass a given point",
+        "examples": [
+          "every hour a train goes past"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "chattily",
+    "part_of_speech": "adv",
+    "taboo": [
+      "chatty",
+      "manner",
+      "volubly",
+      "talkatively",
+      "conversationally"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "chattily.r.01",
+        "pos": "r",
+        "definition": "in a chatty manner",
+        "examples": [
+          "`when I was a girl,' she said chattily, `I used to ride a bicycle'"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "forbiddingly",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "menacing",
+      "unpleasant",
+      "threateningly",
+      "intimidatingly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "forbiddingly.r.01",
+        "pos": "r",
+        "definition": "in an unpleasant or menacing manner",
+        "examples": [
+          "it was forbiddingly dark in the corridor"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "sneakingly",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "sneaky",
+      "furtively",
+      "stealthily",
+      "covertly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "sneakingly.r.01",
+        "pos": "r",
+        "definition": "in a sneaky manner",
+        "examples": [
+          "I always felt sneakingly that I wanted to be a concert pianist"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "wickedly",
+    "part_of_speech": "adv",
+    "taboo": [
+      "evilly",
+      "manner",
+      "wicked",
+      "evil",
+      "sinfully"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "wickedly.r.01",
+        "pos": "r",
+        "definition": "in a wicked evil manner",
+        "examples": [
+          "act wickedly",
+          "grin evilly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "tonight",
+    "part_of_speech": "adv",
+    "taboo": [
+      "night",
+      "present",
+      "this",
+      "thisnight",
+      "thisevening"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "tonight.r.01",
+        "pos": "r",
+        "definition": "during the night of the present day",
+        "examples": [
+          "drop by tonight"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "concisely",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "briefly",
+      "concise",
+      "inbrief",
+      "inshort"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "concisely.r.01",
+        "pos": "r",
+        "definition": "in a concise manner; in a few words",
+        "examples": [
+          "the history is summed up concisely in this book",
+          "she replied briefly",
+          "briefly, we have a problem",
+          "to put it shortly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "p.m.",
+    "part_of_speech": "adv",
+    "taboo": [
+      "midnight",
+      "noon",
+      "post",
+      "postmeridiem",
+      "afternoon"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "post_meridiem.r.01",
+        "pos": "r",
+        "definition": "between noon and midnight",
+        "examples": [
+          "let's meet at 8 P.M."
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "insanely",
+    "part_of_speech": "adv",
+    "taboo": [
+      "insane",
+      "manner",
+      "sanely",
+      "crazily",
+      "madly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "insanely.r.01",
+        "pos": "r",
+        "definition": "in an insane manner",
+        "examples": [
+          "she behaved insanely",
+          "he behaves crazily when he is off his medication",
+          "the witch cackled madly",
+          "screaming dementedly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "capably",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "aptly",
+      "capable",
+      "ably",
+      "competent"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "competently.r.01",
+        "pos": "r",
+        "definition": "with competence; in a competent capable manner",
+        "examples": [
+          "they worked competently"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "low",
+    "part_of_speech": "adv",
+    "taboo": [
+      "ground",
+      "position",
+      "down",
+      "beneath",
+      "bottom"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "low.r.01",
+        "pos": "r",
+        "definition": "in a low position; near the ground",
+        "examples": [
+          "the branches hung low"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 16,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "kinda",
+    "part_of_speech": "adv",
+    "taboo": [
+      "extent",
+      "kindof",
+      "rather",
+      "sortof",
+      "great"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "rather.r.02",
+        "pos": "r",
+        "definition": "to some (great or small) extent",
+        "examples": [
+          "it was rather cold",
+          "the party was rather nice",
+          "the knife is rather dull",
+          "I rather regret that I cannot attend",
+          "He's rather good at playing the cello",
+          "he is kind of shy"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "inquiringly",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "inquiring",
+      "enquiringly",
+      "questioningly",
+      "curiously"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "inquiringly.r.01",
+        "pos": "r",
+        "definition": "in an inquiring manner",
+        "examples": [
+          "Tom Swift looked at his cabin mates inquiringly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "often",
+    "part_of_speech": "adv",
+    "taboo": [
+      "short",
+      "times",
+      "many",
+      "ofttimes",
+      "intervals"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "frequently.r.01",
+        "pos": "r",
+        "definition": "many times at short intervals",
+        "examples": [
+          "we often met over a cup of coffee"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "con",
+    "part_of_speech": "adv",
+    "taboo": [
+      "opinion",
+      "pro",
+      "opposition",
+      "proposition",
+      "against"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "con.r.01",
+        "pos": "r",
+        "definition": "in opposition to a proposition, opinion, etc.",
+        "examples": [
+          "much was written pro and con"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "centennially",
+    "part_of_speech": "adv",
+    "taboo": [
+      "century",
+      "years",
+      "centenary",
+      "hundredth",
+      "anniversary"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "centennially.r.01",
+        "pos": "r",
+        "definition": "every hundred years; once in a century",
+        "examples": [
+          "the birthday of this city is being celebrated centennially"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "unmemorably",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "memorably",
+      "unmemorable",
+      "forgettably",
+      "indistinctly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "unmemorably.r.01",
+        "pos": "r",
+        "definition": "in an unmemorable manner",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "dispensed",
+    "part_of_speech": "verb",
+    "taboo": [
+      "bestow",
+      "parcel",
+      "allot",
+      "dealout",
+      "dishout"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "distribute.v.01",
+        "pos": "v",
+        "definition": "administer or bestow, as in small portions",
+        "examples": [
+          "administer critical remarks to everyone present",
+          "dole out some money",
+          "shell out pocket money for the children",
+          "deal a blow to someone",
+          "the machine dispenses soft drinks"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "bevel",
+    "part_of_speech": "verb",
+    "taboo": [
+      "chamfer",
+      "miter",
+      "shape",
+      "cone",
+      "angle"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "bevel.v.01",
+        "pos": "v",
+        "definition": "cut a bevel on; shape to a bevel",
+        "examples": [
+          "bevel the surface"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "mushroom",
+    "part_of_speech": "verb",
+    "taboo": [
+      "gather",
+      "pluck",
+      "cull",
+      "pick",
+      "mushrooms"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "mushroom.v.01",
+        "pos": "v",
+        "definition": "pick or gather mushrooms",
+        "examples": [
+          "We went mushrooming in the Fall"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 7,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "believing",
+    "part_of_speech": "verb",
+    "taboo": [
+      "accept",
+      "believe",
+      "swear",
+      "trust",
+      "bank"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "believe.v.01",
+        "pos": "v",
+        "definition": "accept as true; take to be true",
+        "examples": [
+          "I believed his report",
+          "We didn't believe his stories from the War",
+          "She believes in spirits"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "caulk",
+    "part_of_speech": "verb",
+    "taboo": [
+      "calk",
+      "caulking",
+      "seal",
+      "fill",
+      "grout"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "caulk.v.01",
+        "pos": "v",
+        "definition": "seal with caulking",
+        "examples": [
+          "caulk the window"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "ranking",
+    "part_of_speech": "verb",
+    "taboo": [
+      "others",
+      "place",
+      "come",
+      "position",
+      "rank"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "rank.v.01",
+        "pos": "v",
+        "definition": "take or have a position relative to others",
+        "examples": [
+          "This painting ranks among the best in the Western World"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 5,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "farm",
+    "part_of_speech": "verb",
+    "taboo": [
+      "farmer",
+      "ranch",
+      "work",
+      "cultivate",
+      "agriculture"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "farm.v.01",
+        "pos": "v",
+        "definition": "be a farmer; work as a farmer",
+        "examples": [
+          "My son is farming in California"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "brooks",
+    "part_of_speech": "verb",
+    "taboo": [
+      "digest",
+      "endure",
+      "permit",
+      "suffer",
+      "abide"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "digest.v.03",
+        "pos": "v",
+        "definition": "put up with something or somebody unpleasant",
+        "examples": [
+          "I cannot bear his constant criticism",
+          "The new secretary had to endure a lot of unprofessional remarks",
+          "he learned to tolerate the heat",
+          "She stuck out two years in a miserable marriage"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  }
+]

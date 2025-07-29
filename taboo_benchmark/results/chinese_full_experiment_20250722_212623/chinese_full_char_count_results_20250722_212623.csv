@@ -1,0 +1,12 @@
+﻿game_id,word_index,target_word,part_of_speech,category,hinter_model,guesser_model,success,turns_used,final_guess,failure_reason,taboo_violation_turn,taboo_violation_hint,has_taboo_violation,all_hints,all_guesses,conversation,total_api_attempts,format_errors,has_format_errors,duration_seconds,timestamp,language,dataset_source,taboo_words,char_count,error
+1,1,遗体,noun,chinese_general,openai/gpt-4o,openai/gpt-4o,False,1,None,猜测生成失败: 格式验证失败: [遗体],None,None,False,,,,0,,False,3.44,2025-07-22 21:26:26,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+2,1,遗体,noun,chinese_general,openai/gpt-4o,google/gemini-2.5-flash,True,4,遗体,成功,None,None,False,,,,0,,False,9.31,2025-07-22 21:26:36,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+3,1,遗体,noun,chinese_general,openai/gpt-4o,deepseek/deepseek-chat-v3-0324,True,2,遗体,成功,None,None,False,,,,0,,False,5.75,2025-07-22 21:26:42,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+4,1,遗体,noun,chinese_general,openai/gpt-4o,moonshotai/kimi-k2,True,1,遗体,成功,None,None,False,,,,0,,False,2.59,2025-07-22 21:26:45,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+5,1,遗体,noun,chinese_general,google/gemini-2.5-flash,openai/gpt-4o,False,1,None,猜测生成失败: 格式验证失败: [尸体],None,None,False,,,,0,,False,4.07,2025-07-22 21:26:50,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+6,1,遗体,noun,chinese_general,google/gemini-2.5-flash,google/gemini-2.5-flash,True,2,遗体,成功,None,None,False,,,,0,,False,3.28,2025-07-22 21:26:54,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+7,1,遗体,noun,chinese_general,google/gemini-2.5-flash,deepseek/deepseek-chat-v3-0324,False,5,尸体,MAX_TURNS_EXCEEDED,None,None,False,,,,0,,False,13.74,2025-07-22 21:27:08,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+8,1,遗体,noun,chinese_general,google/gemini-2.5-flash,moonshotai/kimi-k2,True,1,遗体,成功,None,None,False,,,,0,,False,1.5,2025-07-22 21:27:10,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+9,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,openai/gpt-4o,False,2,None,猜测生成失败: 格式验证失败: [遗体],None,None,False,,,,0,,False,6.7,2025-07-22 21:27:17,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+10,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,google/gemini-2.5-flash,True,1,遗体,成功,None,None,False,,,,0,,False,1.33,2025-07-22 21:27:19,chinese,openhownet,动物|部件|生理学|东西|事物,2,
+11,1,遗体,noun,chinese_general,deepseek/deepseek-chat-v3-0324,deepseek/deepseek-chat-v3-0324,True,2,遗体,成功,None,None,False,,,,0,,False,11.34,2025-07-22 21:27:31,chinese,openhownet,动物|部件|生理学|东西|事物,2,

@@ -1,0 +1,615 @@
+1%/10 net 30
+10-k
+10-q sec form
+10-year treasury note
+1040 irs form
+1040a form
+1040ez form
+11th district cost of funds index
+12b-1 fee
+183-day rule
+30-year treasury
+457 plan
+5/1 hybrid adjustable-rate mortgage
+51% attack
+52-week high/low
+529 plan
+80-20 rule
+absolute advantage
+accounting equation
+accounting rate of return
+acid-test ratio
+acquisition
+adverse selection
+after-hours trading
+alpha: its meaning in investing, with examples
+amalgamation
+american depositary receipt
+american dream
+analysis of variance
+angel investor: definition and how it works
+annual percentage rate
+annuity
+applicable federal rate
+artificial intelligence
+asset
+asset management
+assets under management
+automated clearing house
+automated teller machine
+average true range
+balance sheet
+balanced scorecard
+bank identification numbers
+bankruptcy
+baye's theorem
+bear market
+berkshire hathaway
+bernie madoff
+beta
+bill of lading
+bitcoin mining
+blockchain
+bollinger band
+bond
+break-even analysis
+brexit
+budget
+budget deficit
+bull market
+business cycle
+business ethics
+business model
+business valuation
+business-to-consumer
+capital
+capital asset pricing model
+capital expenditure
+capitalism
+central limit theorem
+chartered financial analyst
+chief executive officer
+code of ethics
+coefficient of variation
+collateral
+command economy
+comparative advantage
+compound annual growth rate
+compound interest
+conflict theory
+consumer price index
+contribution margin
+correlation
+correlation coefficient
+cost of goods sold
+creative destruction
+credit default swap
+current ratio
+customer service
+days payable outstanding
+days sales outstanding
+debenture
+debt ratio
+debt-service coverage ratio
+debt-to-equity ratio
+deferred compensation
+delivered duty paid
+delivered duty unpaid
+delivered-at-place
+demand
+demand elasticity
+demonetization
+derivative
+dilution
+disbursement
+discount rate
+diversification
+dividend
+dividend payout ratio
+dividend yield
+dow jones industrial average
+due diligence
+dupont analysis
+earnest money
+earnings before interest and taxes
+earnings per share
+ebita
+economic growth
+economic moat
+economics
+economies of scale
+employee stock ownership plan
+endowment fund
+enterprise resource planning
+enterprise value
+entrepreneur
+environmental protection agency
+environmental, social, and governance
+equity
+equivalent annual cost
+escrow
+european union
+ex-dividend
+exchange rate
+exchange-traded fund
+externality
+faang stocks
+factors of production
+fang stocks
+feasibility study
+federal deposit insurance corporation
+federal funds rate
+federal housing administration loan
+federal insurance contributions act
+fiat money
+fiduciary
+finance
+financial institution
+financial statements
+financial technology
+fiscal policy
+fixed income
+fixed-income security
+four ps
+free carrier
+free market
+free on board
+free trade
+fringe benefits
+futures
+game theory
+gamma
+general agreement on tariffs and trade
+general data protection regulation
+general ledger
+generally accepted accounting principles
+generation x
+geometric mean
+giffen good
+gini index
+globalization
+goods and services tax
+goodwill
+gordon growth model
+government bond
+government shutdown
+great depression
+gross domestic product
+gross income
+gross margin
+gross national product
+gross profit
+gross profit margin
+guarantor
+hard skills
+harmonic mean
+head and shoulders pattern
+health maintenance organizations
+health savings account
+hedge
+hedge fund
+herfindahl-hirschman index
+heteroskedasticity
+high-low method
+high-net-worth individual
+hold harmless clause
+holding company
+home equity loan
+homeowners association
+homeowners association fee
+homestead exemption
+horizontal integration
+hostile takeover
+housing bubble
+human capital
+hurdle rate
+hyperinflation
+hypothesis testing
+ia-1092 sec release
+income
+income statement
+indemnity
+indemnity insurance
+index fund
+individual retirement account
+industrial revolution
+inferior good
+inflation
+initial public offerings
+insider trading
+insurance
+insurance premium
+interest coverage ratio
+interest rate
+internal rate of return
+internal revenue service
+international financial reporting standards
+international monetary fund
+interpersonal skills
+inventory turnover
+inverted yield curve
+invisible hand
+irrevocable trust
+j-curve
+january effect
+japanese government bond
+jensen's measure
+job market
+john maynard keynes
+joint and several liability
+joint probability
+joint tenancy
+joint tenants with right of survivorship
+joint venture
+joint-stock company
+jones act
+joseph schumpeter
+journal
+jumbo cd
+jumbo loan
+junk bond
+juris doctor
+jurisdiction risk
+just in case
+just in time
+kaizen
+karl marx
+keltner channel
+keogh plan
+key performance indicators
+key person insurance
+key rate duration
+keynesian economics
+kickback
+kiddie tax
+kiosk
+kiting
+klinger oscillator
+knock-in option
+knock-out option
+know sure thing
+know your client
+knowledge economy
+knowledge process outsourcing
+korean composite stock price indexes
+kurtosis
+kuwaiti dinar
+laissez-faire
+law of demand
+law of supply
+law of supply and demand
+leadership
+letter of intent
+letters of credit
+leverage
+leverage ratio
+leveraged buyout
+liability
+liability insurance
+limit order
+limited liability company
+limited partnership
+line of credit
+liquidation
+liquidity
+liquidity coverage ratio
+liquidity ratio
+loan-to-value ratio
+london inter-bank offered rate
+ltd.
+macroeconomics
+magna cum laude
+management by objectives
+margin
+margin call
+market share
+marketing
+marketing strategy
+master limited partnership
+memorandum of understanding
+mercantilism
+mergers and acquisitions
+milton friedman
+mixed economic system
+monetary policy
+money laundering
+money market account
+monopolistic competition
+monte carlo simulation
+moore's law
+moving average convergence divergence
+multilevel marketing
+mutual fund
+mutually exclusive
+nasdaq
+nash equilibrium
+negative correlation
+neoliberalism
+net asset value
+net income
+net operating income
+net present value
+net profit margin
+net worth
+netting
+network marketing
+networking
+new york stock exchange
+next of kin
+ninja loan
+nominal
+non-disclosure agreement
+normal distribution
+north american free trade agreement
+not for profit
+notional value
+novation
+null hypothesis
+offset
+old age, survivors, and disability insurance
+oligopoly
+onerous contract
+online banking
+open market operations
+operating income
+operating leverage
+operating margin
+operations management
+opportunity cost
+option
+organization of the petroleum exporting countries
+organizational behavior
+organizational structure
+original equipment manufacturer
+original issue discount
+out of the money
+outsourcing
+over-the-counter
+over-the-counter market
+overdraft
+overhead
+overnight index swap
+p-value
+partnership
+penny stocks trade
+per capita gdp
+perfect competition
+phillips curve
+ponzi scheme: definition, examples, and origins
+porter's 5 forces
+positive correlation
+pre-market
+preference shares
+preferred stock
+present value
+price-to-earnings ratio
+price/earnings-to-growth
+pro rata
+producer price index
+profit
+profit and loss statement
+promissory note
+prospectus
+public limited company
+put option
+q ratio
+quadruple witching
+qualified dividend
+qualified institutional buyer
+qualified institutional placement
+qualified longevity annuity contract
+qualified opinion
+qualified retirement plan
+qualified terminable interest property
+qualitative analysis
+quality control
+quality management
+quality of earnings
+quantitative analysis
+quantitative easing
+quantitative trading
+quantity demanded
+quarter
+quarter on quarter
+quasi contract
+quick assets
+quick ratio
+quintiles
+quota
+r-squared
+racketeering
+rate of return
+rational choice theory
+real estate
+real estate investment trust
+real gross domestic product
+receivables turnover ratio
+registered investment advisor
+regression
+relative strength index
+renewable resource
+repurchase agreement
+requests for proposal
+required minimum distribution
+retained earnings
+return on assets
+return on equity
+return on invested capital
+return on investment
+roth 401
+roth ira
+rule of 72
+russell 2000 index
+s&p 500 index
+sarbanes-oxley
+securities and exchange commission
+security
+series 63
+series 7
+sharpe ratio
+short selling
+social media
+social responsibility
+solvency ratio
+spread
+standard deviation
+stochastic oscillator
+stock
+stock keeping unit
+stock market
+stop-limit order
+straddle
+strength, weakness, opportunity, and threat
+subsidiary
+supply chain
+sustainability
+systematic sampling
+t-test
+tariff
+technical analysis
+tenancy in common
+term life insurance
+terminal value
+the kyoto protocol
+third world
+total expense ratio
+total quality management
+total shareholder return
+total-debt-to-total-assets
+trade deficit
+trailing 12 months
+tranches
+transaction
+treasury bills
+treasury inflation-protected security
+triple bottom line
+troubled asset relief program
+trust
+trust fund
+trustee
+tsa precheck
+turnover
+u.s. dollar index
+u.s. savings bonds
+underlying asset
+underwriter
+underwriting
+unearned income
+unemployment
+unemployment rate
+unicorn
+unified managed account
+uniform distribution
+uniform gifts to minors ac
+uniform transfers to minors act
+unilateral contract
+unit investment trust
+united nations
+universal life insurance
+unlevered beta
+unlevered free cash flow
+unlimited liability
+unsecured loan
+upside
+utilities sector
+utility
+valuation
+value added
+value at risk
+value chain
+value investing
+value proposition
+value-added tax
+variability
+variable annuity
+variable cost
+variance
+vega
+velocity of money
+venture capital
+venture capitalist
+vertical analysis
+vertical integration
+vesting
+visual basic for applications
+volatility
+volcker rule
+volume weighted average price
+voluntary employees beneficiary association plan
+w-2 form
+w-4 form
+w-8 form
+waiver of subrogation
+wall street
+war bond
+warrant
+wash sale
+wash-sale rule
+wealth management
+wearable technology
+weighted average
+weighted average cost of capital
+white paper
+white-collar crime
+wholesale price index
+wire fraud
+wire transfers
+withholding allowance
+withholding tax
+working capital
+works-in-progress
+world trade organization
+worldcom
+x-efficiency
+x-mark signature
+xbrl
+xenocurrency
+xetra
+yacht insurance
+yale school of management
+yankee bond
+yankee market
+year to date
+year's maximum pensionable earnings
+year-end bonus
+year-over-year
+yearly rate of return method
+yearly renewable term
+yield
+yield basis
+yield curve
+yield curve risk
+yield maintenance
+yield on cost
+yield on earning assets
+yield spread
+yield to call
+yield to maturity
+yield to worst
+yield variance
+york antwerp rules
+yuppie
+z-score
+z-test
+zacks investment research
+zcash
+zero balance account
+zero cost collar
+zero coupon inflation swap
+zero coupon swap
+zero-based budgeting
+zero-beta portfolio
+zero-bound
+zero-coupon bond
+zero-lot-line house
+zero-one integer programming
+zero-rated goods
+zero-sum game
+zero-volatility spread
+zeta model
+zig zag indicator
+zk-snark
+zombies
+zoning
+zoning ordinance
+zzzz best

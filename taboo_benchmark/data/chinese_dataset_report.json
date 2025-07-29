@@ -1,0 +1,88 @@
+{
+  "dataset_info": {
+    "total_words": 100,
+    "creation_date": "2025-07-17 14:17:07",
+    "source": "OpenHowNet",
+    "language": "Chinese",
+    "pos_distribution": {
+      "noun": 25,
+      "verb": 25,
+      "adj": 25,
+      "adv": 25
+    },
+    "avg_taboo_count": 5.0,
+    "avg_sense_count": 2.26
+  },
+  "sample_data": [
+    {
+      "target": "分析",
+      "part_of_speech": "verb",
+      "taboo": [
+        "东西",
+        "事物",
+        "物品",
+        "概念",
+        "内容"
+      ],
+      "category": "chinese_general",
+      "sense_count": 9,
+      "first_definition": "{analyze|分析}"
+    },
+    {
+      "target": "谷氨酸盐",
+      "part_of_speech": "noun",
+      "taboo": [
+        "化学",
+        "东西",
+        "事物",
+        "物品",
+        "概念"
+      ],
+      "category": "chinese_general",
+      "sense_count": 1,
+      "first_definition": "{chemical|化学物}"
+    },
+    {
+      "target": "盗窃店铺",
+      "part_of_speech": "verb",
+      "taboo": [
+        "场所",
+        "商业",
+        "东西",
+        "事物",
+        "物品"
+      ],
+      "category": "chinese_general",
+      "sense_count": 1,
+      "first_definition": "{steal|偷:source={InstitutePlace|场所:domain={commerce|商业},{buy|买:location={~}},{sell|卖:agent={~}}}}"
+    },
+    {
+      "target": "当然",
+      "part_of_speech": "adv",
+      "taboo": [
+        "功能",
+        "东西",
+        "事物",
+        "物品",
+        "概念"
+      ],
+      "category": "chinese_general",
+      "sense_count": 6,
+      "first_definition": "{FuncWord|功能词:comment={?}}"
+    },
+    {
+      "target": "灰色",
+      "part_of_speech": "adj",
+      "taboo": [
+        "悲观",
+        "东西",
+        "事物",
+        "物品",
+        "概念"
+      ],
+      "category": "chinese_general",
+      "sense_count": 10,
+      "first_definition": "{dark|暗}"
+    }
+  ]
+}

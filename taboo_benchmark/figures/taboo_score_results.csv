@@ -1,0 +1,5 @@
+Model,Hint_Succ,Guess_Succ,Avg_Turns,TabooScore
+Claude-Sonnet-4,95.9,92.0,2.21,91.2275
+Gemini-2.5-Pro,96.7,91.1,2.28,90.975
+DeepSeek-Chat-V3,89.4,89.4,2.46,86.61000000000001
+GPT-4o,80.5,90.0,2.33,83.47250000000001

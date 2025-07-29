@@ -1,0 +1,2715 @@
+[
+  {
+    "target": "behaviorism",
+    "part_of_speech": "noun",
+    "taboo": [
+      "approach",
+      "behavior",
+      "emphasizes",
+      "measurable",
+      "observable"
+    ],
+    "category": "philosophy",
+    "senses": [
+      {
+        "name": "behaviorism.n.01",
+        "pos": "n",
+        "definition": "an approach to psychology that emphasizes observable measurable behavior",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 1.85,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "carcharhinus",
+    "part_of_speech": "noun",
+    "taboo": [
+      "genus",
+      "fish",
+      "type",
+      "carcharhinidae",
+      "genuscarcharhinus"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "carcharhinus.n.01",
+        "pos": "n",
+        "definition": "type genus of the Carcharhinidae",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "aphrodisiac",
+    "part_of_speech": "noun",
+    "taboo": [
+      "desire",
+      "sexual",
+      "agent",
+      "drug",
+      "excitant"
+    ],
+    "category": "chemistry",
+    "senses": [
+      {
+        "name": "aphrodisiac.n.01",
+        "pos": "n",
+        "definition": "a drug or other agent that stimulates sexual desire",
+        "examples": []
+      },
+      {
+        "name": "aphrodisiac.a.01",
+        "pos": "a",
+        "definition": "exciting sexual desire",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": 3.19,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "futures",
+    "part_of_speech": "noun",
+    "taboo": [
+      "future",
+      "manana",
+      "kingdom",
+      "come",
+      "futurity"
+    ],
+    "category": "finance",
+    "senses": [
+      {
+        "name": "future.n.01",
+        "pos": "n",
+        "definition": "the time yet to come",
+        "examples": []
+      },
+      {
+        "name": "future.n.02",
+        "pos": "n",
+        "definition": "a verb tense that expresses actions or states in the future",
+        "examples": []
+      },
+      {
+        "name": "future.n.03",
+        "pos": "n",
+        "definition": "bulk commodities bought or sold at an agreed price for delivery at a specified future date",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "stylus",
+    "part_of_speech": "noun",
+    "taboo": [
+      "device",
+      "needle",
+      "player",
+      "record",
+      "pointed"
+    ],
+    "category": "cs",
+    "senses": [
+      {
+        "name": "stylus.n.01",
+        "pos": "n",
+        "definition": "a sharp pointed device attached to the cartridge of a record player",
+        "examples": []
+      },
+      {
+        "name": "stylus.n.02",
+        "pos": "n",
+        "definition": "a pointed tool for writing or drawing or engraving",
+        "examples": [
+          "he drew the design on the stencil with a steel stylus"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": 4.42,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "strength",
+    "part_of_speech": "noun",
+    "taboo": [
+      "muscle",
+      "sapped",
+      "strong",
+      "brawn",
+      "fatigue"
+    ],
+    "category": "finance",
+    "senses": [
+      {
+        "name": "strength.n.01",
+        "pos": "n",
+        "definition": "the property of being physically or mentally strong",
+        "examples": [
+          "fatigue sapped his strength"
+        ]
+      },
+      {
+        "name": "military_capability.n.01",
+        "pos": "n",
+        "definition": "capability in terms of personnel and materiel that affect the capacity to fight a war",
+        "examples": [
+          "we faced an army of great strength",
+          "politicians have neglected our military posture"
+        ]
+      },
+      {
+        "name": "force.n.03",
+        "pos": "n",
+        "definition": "physical energy or intensity",
+        "examples": [
+          "he hit with all the force he could muster",
+          "it was destroyed by the strength of the gale",
+          "a government has not the vitality and forcefulness of a living man"
+        ]
+      },
+      {
+        "name": "forte.n.01",
+        "pos": "n",
+        "definition": "an asset of special worth or utility",
+        "examples": [
+          "cooking is his forte"
+        ]
+      },
+      {
+        "name": "persuasiveness.n.01",
+        "pos": "n",
+        "definition": "the power to induce the taking of a course of action or the embracing of a point of view by means of argument or entreaty",
+        "examples": [
+          "the strength of his argument settled the matter"
+        ]
+      },
+      {
+        "name": "intensity.n.01",
+        "pos": "n",
+        "definition": "the amount of energy transmitted (as by acoustic or electromagnetic radiation)",
+        "examples": [
+          "he adjusted the intensity of the sound",
+          "they measured the station's signal strength"
+        ]
+      },
+      {
+        "name": "potency.n.02",
+        "pos": "n",
+        "definition": "capacity to produce strong physiological or chemical effects",
+        "examples": [
+          "the toxin's potency",
+          "the strength of the drinks"
+        ]
+      },
+      {
+        "name": "strength.n.08",
+        "pos": "n",
+        "definition": "the condition of financial success",
+        "examples": [
+          "the strength of the company's stock in recent weeks"
+        ]
+      },
+      {
+        "name": "lastingness.n.01",
+        "pos": "n",
+        "definition": "permanence by virtue of the power to resist stress or force",
+        "examples": [
+          "they advertised the durability of their products"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 9,
+      "concreteness_score": 2.96,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "authenticity",
+    "part_of_speech": "noun",
+    "taboo": [
+      "real",
+      "legitimacy",
+      "undisputed",
+      "credibility",
+      "genuineness"
+    ],
+    "category": "philosophy",
+    "senses": [
+      {
+        "name": "authenticity.n.01",
+        "pos": "n",
+        "definition": "undisputed credibility",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 1.74,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "liquidity",
+    "part_of_speech": "noun",
+    "taboo": [
+      "liquid",
+      "little",
+      "state",
+      "disperse",
+      "exhibits"
+    ],
+    "category": "finance",
+    "senses": [
+      {
+        "name": "liquid.n.02",
+        "pos": "n",
+        "definition": "the state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility",
+        "examples": []
+      },
+      {
+        "name": "fluidity.n.01",
+        "pos": "n",
+        "definition": "the property of flowing easily",
+        "examples": [
+          "adding lead makes the alloy easier to cast because the melting point is reduced and the fluidity is increased",
+          "they believe that fluidity increases as the water gets warmer"
+        ]
+      },
+      {
+        "name": "liquidity.n.03",
+        "pos": "n",
+        "definition": "being in cash or easily convertible to cash; debt paying ability",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": 2.64,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "wasteland",
+    "part_of_speech": "noun",
+    "taboo": [
+      "africa",
+      "barren",
+      "barrens",
+      "central",
+      "heath"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "barren.n.01",
+        "pos": "n",
+        "definition": "an uninhabited wilderness that is worthless for cultivation",
+        "examples": [
+          "the barrens of central Africa",
+          "the trackless wastes of the desert"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 4.0,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "bevy",
+    "part_of_speech": "noun",
+    "taboo": [
+      "attire",
+      "people",
+      "bathing",
+      "large",
+      "young"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "bevy.n.01",
+        "pos": "n",
+        "definition": "a large gathering of people of a particular type",
+        "examples": [
+          "he was surrounded by a bevy of beauties in bathing attire",
+          "a bevy of young beach boys swarmed around him"
+        ]
+      },
+      {
+        "name": "bevy.n.02",
+        "pos": "n",
+        "definition": "a flock of birds (especially when gathered close together on the ground)",
+        "examples": [
+          "we were visited at breakfast by a bevy of excited ducks"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "debenture",
+    "part_of_speech": "noun",
+    "taboo": [
+      "future",
+      "obtain",
+      "ability",
+      "based",
+      "goods"
+    ],
+    "category": "finance",
+    "senses": [
+      {
+        "name": "unsecured_bond.n.01",
+        "pos": "n",
+        "definition": "the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future",
+        "examples": []
+      },
+      {
+        "name": "debenture.n.02",
+        "pos": "n",
+        "definition": "a certificate or voucher acknowledging a debt",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "substance",
+    "part_of_speech": "noun",
+    "taboo": [
+      "center",
+      "centre",
+      "kernel",
+      "marrow",
+      "matter"
+    ],
+    "category": "philosophy",
+    "senses": [
+      {
+        "name": "substance.n.01",
+        "pos": "n",
+        "definition": "the real physical matter of which a person or thing consists",
+        "examples": [
+          "DNA is the substance of our genes"
+        ]
+      },
+      {
+        "name": "kernel.n.03",
+        "pos": "n",
+        "definition": "the choicest or most essential or most vital part of some idea or experience",
+        "examples": [
+          "the gist of the prosecutor's argument",
+          "the heart and soul of the Republican Party",
+          "the nub of the story"
+        ]
+      },
+      {
+        "name": "meaning.n.02",
+        "pos": "n",
+        "definition": "the idea that is intended",
+        "examples": [
+          "What is the meaning of this proverb?"
+        ]
+      },
+      {
+        "name": "substance.n.04",
+        "pos": "n",
+        "definition": "material of a particular kind or constitution",
+        "examples": [
+          "the immune response recognizes invading substances"
+        ]
+      },
+      {
+        "name": "means.n.03",
+        "pos": "n",
+        "definition": "considerable capital (wealth or income)",
+        "examples": [
+          "he is a man of means"
+        ]
+      },
+      {
+        "name": "message.n.02",
+        "pos": "n",
+        "definition": "what a communication that is about something is about",
+        "examples": []
+      },
+      {
+        "name": "substance.n.07",
+        "pos": "n",
+        "definition": "a particular kind or species of matter with uniform properties",
+        "examples": [
+          "shigella is one of the most toxic substances known to man"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 7,
+      "concreteness_score": 3.44,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "architecture",
+    "part_of_speech": "noun",
+    "taboo": [
+      "edifice",
+      "product",
+      "building",
+      "work",
+      "architectural"
+    ],
+    "category": "philosophy",
+    "senses": [
+      {
+        "name": "architecture.n.01",
+        "pos": "n",
+        "definition": "an architectural product or work",
+        "examples": []
+      },
+      {
+        "name": "architecture.n.02",
+        "pos": "n",
+        "definition": "the discipline dealing with the principles of design and construction and ornamentation of fine buildings",
+        "examples": [
+          "architecture and eloquence are mixed arts whose end is sometimes beauty and sometimes use"
+        ]
+      },
+      {
+        "name": "architecture.n.03",
+        "pos": "n",
+        "definition": "the profession of designing buildings and environments with consideration for their esthetic effect",
+        "examples": []
+      },
+      {
+        "name": "computer_architecture.n.02",
+        "pos": "n",
+        "definition": "(computer science) the structure and organization of a computer's hardware or system software",
+        "examples": [
+          "the architecture of a computer's system software"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "concreteness_score": 3.59,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "perfectionism",
+    "part_of_speech": "noun",
+    "taboo": [
+      "seemed",
+      "perfect",
+      "anything",
+      "feel",
+      "less"
+    ],
+    "category": "philosophy",
+    "senses": [
+      {
+        "name": "perfectionism.n.01",
+        "pos": "n",
+        "definition": "a disposition to feel that anything less than perfect is unacceptable",
+        "examples": [
+          "his perfectionism seemed excessive to his students"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 2.1,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "virus",
+    "part_of_speech": "noun",
+    "taboo": [
+      "living",
+      "vector",
+      "agent",
+      "cells",
+      "hosts"
+    ],
+    "category": "cs",
+    "senses": [
+      {
+        "name": "virus.n.01",
+        "pos": "n",
+        "definition": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein",
+        "examples": []
+      },
+      {
+        "name": "virus.n.02",
+        "pos": "n",
+        "definition": "a harmful or corrupting agency",
+        "examples": [
+          "bigotry is a virus that must not be allowed to spread",
+          "the virus of jealousy is latent in everyone"
+        ]
+      },
+      {
+        "name": "virus.n.03",
+        "pos": "n",
+        "definition": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer",
+        "examples": [
+          "a true virus cannot spread to another computer without human assistance"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": 3.48,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "psittacidae",
+    "part_of_speech": "noun",
+    "taboo": [
+      "family",
+      "order",
+      "bird",
+      "coextensive",
+      "psittaciformes"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "psittacidae.n.01",
+        "pos": "n",
+        "definition": "coextensive with the order Psittaciformes",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "unemployment",
+    "part_of_speech": "noun",
+    "taboo": [
+      "health",
+      "social",
+      "economy",
+      "serious",
+      "state"
+    ],
+    "category": "finance",
+    "senses": [
+      {
+        "name": "unemployment.n.01",
+        "pos": "n",
+        "definition": "the state of being unemployed or not having a job",
+        "examples": [
+          "unemployment is a serious social evil",
+          "the rate of unemployment is an indicator of the health of an economy"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 3.11,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "short",
+    "part_of_speech": "noun",
+    "taboo": [
+      "parcel",
+      "field",
+      "piece",
+      "short",
+      "tract"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "short.n.01",
+        "pos": "n",
+        "definition": "the location on a baseball field where the shortstop is stationed",
+        "examples": []
+      },
+      {
+        "name": "short_circuit.n.01",
+        "pos": "n",
+        "definition": "accidental contact between two points in an electric circuit that have a potential difference",
+        "examples": []
+      },
+      {
+        "name": "shortstop.n.02",
+        "pos": "n",
+        "definition": "the fielding position of the player on a baseball team who is stationed between second and third base",
+        "examples": []
+      },
+      {
+        "name": "short-change.v.01",
+        "pos": "v",
+        "definition": "cheat someone by not returning him enough money",
+        "examples": []
+      },
+      {
+        "name": "short-circuit.v.02",
+        "pos": "v",
+        "definition": "create a short circuit in",
+        "examples": []
+      },
+      {
+        "name": "short.a.01",
+        "pos": "a",
+        "definition": "primarily temporal sense; indicating or being or seeming to be limited in duration",
+        "examples": [
+          "a short life",
+          "a short flight",
+          "a short holiday",
+          "a short story",
+          "only a few short months"
+        ]
+      },
+      {
+        "name": "short.a.02",
+        "pos": "a",
+        "definition": "(primarily spatial sense) having little length or lacking in length",
+        "examples": [
+          "short skirts",
+          "short hair",
+          "the board was a foot short",
+          "a short toss"
+        ]
+      },
+      {
+        "name": "short.a.03",
+        "pos": "a",
+        "definition": "low in stature; not tall",
+        "examples": [
+          "he was short and stocky",
+          "short in stature",
+          "a short smokestack",
+          "a little man"
+        ]
+      },
+      {
+        "name": "inadequate.s.02",
+        "pos": "s",
+        "definition": "not sufficient to meet a need",
+        "examples": [
+          "an inadequate income",
+          "a poor salary",
+          "money is short",
+          "on short rations",
+          "food is in short supply",
+          "short on experience"
+        ]
+      },
+      {
+        "name": "unretentive.a.01",
+        "pos": "a",
+        "definition": "(of memory) deficient in retentiveness or range",
+        "examples": [
+          "a short memory"
+        ]
+      },
+      {
+        "name": "short.a.06",
+        "pos": "a",
+        "definition": "not holding securities or commodities that one sells in expectation of a fall in prices",
+        "examples": [
+          "a short sale",
+          "short in cotton"
+        ]
+      },
+      {
+        "name": "short.a.07",
+        "pos": "a",
+        "definition": "of speech sounds or syllables of relatively short duration",
+        "examples": [
+          "the English vowel sounds in `pat', `pet', `pit', `pot', putt' are short"
+        ]
+      },
+      {
+        "name": "light.s.18",
+        "pos": "s",
+        "definition": "less than the correct or legal or full amount often deliberately so",
+        "examples": [
+          "a light pound",
+          "a scant cup of sugar",
+          "regularly gives short weight"
+        ]
+      },
+      {
+        "name": "short.s.09",
+        "pos": "s",
+        "definition": "lacking foresight or scope",
+        "examples": [
+          "a short view of the problem",
+          "shortsighted policies",
+          "shortsighted critics derided the plan",
+          "myopic thinking"
+        ]
+      },
+      {
+        "name": "short.s.10",
+        "pos": "s",
+        "definition": "tending to crumble or break into flakes due to a large amount of shortening",
+        "examples": [
+          "shortbread is a short crumbly cookie",
+          "a short flaky pie crust"
+        ]
+      },
+      {
+        "name": "brusque.s.01",
+        "pos": "s",
+        "definition": "marked by rude or peremptory shortness",
+        "examples": [
+          "try to cultivate a less brusque manner",
+          "a curt reply",
+          "the salesgirl was very short with him"
+        ]
+      },
+      {
+        "name": "abruptly.r.01",
+        "pos": "r",
+        "definition": "quickly and without warning",
+        "examples": [
+          "he stopped suddenly"
+        ]
+      },
+      {
+        "name": "short.r.02",
+        "pos": "r",
+        "definition": "without possessing something at the time it is contractually sold",
+        "examples": [
+          "he made his fortune by selling short just before the crash"
+        ]
+      },
+      {
+        "name": "short.r.03",
+        "pos": "r",
+        "definition": "clean across",
+        "examples": [
+          "the car's axle snapped short"
+        ]
+      },
+      {
+        "name": "short.r.04",
+        "pos": "r",
+        "definition": "at some point or distance before a goal is reached",
+        "examples": [
+          "he fell short of our expectations"
+        ]
+      },
+      {
+        "name": "short.r.05",
+        "pos": "r",
+        "definition": "so as to interrupt",
+        "examples": [
+          "She took him up short before he could continue"
+        ]
+      },
+      {
+        "name": "short.r.06",
+        "pos": "r",
+        "definition": "at a disadvantage",
+        "examples": [
+          "I was caught short"
+        ]
+      },
+      {
+        "name": "curtly.r.01",
+        "pos": "r",
+        "definition": "in a curt, abrupt and discourteous manner",
+        "examples": [
+          "he told me curtly to get on with it",
+          "he talked short with everyone",
+          "he said shortly that he didn't like it"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 23,
+      "concreteness_score": 3.61,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "necrosis",
+    "part_of_speech": "noun",
+    "taboo": [
+      "living",
+      "supply",
+      "blood",
+      "cells",
+      "death"
+    ],
+    "category": "chemistry",
+    "senses": [
+      {
+        "name": "necrosis.n.01",
+        "pos": "n",
+        "definition": "the localized death of living cells (as from infection or the interruption of blood supply)",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "parentage",
+    "part_of_speech": "noun",
+    "taboo": [
+      "origin",
+      "parent",
+      "stemma",
+      "birth",
+      "blood"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "parenthood.n.01",
+        "pos": "n",
+        "definition": "the state of being a parent",
+        "examples": [
+          "to everyone's surprise, parenthood reformed the man"
+        ]
+      },
+      {
+        "name": "parentage.n.02",
+        "pos": "n",
+        "definition": "the kinship relation of an offspring to the parents",
+        "examples": []
+      },
+      {
+        "name": "lineage.n.01",
+        "pos": "n",
+        "definition": "the descendants of one individual",
+        "examples": [
+          "his entire lineage has been warriors"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": 2.87,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "biological",
+    "part_of_speech": "adj",
+    "taboo": [
+      "living",
+      "things",
+      "biology",
+      "biologic",
+      "life"
+    ],
+    "category": "philosophy",
+    "senses": [
+      {
+        "name": "biological.a.01",
+        "pos": "a",
+        "definition": "pertaining to biology or to life and living things",
+        "examples": []
+      },
+      {
+        "name": "biological.a.02",
+        "pos": "a",
+        "definition": "of parents and children; related by blood",
+        "examples": [
+          "biological child"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": 3.11,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "scandent",
+    "part_of_speech": "adj",
+    "taboo": [
+      "nature",
+      "plants",
+      "climb",
+      "creeping",
+      "tendency"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "scandent.s.01",
+        "pos": "s",
+        "definition": "used especially of plants; having a tendency to climb",
+        "examples": [
+          "plants of a creeping or scandent nature"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "immutable",
+    "part_of_speech": "adj",
+    "taboo": [
+      "change",
+      "nature",
+      "mutable",
+      "quality",
+      "subject"
+    ],
+    "category": "cs",
+    "senses": [
+      {
+        "name": "immutable.a.01",
+        "pos": "a",
+        "definition": "not subject or susceptible to change or variation in form or quality or nature",
+        "examples": [
+          "the view of that time was that all species were immutable, created by God"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 1.5,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "epideictical",
+    "part_of_speech": "adj",
+    "taboo": [
+      "display",
+      "designed",
+      "orations",
+      "epideictic",
+      "rhetorical"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "epideictic.s.01",
+        "pos": "s",
+        "definition": "designed primarily for rhetorical display",
+        "examples": [
+          "epideictic orations"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "friendless",
+    "part_of_speech": "adj",
+    "taboo": [
+      "outcast",
+      "society",
+      "excluded",
+      "quality",
+      "property"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "friendless.s.01",
+        "pos": "s",
+        "definition": "excluded from a society",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 2.3,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "trinuclear",
+    "part_of_speech": "adj",
+    "taboo": [
+      "nuclei",
+      "binucleate",
+      "mononuclear",
+      "trinucleate",
+      "trinucleated"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "trinucleate.a.01",
+        "pos": "a",
+        "definition": "having three nuclei",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "many",
+    "part_of_speech": "adj",
+    "taboo": [
+      "number",
+      "count",
+      "large",
+      "nouns",
+      "preceded"
+    ],
+    "category": "philosophy",
+    "senses": [
+      {
+        "name": "many.a.01",
+        "pos": "a",
+        "definition": "a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number",
+        "examples": [
+          "many temptations",
+          "the temptations are many",
+          "a good many",
+          "a great many",
+          "many directions",
+          "take as many apples as you like",
+          "too many clouds to see",
+          "never saw so many people"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 2.37,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "environmental",
+    "part_of_speech": "adj",
+    "taboo": [
+      "factors",
+      "external",
+      "relating",
+      "conditions",
+      "surroundings"
+    ],
+    "category": "finance",
+    "senses": [
+      {
+        "name": "environmental.a.01",
+        "pos": "a",
+        "definition": "of or relating to the external conditions or surroundings",
+        "examples": [
+          "environmental factors"
+        ]
+      },
+      {
+        "name": "environmental.a.02",
+        "pos": "a",
+        "definition": "concerned with the ecological effects of altering the environment",
+        "examples": [
+          "environmental pollution"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": 2.63,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "exilic",
+    "part_of_speech": "adj",
+    "taboo": [
+      "period",
+      "exile",
+      "known",
+      "jews",
+      "relating"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "exilic.a.01",
+        "pos": "a",
+        "definition": "of or relating to a period of exile (especially the exile of the Jews known as the Babylonian Captivity)",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "cubiform",
+    "part_of_speech": "adj",
+    "taboo": [
+      "cuboid",
+      "shaped",
+      "cubical",
+      "cube",
+      "cubelike"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "cubelike.s.01",
+        "pos": "s",
+        "definition": "shaped like a cube",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "quaggy",
+    "part_of_speech": "adj",
+    "taboo": [
+      "marshy",
+      "sloppy",
+      "swampy",
+      "watery",
+      "boggy"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "boggy.s.01",
+        "pos": "s",
+        "definition": "(of soil) soft and watery",
+        "examples": [
+          "the ground was boggy under foot",
+          "a marshy coastline",
+          "miry roads",
+          "wet mucky lowland",
+          "muddy barnyard",
+          "quaggy terrain",
+          "the sloughy edge of the pond",
+          "swampy bayous"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "livable",
+    "part_of_speech": "adj",
+    "taboo": [
+      "live",
+      "liveable",
+      "suitable",
+      "unlivable",
+      "conditions"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "livable.a.01",
+        "pos": "a",
+        "definition": "fit or suitable to live in or with",
+        "examples": [
+          "livable conditions"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 2.48,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "coital",
+    "part_of_speech": "adj",
+    "taboo": [
+      "coitus",
+      "relating",
+      "copulation",
+      "copulatory",
+      "quality"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "coital.a.01",
+        "pos": "a",
+        "definition": "of or relating to coitus or copulation",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 2.91,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "convincible",
+    "part_of_speech": "adj",
+    "taboo": [
+      "suasible",
+      "persuasion",
+      "persuadable",
+      "persuasible",
+      "susceptible"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "convincible.s.01",
+        "pos": "s",
+        "definition": "being susceptible to persuasion",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 1.78,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "biomedical",
+    "part_of_speech": "adj",
+    "taboo": [
+      "science",
+      "clinical",
+      "medicine",
+      "relating",
+      "research"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "biomedical.a.01",
+        "pos": "a",
+        "definition": "relating to the activities and applications of science to clinical medicine",
+        "examples": [
+          "biomedical research laboratory"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 2.59,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "allometric",
+    "part_of_speech": "adj",
+    "taboo": [
+      "marked",
+      "relating",
+      "allometry",
+      "quality",
+      "property"
+    ],
+    "category": "chemistry",
+    "senses": [
+      {
+        "name": "allometric.a.01",
+        "pos": "a",
+        "definition": "relating to or marked by allometry",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "ungovernable",
+    "part_of_speech": "adj",
+    "taboo": [
+      "little",
+      "unruly",
+      "finds",
+      "parents",
+      "persons"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "indocile.s.01",
+        "pos": "s",
+        "definition": "of persons",
+        "examples": [
+          "the little boy's parents think he is spirited, but his teacher finds him unruly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 1.8,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "nomothetic",
+    "part_of_speech": "adj",
+    "taboo": [
+      "search",
+      "abstract",
+      "relating",
+      "involving",
+      "universal"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "nomothetic.a.01",
+        "pos": "a",
+        "definition": "relating to or involving the search for abstract universal principles",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "combinatory",
+    "part_of_speech": "adj",
+    "taboo": [
+      "marked",
+      "relating",
+      "resulting",
+      "combinable",
+      "combination"
+    ],
+    "category": "philosophy",
+    "senses": [
+      {
+        "name": "combinative.a.01",
+        "pos": "a",
+        "definition": "marked by or relating to or resulting from combination",
+        "examples": []
+      },
+      {
+        "name": "combinative.s.02",
+        "pos": "s",
+        "definition": "relating to or involving combinations",
+        "examples": []
+      },
+      {
+        "name": "combinable.s.01",
+        "pos": "s",
+        "definition": "able to or tending to combine",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "stomatal",
+    "part_of_speech": "adj",
+    "taboo": [
+      "nature",
+      "mouth",
+      "opening",
+      "relating",
+      "mouthlike"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "stomatal.a.01",
+        "pos": "a",
+        "definition": "relating to or of the nature of or having a mouth or mouthlike opening",
+        "examples": []
+      },
+      {
+        "name": "stomatal.a.02",
+        "pos": "a",
+        "definition": "relating to or constituting plant stomata",
+        "examples": [
+          "stomatal openings"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "dishearten",
+    "part_of_speech": "verb",
+    "taboo": [
+      "putoff",
+      "hearten",
+      "take",
+      "put",
+      "discourage"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "dishearten.v.01",
+        "pos": "v",
+        "definition": "take away the enthusiasm of",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": 1.68,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "depend",
+    "part_of_speech": "verb",
+    "taboo": [
+      "elided",
+      "reckon",
+      "count",
+      "depends",
+      "hang"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "depend.v.01",
+        "pos": "v",
+        "definition": "be contingent upon (something that is elided)",
+        "examples": [
+          "That depends"
+        ]
+      },
+      {
+        "name": "count.v.08",
+        "pos": "v",
+        "definition": "have faith or confidence in",
+        "examples": [
+          "you can count on me to help you any time",
+          "Look to your friends for support",
+          "You can bet on that!",
+          "Depend on your family in times of crisis"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": 1.89,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "calumniate",
+    "part_of_speech": "verb",
+    "taboo": [
+      "accuse",
+      "charge",
+      "defame",
+      "intent",
+      "malign"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "defame.v.01",
+        "pos": "v",
+        "definition": "charge falsely or with malicious intent; attack the good name and reputation of someone",
+        "examples": [
+          "The journalists have defamed me!",
+          "The article in the paper sullied my reputation"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "promote",
+    "part_of_speech": "verb",
+    "taboo": [
+      "foster",
+      "growth",
+      "advance",
+      "boost",
+      "connive"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "promote.v.01",
+        "pos": "v",
+        "definition": "contribute to the progress or growth of",
+        "examples": [
+          "I am promoting the use of computers in the classroom"
+        ]
+      },
+      {
+        "name": "promote.v.02",
+        "pos": "v",
+        "definition": "give a promotion to or assign to a higher position",
+        "examples": [
+          "John was kicked upstairs when a replacement was hired",
+          "Women tend not to advance in the major law firms",
+          "I got promoted after many years of hard work"
+        ]
+      },
+      {
+        "name": "advertise.v.02",
+        "pos": "v",
+        "definition": "make publicity for; try to sell (a product)",
+        "examples": [
+          "The salesman is aggressively pushing the new computer model",
+          "The company is heavily advertizing their new laptops"
+        ]
+      },
+      {
+        "name": "promote.v.04",
+        "pos": "v",
+        "definition": "be changed for a superior chess or checker piece",
+        "examples": []
+      },
+      {
+        "name": "promote.v.05",
+        "pos": "v",
+        "definition": "change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 5,
+      "concreteness_score": 2.26,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "blinded",
+    "part_of_speech": "verb",
+    "taboo": [
+      "dazzle",
+      "render",
+      "unable",
+      "blind",
+      "bedazzle"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "blind.v.01",
+        "pos": "v",
+        "definition": "render unable to see",
+        "examples": []
+      },
+      {
+        "name": "blind.v.02",
+        "pos": "v",
+        "definition": "make blind by putting the eyes out",
+        "examples": [
+          "The criminals were punished and blinded"
+        ]
+      },
+      {
+        "name": "blind.v.03",
+        "pos": "v",
+        "definition": "make dim by comparison or conceal",
+        "examples": []
+      },
+      {
+        "name": "blinded.s.01",
+        "pos": "s",
+        "definition": "deprived of sight",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "concreteness_score": 3.36,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "lignify",
+    "part_of_speech": "verb",
+    "taboo": [
+      "become",
+      "cause",
+      "convert",
+      "woody",
+      "wood"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "lignify.v.01",
+        "pos": "v",
+        "definition": "convert into wood or cause to become woody",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "inoculate",
+    "part_of_speech": "verb",
+    "taboo": [
+      "inform",
+      "beliefs",
+      "attitude",
+      "idea",
+      "immunise"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "inoculate.v.01",
+        "pos": "v",
+        "definition": "introduce an idea or attitude into the mind of",
+        "examples": [
+          "My teachers inoculated me with their beliefs"
+        ]
+      },
+      {
+        "name": "inoculate.v.02",
+        "pos": "v",
+        "definition": "introduce a microorganism into",
+        "examples": []
+      },
+      {
+        "name": "immunize.v.02",
+        "pos": "v",
+        "definition": "perform vaccinations or produce immunity in by inoculation",
+        "examples": [
+          "We vaccinate against scarlet fever",
+          "The nurse vaccinated the children in the school"
+        ]
+      },
+      {
+        "name": "inoculate.v.04",
+        "pos": "v",
+        "definition": "insert a bud for propagation",
+        "examples": []
+      },
+      {
+        "name": "inoculate.v.05",
+        "pos": "v",
+        "definition": "impregnate with the virus or germ of a disease in order to render immune",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 5,
+      "concreteness_score": 2.8,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "atomize",
+    "part_of_speech": "verb",
+    "taboo": [
+      "atomise",
+      "perfume",
+      "spray",
+      "nuke",
+      "zap"
+    ],
+    "category": "chemistry",
+    "senses": [
+      {
+        "name": "atomize.v.01",
+        "pos": "v",
+        "definition": "spray very finely",
+        "examples": [
+          "atomize perfume"
+        ]
+      },
+      {
+        "name": "nuke.v.01",
+        "pos": "v",
+        "definition": "strike at with firepower or bombs",
+        "examples": [
+          "zap the enemy"
+        ]
+      },
+      {
+        "name": "atomize.v.03",
+        "pos": "v",
+        "definition": "break up into small particles",
+        "examples": [
+          "the fine powder had been atomized by air"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": 2.24,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "unzipping",
+    "part_of_speech": "verb",
+    "taboo": [
+      "zipper",
+      "unzip",
+      "open",
+      "unfasten",
+      "zip"
+    ],
+    "category": "chemistry",
+    "senses": [
+      {
+        "name": "unzip.v.01",
+        "pos": "v",
+        "definition": "open the zipper of",
+        "examples": [
+          "unzip the bag"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "booting",
+    "part_of_speech": "verb",
+    "taboo": [
+      "reboot",
+      "bring",
+      "boot",
+      "give",
+      "kick"
+    ],
+    "category": "cs",
+    "senses": [
+      {
+        "name": "boot.v.01",
+        "pos": "v",
+        "definition": "kick; give a boot to",
+        "examples": []
+      },
+      {
+        "name": "boot.v.02",
+        "pos": "v",
+        "definition": "cause to load (an operating system) and start the initial processes",
+        "examples": [
+          "boot your computer"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": 2.96,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "backtracking",
+    "part_of_speech": "verb",
+    "taboo": [
+      "course",
+      "double",
+      "hikers",
+      "return",
+      "retrace"
+    ],
+    "category": "cs",
+    "senses": [
+      {
+        "name": "backtrack.v.01",
+        "pos": "v",
+        "definition": "retrace one's course",
+        "examples": [
+          "The hikers got into a storm and had to turn back"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "underwriting",
+    "part_of_speech": "verb",
+    "taboo": [
+      "insure",
+      "cover",
+      "opera",
+      "subvent",
+      "support"
+    ],
+    "category": "finance",
+    "senses": [
+      {
+        "name": "underwrite.v.01",
+        "pos": "v",
+        "definition": "guarantee financial support of",
+        "examples": [
+          "The opera tour was subvented by a bank"
+        ]
+      },
+      {
+        "name": "cover.v.14",
+        "pos": "v",
+        "definition": "protect by insurance",
+        "examples": [
+          "The insurance won't cover this"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": 2.7,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "obtrusively",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "obtrusive",
+      "unobtrusively",
+      "noticeably",
+      "intrusively"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "obtrusively.r.01",
+        "pos": "r",
+        "definition": "in an obtrusive manner",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "permissively",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "permissive",
+      "leniently",
+      "freely",
+      "tolerantly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "permissively.r.01",
+        "pos": "r",
+        "definition": "in a permissive manner",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "nervily",
+    "part_of_speech": "adv",
+    "taboo": [
+      "cheeky",
+      "manner",
+      "brash",
+      "brashly",
+      "cheekily"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "cheekily.r.01",
+        "pos": "r",
+        "definition": "in a brash cheeky manner",
+        "examples": [
+          "brashly, she asked for a rebate"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "past",
+    "part_of_speech": "adv",
+    "taboo": [
+      "given",
+      "point",
+      "pass",
+      "by",
+      "beyond"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "by.r.01",
+        "pos": "r",
+        "definition": "so as to pass a given point",
+        "examples": [
+          "every hour a train goes past"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "chattily",
+    "part_of_speech": "adv",
+    "taboo": [
+      "chatty",
+      "manner",
+      "volubly",
+      "talkatively",
+      "conversationally"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "chattily.r.01",
+        "pos": "r",
+        "definition": "in a chatty manner",
+        "examples": [
+          "`when I was a girl,' she said chattily, `I used to ride a bicycle'"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "forbiddingly",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "menacing",
+      "unpleasant",
+      "threateningly",
+      "intimidatingly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "forbiddingly.r.01",
+        "pos": "r",
+        "definition": "in an unpleasant or menacing manner",
+        "examples": [
+          "it was forbiddingly dark in the corridor"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "sneakingly",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "sneaky",
+      "furtively",
+      "stealthily",
+      "covertly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "sneakingly.r.01",
+        "pos": "r",
+        "definition": "in a sneaky manner",
+        "examples": [
+          "I always felt sneakingly that I wanted to be a concert pianist"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "wickedly",
+    "part_of_speech": "adv",
+    "taboo": [
+      "evilly",
+      "manner",
+      "wicked",
+      "evil",
+      "sinfully"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "wickedly.r.01",
+        "pos": "r",
+        "definition": "in a wicked evil manner",
+        "examples": [
+          "act wickedly",
+          "grin evilly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "tonight",
+    "part_of_speech": "adv",
+    "taboo": [
+      "night",
+      "present",
+      "this",
+      "thisnight",
+      "thisevening"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "tonight.r.01",
+        "pos": "r",
+        "definition": "during the night of the present day",
+        "examples": [
+          "drop by tonight"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "concisely",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "briefly",
+      "concise",
+      "inbrief",
+      "inshort"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "concisely.r.01",
+        "pos": "r",
+        "definition": "in a concise manner; in a few words",
+        "examples": [
+          "the history is summed up concisely in this book",
+          "she replied briefly",
+          "briefly, we have a problem",
+          "to put it shortly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "p.m.",
+    "part_of_speech": "adv",
+    "taboo": [
+      "midnight",
+      "noon",
+      "post",
+      "postmeridiem",
+      "afternoon"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "post_meridiem.r.01",
+        "pos": "r",
+        "definition": "between noon and midnight",
+        "examples": [
+          "let's meet at 8 P.M."
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "insanely",
+    "part_of_speech": "adv",
+    "taboo": [
+      "insane",
+      "manner",
+      "sanely",
+      "crazily",
+      "madly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "insanely.r.01",
+        "pos": "r",
+        "definition": "in an insane manner",
+        "examples": [
+          "she behaved insanely",
+          "he behaves crazily when he is off his medication",
+          "the witch cackled madly",
+          "screaming dementedly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "capably",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "aptly",
+      "capable",
+      "ably",
+      "competent"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "competently.r.01",
+        "pos": "r",
+        "definition": "with competence; in a competent capable manner",
+        "examples": [
+          "they worked competently"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "low",
+    "part_of_speech": "adv",
+    "taboo": [
+      "ground",
+      "position",
+      "down",
+      "beneath",
+      "bottom"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "low.r.01",
+        "pos": "r",
+        "definition": "in a low position; near the ground",
+        "examples": [
+          "the branches hung low"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 16,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "kinda",
+    "part_of_speech": "adv",
+    "taboo": [
+      "extent",
+      "kindof",
+      "rather",
+      "sortof",
+      "great"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "rather.r.02",
+        "pos": "r",
+        "definition": "to some (great or small) extent",
+        "examples": [
+          "it was rather cold",
+          "the party was rather nice",
+          "the knife is rather dull",
+          "I rather regret that I cannot attend",
+          "He's rather good at playing the cello",
+          "he is kind of shy"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "inquiringly",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "inquiring",
+      "enquiringly",
+      "questioningly",
+      "curiously"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "inquiringly.r.01",
+        "pos": "r",
+        "definition": "in an inquiring manner",
+        "examples": [
+          "Tom Swift looked at his cabin mates inquiringly"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "often",
+    "part_of_speech": "adv",
+    "taboo": [
+      "short",
+      "times",
+      "many",
+      "ofttimes",
+      "intervals"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "frequently.r.01",
+        "pos": "r",
+        "definition": "many times at short intervals",
+        "examples": [
+          "we often met over a cup of coffee"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "con",
+    "part_of_speech": "adv",
+    "taboo": [
+      "opinion",
+      "pro",
+      "opposition",
+      "proposition",
+      "against"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "con.r.01",
+        "pos": "r",
+        "definition": "in opposition to a proposition, opinion, etc.",
+        "examples": [
+          "much was written pro and con"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "centennially",
+    "part_of_speech": "adv",
+    "taboo": [
+      "century",
+      "years",
+      "centenary",
+      "hundredth",
+      "anniversary"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "centennially.r.01",
+        "pos": "r",
+        "definition": "every hundred years; once in a century",
+        "examples": [
+          "the birthday of this city is being celebrated centennially"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "unmemorably",
+    "part_of_speech": "adv",
+    "taboo": [
+      "manner",
+      "memorably",
+      "unmemorable",
+      "forgettably",
+      "indistinctly"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "unmemorably.r.01",
+        "pos": "r",
+        "definition": "in an unmemorable manner",
+        "examples": []
+      }
+    ],
+    "metadata": {
+      "sense_count": 1,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "dispensed",
+    "part_of_speech": "verb",
+    "taboo": [
+      "bestow",
+      "parcel",
+      "allot",
+      "dealout",
+      "dishout"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "distribute.v.01",
+        "pos": "v",
+        "definition": "administer or bestow, as in small portions",
+        "examples": [
+          "administer critical remarks to everyone present",
+          "dole out some money",
+          "shell out pocket money for the children",
+          "deal a blow to someone",
+          "the machine dispenses soft drinks"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "bevel",
+    "part_of_speech": "verb",
+    "taboo": [
+      "chamfer",
+      "miter",
+      "shape",
+      "cone",
+      "angle"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "bevel.v.01",
+        "pos": "v",
+        "definition": "cut a bevel on; shape to a bevel",
+        "examples": [
+          "bevel the surface"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "mushroom",
+    "part_of_speech": "verb",
+    "taboo": [
+      "gather",
+      "pluck",
+      "cull",
+      "pick",
+      "mushrooms"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "mushroom.v.01",
+        "pos": "v",
+        "definition": "pick or gather mushrooms",
+        "examples": [
+          "We went mushrooming in the Fall"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 7,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "believing",
+    "part_of_speech": "verb",
+    "taboo": [
+      "accept",
+      "believe",
+      "swear",
+      "trust",
+      "bank"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "believe.v.01",
+        "pos": "v",
+        "definition": "accept as true; take to be true",
+        "examples": [
+          "I believed his report",
+          "We didn't believe his stories from the War",
+          "She believes in spirits"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 6,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "caulk",
+    "part_of_speech": "verb",
+    "taboo": [
+      "calk",
+      "caulking",
+      "seal",
+      "fill",
+      "grout"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "caulk.v.01",
+        "pos": "v",
+        "definition": "seal with caulking",
+        "examples": [
+          "caulk the window"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 2,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "ranking",
+    "part_of_speech": "verb",
+    "taboo": [
+      "others",
+      "place",
+      "come",
+      "position",
+      "rank"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "rank.v.01",
+        "pos": "v",
+        "definition": "take or have a position relative to others",
+        "examples": [
+          "This painting ranks among the best in the Western World"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 5,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "farm",
+    "part_of_speech": "verb",
+    "taboo": [
+      "farmer",
+      "ranch",
+      "work",
+      "cultivate",
+      "agriculture"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "farm.v.01",
+        "pos": "v",
+        "definition": "be a farmer; work as a farmer",
+        "examples": [
+          "My son is farming in California"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 4,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  },
+  {
+    "target": "brooks",
+    "part_of_speech": "verb",
+    "taboo": [
+      "digest",
+      "endure",
+      "permit",
+      "suffer",
+      "abide"
+    ],
+    "category": "general",
+    "senses": [
+      {
+        "name": "digest.v.03",
+        "pos": "v",
+        "definition": "put up with something or somebody unpleasant",
+        "examples": [
+          "I cannot bear his constant criticism",
+          "The new secretary had to endure a lot of unprofessional remarks",
+          "he learned to tolerate the heat",
+          "She stuck out two years in a miserable marriage"
+        ]
+      }
+    ],
+    "metadata": {
+      "sense_count": 3,
+      "concreteness_score": null,
+      "taboo_count": 5
+    }
+  }
+]

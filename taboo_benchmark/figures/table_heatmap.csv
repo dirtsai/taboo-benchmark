@@ -1,0 +1,5 @@
+guesser_model,openai/gpt-4o,google/gemini-2.5-pro,deepseek/deepseek-chat-v3-0324,anthropic/claude-sonnet-4
+anthropic/claude-sonnet-4,82.7,97.3,92.0,96.0
+deepseek/deepseek-chat-v3-0324,78.0,96.7,87.0,95.7
+google/gemini-2.5-pro,83.3,96.0,91.0,94.3
+openai/gpt-4o,78.0,96.7,87.7,97.7

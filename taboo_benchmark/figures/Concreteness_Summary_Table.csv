@@ -1,0 +1,6 @@
+Concreteness Level,Word Count,Mean Success,Median Success,Std Dev,Min Success,Max Success
+1-2,36,0.95,1.0,0.105,0.625,1.0
+2-3,75,0.91,1.0,0.186,0.25,1.0
+3-4,54,0.959,1.0,0.101,0.562,1.0
+4-5,24,0.948,1.0,0.149,0.438,1.0
+Overall,189,0.937,1.0,0.147,0.25,1.0
