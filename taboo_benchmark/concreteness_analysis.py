@@ -102,7 +102,7 @@ def main():
     
     plt.xlabel("Concreteness Score Range", fontsize=14)
     plt.ylabel("Average Success Rate", fontsize=14)
-    plt.ylim(0, 1.2)
+    plt.ylim(0, 1.05)
     
     # 添加1.0参考线
     plt.axhline(y=1.0, color='gray', linestyle='--', alpha=0.7, linewidth=1)
@@ -162,7 +162,7 @@ def main():
     
     plt.xlabel("Concreteness Score (1 = Abstract, 5 = Concrete)", fontsize=14)
     plt.ylabel("Success Rate", fontsize=14)
-    plt.ylim(0, 1.2)
+    plt.ylim(0, 1.05)
     
     # 添加1.0参考线
     plt.axhline(y=1.0, color='gray', linestyle='--', alpha=0.7, linewidth=1)
