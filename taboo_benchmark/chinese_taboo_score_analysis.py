@@ -29,50 +29,36 @@ def load_and_process_chinese_data(csv_path):
     return df
 
 def calculate_chinese_taboo_scores(df):
-    """计算中文实验TabooScore综合得分"""
-    print("计算中文TabooScore...")
+    """计算中文实验TabooScore综合得分 - 使用指定数值"""
+    print("使用指定的TabooScore数值...")
     
-    # 中文实验模型映射
-    model_mapping = {
-        'gpt-4o': 'GPT-4o',
-        'gemini-2.5-flash': 'Gemini-2.5-Flash', 
-        'deepseek-chat-v3-0324': 'DeepSeek-V3',
-        'kimi-k2': 'Kimi-K2'
-    }
-    
-    results = []
-    
-    # 针对每个模型计算整体表现
-    for model in ['gpt-4o', 'gemini-2.5-flash', 'deepseek-chat-v3-0324', 'kimi-k2']:
-        model_name = model_mapping[model]
-        
-        # 计算该模型作为Hinter的成功率
-        hinter_data = df[df['hinter_clean'] == model]
-        hint_success = hinter_data['success'].mean() * 100 if len(hinter_data) > 0 else 0
-        hint_avg_turns = hinter_data[hinter_data['success']]['turns_used'].mean() if len(hinter_data[hinter_data['success']]) > 0 else 5.0
-        
-        # 计算该模型作为Guesser的成功率  
-        guesser_data = df[df['guesser_clean'] == model]
-        guess_success = guesser_data['success'].mean() * 100 if len(guesser_data) > 0 else 0
-        
-        # 处理平均轮次为NaN的情况
-        if np.isnan(hint_avg_turns):
-            hint_avg_turns = 5.0
-        
-        # 计算TabooScore (使用45-40-15权重)
-        # TabooScore = 0.45 * Hint_Succ + 0.40 * Guess_Succ + 0.15 * Efficiency
-        # Efficiency = 100 * (6 - avg_turns) / 5  # 标准化到0-100
-        efficiency = 100 * (6 - hint_avg_turns) / 5
-        taboo_score = 0.45 * hint_success + 0.40 * guess_success + 0.15 * efficiency
-        
-        results.append({
-            'Model': model_name,
-            'Hint_Succ': hint_success,
-            'Guess_Succ': guess_success, 
-            'Avg_Turns': hint_avg_turns,
-            'Efficiency': efficiency,
-            'TabooScore': taboo_score
-        })
+    # 使用用户提供的具体数值
+    results = [
+        {
+            'Model': 'DeepSeek-V3',
+            'Hint_Succ': 30.0,
+            'Guess_Succ': 30.0,
+            'TabooScore': 30.0
+        },
+        {
+            'Model': 'Kimi-K2',
+            'Hint_Succ': 17.5,
+            'Guess_Succ': 27.5,
+            'TabooScore': 22.5
+        },
+        {
+            'Model': 'Gemini-2.5-Flash',
+            'Hint_Succ': 17.5,
+            'Guess_Succ': 22.5,
+            'TabooScore': 20.0
+        },
+        {
+            'Model': 'GPT-4o',
+            'Hint_Succ': 17.5,
+            'Guess_Succ': 17.5,
+            'TabooScore': 17.5
+        }
+    ]
     
     return pd.DataFrame(results)
 
@@ -92,14 +78,45 @@ def main():
         # 2. 计算TabooScore
         scores_df = calculate_chinese_taboo_scores(df)
         
+        # 输出详细表格
+        print("\n" + "="*80)
+        print("中文TabooScore综合评估结果表格")
+        print("="*80)
+        print(f"{'Model':<20} {'Hint_Succ':<12} {'Guess_Succ':<12} {'TabooScore':<12}")
+        print("-"*80)
+        
+        # 按TabooScore从高到低排序显示
+        display_df = scores_df.sort_values('TabooScore', ascending=False)
+        for _, row in display_df.iterrows():
+            print(f"{row['Model']:<20} {row['Hint_Succ']:<12.1f} {row['Guess_Succ']:<12.1f} {row['TabooScore']:<12.1f}")
+        
+        print("-"*80)
+        print("公式: TabooScore = (Hint_Succ + Guess_Succ) / 2")
+        print("="*80)
+        
+        # 生成LaTeX表格格式
+        print("\nLaTeX表格格式:")
+        print("\\begin{tabular}{|l|c|c|c|}")
+        print("\\hline")
+        print("Model & Hint-Succ \\% & Guess-Succ \\% & TabooScore \\\\")
+        print("\\hline")
+        for _, row in display_df.iterrows():
+            hint_bold = "\\textbf{" + f"{row['Hint_Succ']:.1f}" + "}" if row['Hint_Succ'] == display_df['Hint_Succ'].max() else f"{row['Hint_Succ']:.1f}"
+            guess_bold = "\\textbf{" + f"{row['Guess_Succ']:.1f}" + "}" if row['Guess_Succ'] == display_df['Guess_Succ'].max() else f"{row['Guess_Succ']:.1f}"
+            score_bold = "\\textbf{" + f"{row['TabooScore']:.1f}" + "}" if row['TabooScore'] == display_df['TabooScore'].max() else f"{row['TabooScore']:.1f}"
+            anchor_text = " (anchor)" if row['Model'] == 'GPT-4o' else ""
+            print(f"{row['Model']}{anchor_text} & {hint_bold} & {guess_bold} & {score_bold} \\\\")
+        print("\\hline")
+        print("\\end{tabular}")
+        print("\n")
+        
         # 3. 生成图4.27: 中文TabooScore构成堆叠图
         print("生成图4.27: 中文TabooScore构成堆叠图...")
         
-        # 计算各组成部分的贡献
+        # 计算各组成部分的贡献（50-50权重）
         scores_df = scores_df.copy()
-        scores_df['Hint_Contribution'] = scores_df['Hint_Succ'] * 0.45
-        scores_df['Guess_Contribution'] = scores_df['Guess_Succ'] * 0.40
-        scores_df['Efficiency_Contribution'] = scores_df['Efficiency'] * 0.15
+        scores_df['Hint_Contribution'] = scores_df['Hint_Succ'] * 0.50
+        scores_df['Guess_Contribution'] = scores_df['Guess_Succ'] * 0.50
         
         # 按TabooScore排序（从低到高，便于水平条形图显示）
         scores_df = scores_df.sort_values('TabooScore', ascending=True)
@@ -110,19 +127,14 @@ def main():
         models = scores_df['Model']
         hint_contrib = scores_df['Hint_Contribution']
         guess_contrib = scores_df['Guess_Contribution']
-        efficiency_contrib = scores_df['Efficiency_Contribution']
         
         # 使用magma调色板的不同色调
         bars1 = plt.barh(models, hint_contrib, 
-                         label='Hint Success Rate (45%)', 
+                         label='Hint Success Rate (50%)', 
                          color=colors[1], alpha=0.8)
         bars2 = plt.barh(models, guess_contrib, left=hint_contrib,
-                         label='Guess Success Rate (40%)', 
+                         label='Guess Success Rate (50%)', 
                          color=colors[3], alpha=0.8)
-        bars3 = plt.barh(models, efficiency_contrib,
-                         left=hint_contrib + guess_contrib,
-                         label='Efficiency (15%)', 
-                         color=colors[5], alpha=0.8)
         
         # 添加总分数值标签
         for i, (model, total_score) in enumerate(zip(models, scores_df['TabooScore'])):
@@ -134,9 +146,9 @@ def main():
         plt.ylabel('Model', fontsize=14)
         
         # 设置X轴范围
-        plt.xlim(0, max(scores_df['TabooScore']) + 10)
+        plt.xlim(0, max(scores_df['TabooScore']) + 5)
         
-        # 添加图例（放在框外）
+        # 添加图例（放在右侧框外）
         plt.legend(loc='center left', bbox_to_anchor=(1, 0.5), fontsize=11, frameon=True, fancybox=True, shadow=True)
         
         # 美化图表
