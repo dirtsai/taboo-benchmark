@@ -1,7 +1,0 @@
-\beamer@sectionintoc {1}{Introduction \& Background}{3}{0}{1}
-\beamer@sectionintoc {2}{Methodology}{6}{0}{2}
-\beamer@sectionintoc {3}{Preliminary Results}{9}{0}{3}
-\beamer@sectionintoc {4}{Key Findings}{15}{0}{4}
-\beamer@sectionintoc {5}{Discussion \& Analysis}{17}{0}{5}
-\beamer@sectionintoc {6}{Limitations \& Future Work}{18}{0}{6}
-\beamer@sectionintoc {7}{Conclusion}{20}{0}{7}
